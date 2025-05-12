@@ -1,0 +1,72 @@
+.
+├─Tribunal_Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal_pelo Supremo Tribunal
+│    ├─■──Supremo Tribunal_Supremo Tribunal Federal_Tribunal Federal_pelo Supremo Tribunal_pelo Supremo Tribun ── Topic: 20
+│    └─■──Tribunal Federal_Supremo Tribunal Federal_Supremo Tribunal_Supremo_Tribunal ── Topic: 26
+└─Constituição de_documento_um documento_direitos_um documento que
+     ├─Constituição de_direitos_documento_um documento_democracia
+     │    ├─administração_administração pública_moralidade_administração pública Constituição_pública Constituiç
+     │    │    ├─■──moralidade_moral_moralização_moralizar_para moralização ── Topic: 24
+     │    │    └─■──administração_administração pública_administração pública Constituição_pública Constituição_administ ── Topic: 25
+     │    └─Constituição de_direitos_documento_um documento_um documento que
+     │         ├─Constituição de_direitos_documento_um documento_um documento que
+     │         │    ├─Constituição de_democracia_documento_um documento_Constituição um documento
+     │         │    │    ├─■──redemocratização_redemocratização do_redemocratização do Brasil Constituição_redemocratização do Bra ── Topic: 29
+     │         │    │    └─Constituição de_democracia_documento_um documento_Constituição um documento
+     │         │    │         ├─■──histórico_Ulysses_Ulysses Guimarães_marco histórico_um marco histórico ── Topic: 12
+     │         │    │         └─Constituição de_democracia_documento_um documento_Constituição um documento
+     │         │    │              ├─Constituição de_democracia_direitos_documento_um documento
+     │         │    │              │    ├─■──Constituição de_de um_Constituição de um_de um marco_Constituição de um marco ── Topic: 1
+     │         │    │              │    └─■──democracia_documento_um documento_Constituição um documento_um documento que ── Topic: 0
+     │         │    │              └─■──educação_educação Constituição_para educação_educação no_da educação ── Topic: 3
+     │         │    └─igualdade_resolver_não_para resolver_terras
+     │         │         ├─resolver_para resolver_problemas_crises_os problemas
+     │         │         │    ├─■──crises_Constituição adequada para_Constituição adequada_insuficiente para_Constituição atual ── Topic: 34
+     │         │         │    └─■──problemas_crises_os problemas_resolver os problemas_suficiente para resolver ── Topic: 11
+     │         │         └─igualdade_of_terras_ambiental_adolescentes
+     │         │              ├─igualdade_terras_ambiental_adolescentes_Implícito
+     │         │              │    ├─igualdade_ambiental_adolescentes_Implícito Constituição_Implícito
+     │         │              │    │    ├─■──regional_regional Constituição um instrumento_regional Constituição_regional Constituição um_desenvo ── Topic: 21
+     │         │              │    │    └─igualdade_ambiental_adolescentes_Implícito Constituição_Implícito
+     │         │              │    │         ├─igualdade_Implícito_Implícito Constituição_igualdade de_promove igualdade
+     │         │              │    │         │    ├─■──igualdade_igualdade de_promove igualdade_de igualdade_um documento que promove ── Topic: 4
+     │         │              │    │         │    └─■──Implícito Constituição_Implícito_Constituição vista como_Constituição vista_Constituição vista como  ── Topic: 27
+     │         │              │    │         └─ambiental_adolescentes_crianças adolescentes_ambiental Constituição_ambiente
+     │         │              │    │              ├─■──ambiental_ambiental Constituição_ambiente_meio ambiente_proteção ambiental ── Topic: 10
+     │         │              │    │              └─■──adolescentes_crianças adolescentes_das crianças_direitos das crianças_dos direitos das crianças ── Topic: 23
+     │         │              │    └─terras_defendida_indígenas Constituição_demarcação de_ser defendida
+     │         │              │         ├─defendida_ser defendida_lei_Constituição deve ser defendida_deve ser defendida
+     │         │              │         │    ├─■──lei_leis Constituição_leis_de lei_lei Constituição ── Topic: 18
+     │         │              │         │    └─■──defendida_ser defendida_deve ser defendida_Constituição deve ser defendida_ser defendido ── Topic: 14
+     │         │              │         └─terras_indígenas Constituição_demarcação de_implementação_das terras
+     │         │              │              ├─■──implementada_implementação_plenamente implementada_na implementação_implementada no ── Topic: 31
+     │         │              │              └─■──indígenas Constituição_demarcação de_das terras_indígenas Constituição não_indígenas Constituição nã ── Topic: 19
+     │         │              └─of_Ministério Público_Ministério_Público_liberdade
+     │         │                   ├─Ministério Público_liberdade de_liberdade de expressão_de expressão_do Ministério Público
+     │         │                   │    ├─■──liberdade de_liberdade de expressão_de expressão_expressão Constituição_liberdade de expressão Const ── Topic: 28
+     │         │                   │    └─■──Ministério_Ministério Público_Público_do Ministério_do Ministério Público ── Topic: 33
+     │         │                   └─■──and_for_in_to_of the ── Topic: 13
+     │         └─impeachment_impeachment Constituição_processo de_Judiciário_Constituição está sendo
+     │              ├─■──impeachment_impeachment Constituição_processo de_no processo de_no processo ── Topic: 2
+     │              └─Judiciário_Judiciário Constituição_judiciais_desrespeitada_autoridades Constituição
+     │                   ├─■──autoridades_autoridades Constituição_desrespeitada por_desrespeitada por algumas_está sendo desrespe ── Topic: 32
+     │                   └─■──Judiciário_Judiciário Constituição_judiciais_decisões judiciais_do Judiciário ── Topic: 7
+     └─responsabilidade_autonomia_fiscal_fiscalização_os
+          ├─responsabilidade_autonomia_fiscal_fiscalização_responsabilidades
+          │    ├─autonomia_recursos_distribuição_de recursos_distribuição de recursos
+          │    │    ├─recursos_de recursos_distribuição de recursos_recursos Constituição_na distribuição
+          │    │    │    ├─■──tributária_tributos_tributária Constituição_sistema tributário_tributário ── Topic: 17
+          │    │    │    └─■──recursos_de recursos_distribuição de recursos_recursos Constituição_de recursos Constituição ── Topic: 15
+          │    │    └─autonomia_financeiras_autonomia dos_Estados_financeira
+          │    │         ├─■──financeiras_financeira_financeiros_de crédito_crédito ── Topic: 22
+          │    │         └─■──autonomia_autonomia dos_autonomia do_autonomia dos Estados_municipal ── Topic: 9
+          │    └─responsabilidade_fiscal_fiscalização_responsabilidades_fiscal Constituição
+          │         ├─responsabilidade_fiscal_fiscalização_responsabilidades_fiscal Constituição
+          │         │    ├─■──fiscal_fiscalização_fiscal Constituição_responsabilidade fiscal_responsabilidade ── Topic: 5
+          │         │    └─■──responsabilidades_responsabilidade_as responsabilidades_responsabilidade do_uma responsabilidade ── Topic: 6
+          │         └─■──crimes_de responsabilidade_crime_de responsabilidade Constituição_responsabilidade Constituição ── Topic: 8
+          └─competências_harmonia entre os_Poderes Constituição_estabelece limites_entre os Poderes
+               ├─limites_competências_estabelece limites_limites claros_estabelece limites claros
+               │    ├─■──limites_estabelece limites_limites claros_estabelece limites claros_limites claros para ── Topic: 16
+               │    └─■──competências_competências legislativas_define_as competências_claramente as competências ── Topic: 30
+               └─■──harmonia entre os_entre os Poderes_os Poderes_entre os Poderes Constituição_Poderes Constituição ── Topic: 35
+

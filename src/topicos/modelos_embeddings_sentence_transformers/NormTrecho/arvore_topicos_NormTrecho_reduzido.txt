@@ -1,0 +1,66 @@
+.
+├─Tribunal_quanto ele_respeitado_Supremo Tribunal_impeachment
+│    ├─quanto ele_respeitado_da cassação do_da cassação do mandato_cassação do mandato
+│    │    ├─defender_trabalho_trabalhadores_de trabalho_trabalhador
+│    │    │    ├─■──trabalho_trabalhadores_trabalhador_de trabalho_dos trabalhadores ── Topic: 32
+│    │    │    └─■──defender_para defender_de defender_defender que_defendemos ── Topic: 21
+│    │    └─■──quanto ele_respeitado_da cassação do mandato_da cassação do_cassação do ── Topic: 26
+│    └─Tribunal_Supremo Tribunal_impeachment_Tribunal Federal_Supremo Tribunal Federal
+│         ├─Tribunal_impeachment_Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal
+│         │    ├─Tribunal_Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal_Supremo
+│         │    │    ├─■──mínimo_salário mínimo_salário_Ministro_do salário mínimo ── Topic: 6
+│         │    │    └─■──Tribunal_Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal_Supremo ── Topic: 2
+│         │    └─impeachment_melhor do que_nada melhor_que discutir_do que
+│         │         ├─■──impeachment_melhor do que_nada melhor_que discutir_do que ── Topic: 3
+│         │         └─■──Regimento_Exa_Regimento Interno_regimental_no Regimento ── Topic: 7
+│         └─CPI_Câmara_veto_Deputados_dos Deputados
+│              ├─Câmara_Deputados_provisória_dos Deputados_Câmara dos
+│              │    ├─■──medida_medida provisória_medidas_medidas provisórias_de urgência ── Topic: 10
+│              │    └─■──Câmara_Deputados_dos Deputados_Câmara dos Deputados_Câmara dos ── Topic: 11
+│              └─CPI_veto_vetos_Congresso_Presidente
+│                   ├─■──CPI_investigação_da CPI_de investigação_CPIs ── Topic: 19
+│                   └─■──veto_vetos_do veto_pauta_Congresso ── Topic: 22
+└─Constituição de_art da_da Constituição Federal_art da Constituição_Presidente
+     ├─Implícito_Implícito orador_menciona_Implícito orador menciona_orador menciona
+     │    ├─crédito_de crédito_abertura de_abertura de crédito_autorização
+     │    │    ├─■──crédito_de crédito_abertura de crédito_crédito suplementar_de crédito suplementar ── Topic: 17
+     │    │    └─■──das comunicações_telefônicas_rádio_de rádio_judicial ── Topic: 31
+     │    └─Implícito_Implícito orador_menciona_Implícito orador menciona_orador menciona
+     │         ├─Implícito_Implícito orador_menciona_Implícito orador menciona_orador menciona
+     │         │    ├─Implícito_Implícito orador_menciona_Implícito orador menciona_orador menciona
+     │         │    │    ├─■──Implícito_Implícito orador_menciona_Implícito orador menciona_orador menciona ── Topic: 5
+     │         │    │    └─harmônicos_Poderes_independentes_cláusula pétrea_cláusula
+     │         │    │         ├─■──cláusula pétrea_cláusula_cláusulas pétreas_como cláusula pétrea_como cláusula ── Topic: 20
+     │         │    │         └─■──harmônicos_independentes_si_harmônicos entre si_harmônicos entre ── Topic: 18
+     │         │    └─■──Ministério Público_Ministério_Público_do regime democrático_regime democrático ── Topic: 23
+     │         └─ambiente_meio ambiente_emana_emana do povo_poder emana do povo
+     │              ├─■──ambiente_meio ambiente_ecologicamente equilibrado_ecologicamente_equilibrado ── Topic: 14
+     │              └─■──povo_emana do povo_emana do_poder emana do povo_poder emana do ── Topic: 24
+     └─Constituição de_art da_da Constituição Federal_art da Constituição_Presidente
+          ├─Constituição de_art da_da Constituição Federal_Presidente_art da Constituição
+          │    ├─Constituição de_art da_da Constituição Federal_Presidente_art da Constituição
+          │    │    ├─petróleo_exploração_autonomia_de petróleo_do petróleo
+          │    │    │    ├─petróleo_de petróleo_do petróleo_União_royalties
+          │    │    │    │    ├─■──empresas_empresa_ICMS_do ICMS_energia ── Topic: 30
+          │    │    │    │    └─■──petróleo_de petróleo_Estados_do petróleo_da exploração ── Topic: 9
+          │    │    │    └─■──autonomia_administrativa_autonomia dos_Estados_autonomia administrativa ── Topic: 27
+          │    │    └─Constituição de_art da_Presidente_da Constituição Federal_art da Constituição
+          │    │         ├─Constituição de_art da_Presidente_da Constituição Federal_art da Constituição
+          │    │         │    ├─■──os Municípios_fundos constitucionais_os fundos constitucionais_educação_fundos ── Topic: 8
+          │    │         │    └─Constituição de_art da_Presidente_da Constituição Federal_art da Constituição
+          │    │         │         ├─Constituição de_art da_Presidente_da Constituição Federal_art da Constituição
+          │    │         │         │    ├─■──Constituição de_da Constituição de_na Constituição de_Constituinte_promulgação ── Topic: 1
+          │    │         │         │    └─■──art da_art da Constituição_da Constituição Federal_Presidente_do art ── Topic: 0
+          │    │         │         └─■──educação_Educação_dever do Estado_dever do_do Estado ── Topic: 4
+          │    │         └─■──tributária_reforma tributária_reforma_tributário_tributos ── Topic: 15
+          │    └─Ulysses_Carta_Ulysses Guimarães_Guimarães_Magna
+          │         ├─Ulysses_Ulysses Guimarães_Guimarães_Magna_Carta Magna
+          │         │    ├─■──Ulysses_Ulysses Guimarães_Guimarães_de Ulysses_de Ulysses Guimarães ── Topic: 13
+          │         │    └─■──Carta Magna_Magna_nossa Carta Magna_na Carta Magna_da Carta Magna ── Topic: 16
+          │         └─adolescente_família_família da_da família da_Transitórias
+          │              ├─■──Transitórias_Ato das Disposições_das Disposições Constitucionais Transitórias_Constitucionais Transi ── Topic: 25
+          │              └─■──adolescente_família_família da_da família da_sociedade do Estado ── Topic: 12
+          └─dever do Estado_do Estado_direito de todos_direito de todos dever_todos dever do Estado
+               ├─■──cidadão_dever do Estado_do Estado_do cidadão_direito do cidadão ── Topic: 28
+               └─■──direito de todos dever_todos dever do_todos dever do Estado_direito de todos_visem redução do ── Topic: 29
+

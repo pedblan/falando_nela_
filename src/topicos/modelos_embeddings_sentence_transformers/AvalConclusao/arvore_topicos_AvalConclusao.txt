@@ -1,0 +1,122 @@
+.
+├─visa_que visa_Constituição de_aprovação_PEC
+│    ├─reforma_royalties_uma reforma_reforma tributária_dos royalties
+│    │    ├─royalties_dos royalties_royalties do_dos royalties do_royalties do petróleo
+│    │    │    ├─■──petróleo_royalties do petróleo_royalties_do petróleo_dos royalties do petróleo ── Topic: 37
+│    │    │    └─■──royalties_dos royalties_royalties do pré_royalties do pré sal_dos royalties do pré ── Topic: 56
+│    │    └─reforma_uma reforma_reforma tributária_reforma política_uma reforma política
+│    │         ├─financeira_pacto federativo_federativo_pacto_Pacto Federativo
+│    │         │    ├─■──financeira_Municípios_financeira dos_financeiro_Estados Municípios ── Topic: 38
+│    │         │    └─■──pacto federativo_pacto_federativo_um novo pacto federativo_Pacto ── Topic: 59
+│    │         └─reforma_reforma tributária_uma reforma_reforma política_uma reforma política
+│    │              ├─■──tributária_reforma tributária_reforma_uma reforma tributária_tributária que ── Topic: 19
+│    │              └─■──reforma política_reforma_política_uma reforma_uma reforma política ── Topic: 13
+│    └─visa_que visa_Constituição de_aprovação_de que
+│         ├─Constituição de_de Por causa disso_de Por causa_Constituição de Por causa_Constituição de Por
+│         │    ├─Constituição de_de Por causa_de Por causa disso_Constituição de Por_Constituição de Por causa
+│         │    │    ├─■──Michel Temer_de Michel_de Michel Temer_governo interino de Michel_interino de Michel Temer ── Topic: 28
+│         │    │    └─Constituição de_de Por causa_de Por causa disso_Constituição de Por_Constituição de Por causa
+│         │    │         ├─■──Constituição de_de Por causa disso_de Por causa_Constituição de Por_Constituição de Por causa ── Topic: 3
+│         │    │         └─■──opõe PEC_se opõe PEC_orador se opõe PEC_se opõe_disso orador se opõe ── Topic: 11
+│         │    └─reforma_reforma da_da previdência_reforma da previdência_trabalhadores
+│         │         ├─■──trabalhista_reforma trabalhista_reforma_direitos dos trabalhadores_critica reforma trabalhista ── Topic: 35
+│         │         └─■──reforma da_da previdência_previdência_reforma da previdência_reforma ── Topic: 23
+│         └─visa_que visa_aprovação_PEC_educação
+│              ├─visa_que visa_PEC_educação_Projeto de
+│              │    ├─Congresso_CPI_terras_Congresso Nacional_que Congresso
+│              │    │    ├─CPI_terras_de terras_terras indígenas_de terras indígenas
+│              │    │    │    ├─terras_indígenas_de terras_terras indígenas_de terras indígenas
+│              │    │    │    │    ├─■──causa disso orador alerta_orador alerta_disso orador alerta_disso orador alerta para_orador alerta p ── Topic: 55
+│              │    │    │    │    └─terras_de terras_terras indígenas_de terras indígenas_demarcação de terras
+│              │    │    │    │         ├─terras_indígenas_de terras_terras indígenas_de terras indígenas
+│              │    │    │    │         │    ├─■──terras_indígenas_de terras_terras indígenas_de terras indígenas ── Topic: 20
+│              │    │    │    │         │    └─■──crédito_de crédito_operação de_cartões de_cartões de crédito ── Topic: 53
+│              │    │    │    │         └─CPMF_da CPMF_Mais Médicos_Médicos_da CPMF argumentando
+│              │    │    │    │              ├─■──Médicos_Mais Médicos_médicos_Programa Mais Médicos_de médicos ── Topic: 41
+│              │    │    │    │              └─■──CPMF_da CPMF_da CPMF argumentando que_da CPMF argumentando_CPMF argumentando que ── Topic: 44
+│              │    │    │    └─CPI_da CPI_CPIs_uma CPI_de uma CPI
+│              │    │    │         ├─■──CPI_CPIs_da CPI_uma CPI_de uma CPI ── Topic: 16
+│              │    │    │         └─■──Lava Jato_Operação Lava Jato_Operação Lava_Operação_da Operação Lava ── Topic: 57
+│              │    │    └─Congresso_Congresso Nacional_que Congresso_que Congresso Nacional_vetos
+│              │    │         ├─Congresso Nacional_que Congresso_que Congresso Nacional_vetos_defende que Congresso
+│              │    │         │    ├─■──vetos_veto_vetos presidenciais_presidenciais_do veto ── Topic: 30
+│              │    │         │    └─■──Congresso Nacional_que Congresso_que Congresso Nacional_orador defende que Congresso_defende que Con ── Topic: 14
+│              │    │         └─Câmara_Câmara dos_Câmara dos Deputados_dos Deputados_Deputados
+│              │    │              ├─■──Regimento_regimentais_Regimento Interno_Regimento Interno do Senado_Regimento Interno do ── Topic: 47
+│              │    │              └─■──Câmara_Câmara dos Deputados_Câmara dos_dos Deputados_Deputados ── Topic: 48
+│              │    └─visa_que visa_aprovação_educação_PEC
+│              │         ├─educação_no Brasil_Brasil Por_Brasil Por causa_Brasil Por causa disso
+│              │         │    ├─democrático_democráticos_democráticas_democrática_orador expressa preocupação com
+│              │         │    │    ├─■──causa disso orador expressa_disso orador expressa_com atual situação política_com atual situação_exp ── Topic: 54
+│              │         │    │    └─■──democrático_democráticos_democráticas_democrática_Estado democrático ── Topic: 27
+│              │         │    └─Brasil_educação_no Brasil_Brasil Por_Brasil Por causa
+│              │         │         ├─Brasil_educação_no Brasil_Brasil Por_Brasil Por causa
+│              │         │         │    ├─■──implementação_implementação de_de políticas_públicas_implementação de políticas ── Topic: 17
+│              │         │         │    └─educação_no Brasil_Brasil Por_Brasil Por causa_Brasil Por causa disso
+│              │         │         │         ├─educação_Brasil Por_Brasil Por causa_Brasil Por causa disso_do Brasil
+│              │         │         │         │    ├─■──fiscal_fiscalização_responsabilidade fiscal_Fiscal_responsabilidade ── Topic: 8
+│              │         │         │         │    └─Brasil_educação_no Brasil_Brasil Por causa_Brasil Por causa disso
+│              │         │         │         │         ├─educação_no Brasil_Brasil Por_Brasil Por causa disso_Brasil Por causa
+│              │         │         │         │         │    ├─■──educação_Educação_da educação_educacionais_de Educação ── Topic: 5
+│              │         │         │         │         │    └─Brasil_Brasil Por_Brasil Por causa_Brasil Por causa disso_no Brasil
+│              │         │         │         │         │         ├─■──Brasil Por causa disso_Brasil Por causa_Brasil Por_do Brasil_brasileira ── Topic: 1
+│              │         │         │         │         │         └─■──disso orador sugere_causa disso orador sugere_orador sugere_orador sugere que_disso orador sugere qu ── Topic: 4
+│              │         │         │         │         └─■──crimes_Penal_penal_Código Penal_crime ── Topic: 10
+│              │         │         │         └─■──disso orador defende que_orador defende que_principal defende_disso orador principal defende_orador  ── Topic: 7
+│              │         │         └─■──Distrito Federal_Governo Federal_que Governo Federal_que Governo_federal ── Topic: 24
+│              │         └─visa_que visa_de que visa_Lei_Projeto de Lei
+│              │              ├─visa_que visa_de que visa_Projeto de Lei_aprovação
+│              │              │    ├─visa_que visa_de que visa_Lei_Projeto de Lei
+│              │              │    │    ├─■──TV_da Internet_digital_Marco Civil da Internet_Marco Civil da ── Topic: 40
+│              │              │    │    └─visa_que visa_de que visa_Lei_Projeto de Lei
+│              │              │    │         ├─■──Projeto_Projeto de_Projeto de Lei_de Lei_Projeto de Lei de ── Topic: 18
+│              │              │    │         └─■──visa_que visa_de que visa_Projeto de Lei_apoia aprovação ── Topic: 0
+│              │              │    └─■──adolescentes_crianças adolescentes_crianças_Criança_da Criança ── Topic: 42
+│              │              └─igualdade_Ficha Limpa_Ficha_Limpa_Lei da Ficha Limpa
+│              │                   ├─igualdade_histórica_igualdade de_Racial_Igualdade Racial
+│              │                   │    ├─■──pensionistas_aposentados pensionistas_previdenciário_fator previdenciário_reajuste ── Topic: 52
+│              │                   │    └─igualdade_histórica_igualdade de_Igualdade Racial_Racial
+│              │                   │         ├─■──histórica_igualdade de gênero_igualdade de_igualdade_de gênero ── Topic: 32
+│              │                   │         └─■──Estatuto da Igualdade Racial_Estatuto da Igualdade_racial_Igualdade Racial_da Igualdade Racial ── Topic: 46
+│              │                   └─■──Ficha Limpa_Limpa_Lei da Ficha_Lei da Ficha Limpa_da Ficha ── Topic: 50
+│              └─ambiental_Amazônia_sustentável_Florestal_preservação ambiental
+│                   ├─Amazônia_econômico_desenvolvimento econômico_da Amazônia_Amazonas
+│                   │    ├─■──econômico_desenvolvimento econômico_regional_econômicos_promover desenvolvimento ── Topic: 36
+│                   │    └─■──Amazônia_da Amazônia_Amazonas_do Amazonas_desenvolvimento sustentável ── Topic: 29
+│                   └─Florestal_Código Florestal_proteção ambiental_preservação ambiental_meio ambiente
+│                        ├─■──ambiental_ambiente_meio ambiente_proteção ambiental_legislação ambiental ── Topic: 25
+│                        └─■──Florestal_Código Florestal_ambiental_do Código Florestal_preservação ambiental ── Topic: 49
+└─causa disso orador critica_orador critica_disso orador critica_Tribunal_impeachment
+     ├─orador critica_disso orador critica_causa disso orador critica_Tribunal_Supremo
+     │    ├─Tribunal_Supremo_Supremo Tribunal Federal_Supremo Tribunal_Tribunal Federal
+     │    │    ├─■──Alexandre de Moraes_de Moraes_Alexandre_Ministro Alexandre_Ministro Alexandre de Moraes ── Topic: 39
+     │    │    └─Tribunal_Supremo Tribunal Federal_Supremo Tribunal_Tribunal Federal_do Supremo
+     │    │         ├─Tribunal_Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal_do Supremo
+     │    │         │    ├─■──Tribunal_Tribunal Federal_Supremo Tribunal Federal_Supremo Tribunal_do Supremo ── Topic: 6
+     │    │         │    └─■──judicial_ativismo judicial_ativismo_decisão judicial_judicial que ── Topic: 31
+     │    │         └─Judiciário_do Judiciário_critica atuação_disso orador critica atuação_orador critica atuação
+     │    │              ├─critica atuação_disso orador critica atuação_orador critica atuação_critica atuação do_atuação do
+     │    │              │    ├─■──atuação do STF_critica atuação do STF_critica atuação_atuação do_critica atuação do ── Topic: 51
+     │    │              │    └─■──do Judiciário_disso orador critica atuação_orador critica atuação_critica atuação_disso orador criti ── Topic: 58
+     │    │              └─■──Judiciário_judiciais_do Judiciário_judiciário_sistema judiciário ── Topic: 34
+     │    └─orador critica_disso orador critica_causa disso orador critica_sugerindo que_governo
+     │         ├─causa disso orador critica_orador critica_disso orador critica_sugerindo que_governo
+     │         │    ├─■──Governo Federal_do Governo Federal_Federal_orador critica_causa disso orador critica ── Topic: 22
+     │         │    └─causa disso orador critica_orador critica_disso orador critica_sugerindo que_do governo
+     │         │         ├─■──causa disso orador critica_orador critica_disso orador critica_sugerindo que_governo ── Topic: 2
+     │         │         └─■──disso orador critica_orador critica_causa disso orador critica_do Brasil_sugerindo que ── Topic: 12
+     │         └─Presidente_do Presidente_Bolsonaro_Presidente Lula_Presidente da
+     │              ├─Presidente_do Presidente_Presidente Lula_Presidente da_Presidente do
+     │              │    ├─■──Presidente_do Presidente_Presidente do_Presidente do Senado_República ── Topic: 9
+     │              │    └─■──Presidente_orador critica_causa disso orador critica_disso orador critica_Presidente Lula ── Topic: 21
+     │              └─Bolsonaro_Venezuela_da Venezuela_Jair Bolsonaro_governo
+     │                   ├─■──Bolsonaro_Jair Bolsonaro_de Jair Bolsonaro_de Jair_Governo Bolsonaro ── Topic: 43
+     │                   └─■──Venezuela_da Venezuela_Venezuela no_Venezuela no Mercosul_adesão ── Topic: 45
+     └─impeachment_de impeachment_processo de impeachment_impeachment da_Presidente Dilma Rousseff
+          ├─Dilma Rousseff_impeachment_impeachment da_Presidente Dilma Rousseff_Presidente Dilma
+          │    ├─■──Dilma Rousseff_Presidente Dilma Rousseff_impeachment da_Presidente Dilma_impeachment da Presidente ── Topic: 33
+          │    └─■──Dilma Rousseff_impeachment_golpe contra democracia_contra democracia_Presidenta Dilma ── Topic: 60
+          └─impeachment_de impeachment_processo de impeachment_impeachment como_do processo de impeachment
+               ├─■──impeachment_de impeachment_processo de impeachment_processo de_causa disso orador critica ── Topic: 26
+               └─■──impeachment_de impeachment_processo de impeachment_que processo_que processo de impeachment ── Topic: 15
+

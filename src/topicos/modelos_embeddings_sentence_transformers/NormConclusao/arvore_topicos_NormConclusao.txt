@@ -1,0 +1,104 @@
+.
+├─impeachment_Tribunal_de impeachment_Supremo Tribunal_Supremo Tribunal Federal
+│    ├─STF_de Moraes_Alexandre de Moraes_Alexandre de_Alexandre
+│    │    ├─■──de interferência_principal critica qualquer_orador principal critica qualquer_tentativa de interferê ── Topic: 46
+│    │    └─STF_Alexandre de Moraes_de Moraes_Alexandre_Alexandre de
+│    │         ├─STF_de Moraes_Alexandre de Moraes_Alexandre_Alexandre de
+│    │         │    ├─■──de Moraes_Alexandre de Moraes_Moraes_Alexandre_Alexandre de ── Topic: 32
+│    │         │    └─■──critica atuação do STF_atuação do STF_orador critica atuação_disso orador critica atuação_critica at ── Topic: 39
+│    │         └─Judiciário_judiciais_Ministério Público_legal_devido processo legal
+│    │              ├─Judiciário_judiciais_legal_devido processo legal_do Judiciário
+│    │              │    ├─■──legal_devido processo legal_processo legal_respeitar devido processo legal_respeitar devido processo ── Topic: 45
+│    │              │    └─Judiciário_judiciais_do Judiciário_decisões judiciais_judicial
+│    │              │         ├─■──judiciais_Judiciário_do Judiciário_decisões judiciais_judicial ── Topic: 27
+│    │              │         └─■──do Judiciário_Judiciário_orador critica atuação_disso orador critica atuação_critica atuação ── Topic: 51
+│    │              └─■──Ministério Público_Público_do Ministério Público_do Ministério_Ministério Público conforme ── Topic: 43
+│    └─impeachment_Tribunal_Tribunal Federal_Supremo Tribunal Federal_Supremo Tribunal
+│         ├─impeachment_Tribunal_Supremo Tribunal_Supremo Tribunal Federal_Tribunal Federal
+│         │    ├─impeachment_de impeachment_processo de impeachment_impeachment da_Presidente Dilma
+│         │    │    ├─■──impeachment_de impeachment_processo de impeachment_impeachment da_Presidente Dilma ── Topic: 1
+│         │    │    └─Presidente_da República_República_Presidente da_do Presidente
+│         │    │         ├─■──Presidente_da República_República_Presidente do_Presidente da ── Topic: 8
+│         │    │         └─■──Presidente_do Presidente_Presidente da_da República_Presidente da República ── Topic: 37
+│         │    └─Tribunal_Supremo_Supremo Tribunal Federal_Tribunal Federal_Supremo Tribunal
+│         │         ├─Congresso_Congresso Nacional_vetos_vetos presidenciais_que Congresso
+│         │         │    ├─■──Congresso_Congresso Nacional_que Congresso_orador defende que Congresso_defende que Congresso ── Topic: 31
+│         │         │    └─■──vetos_vetos presidenciais_presidenciais_veto_dos vetos ── Topic: 28
+│         │         └─Tribunal_Supremo_Tribunal Federal_Supremo Tribunal Federal_Supremo Tribunal
+│         │              ├─Tribunal_Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal_do Supremo
+│         │              │    ├─■──Supremo Tribunal_Supremo Tribunal Federal_do Supremo_do Supremo Tribunal_do Supremo Tribunal Federal ── Topic: 3
+│         │              │    └─■──CPI_instalação_CPIs_da CPI_defende instalação ── Topic: 13
+│         │              └─Regimento_Regimento Interno_Regimento Interno do Senado_Interno do Senado_Interno do
+│         │                   ├─■──Regimento_Regimento Interno_Interno do Senado_Regimento Interno do Senado_Regimento Interno do ── Topic: 29
+│         │                   └─■──Casas_Casa_Casa Revisora_Casas Legislativas_entre as Casas ── Topic: 49
+│         └─medidas_medidas provisórias_de medidas_de medidas provisórias_medidas provisórias pelo
+│              ├─■──medidas_medidas provisórias_de medidas_de medidas provisórias_medicamentos ── Topic: 22
+│              └─■──medidas provisórias_de medidas provisórias_de medidas_orador critica uso_disso orador critica uso ── Topic: 33
+└─visa_que visa_Constituição de_causa disso orador apoia_orador apoia
+     ├─visa_que visa_apoia_disso orador apoia_causa disso orador apoia
+     │    ├─visa_que visa_apoia_disso orador apoia_causa disso orador apoia
+     │    │    ├─visa_que visa_apoia_causa disso orador apoia_disso orador apoia
+     │    │    │    ├─visa_que visa_disso orador apoia_causa disso orador apoia_orador apoia
+     │    │    │    │    ├─■──transposição dos servidores_dos servidores_de Rondônia para_para os quadros da_para os quadros ── Topic: 48
+     │    │    │    │    └─visa_que visa_disso orador apoia_orador apoia_causa disso orador apoia
+     │    │    │    │         ├─visa_que visa_de que visa_disso orador apoia_causa disso orador apoia
+     │    │    │    │         │    ├─■──art_art da_do art_art da Constituição_do art da ── Topic: 21
+     │    │    │    │         │    └─visa_que visa_de que visa_causa disso orador apoia_orador apoia
+     │    │    │    │         │         ├─■──visa_que visa_de que visa_disso orador apoia_causa disso orador apoia ── Topic: 0
+     │    │    │    │         │         └─■──de Lei_Projeto de Lei_Projeto_Projeto de_Projeto de Lei de ── Topic: 30
+     │    │    │    │         └─■──crédito_de crédito_operação de crédito_operação_externo ── Topic: 41
+     │    │    │    └─terras_terras indígenas_de terras_de terras indígenas_fiscalização
+     │    │    │         ├─penal_crimes_Penal_apoia_disso orador apoia
+     │    │    │         │    ├─■──Internet_telecomunicações_de rádio_rádio_Anatel ── Topic: 40
+     │    │    │         │    └─penal_crimes_Penal_contra_apoia
+     │    │    │         │         ├─■──orador apoia_causa disso orador apoia_disso orador apoia_emenda Constituição_proposta de emenda ── Topic: 15
+     │    │    │         │         └─penal_crimes_Penal_crime_Código Penal
+     │    │    │         │              ├─■──liberdade_liberdade de_orador defende necessidade de_orador defende necessidade_disso orador defende ── Topic: 6
+     │    │    │         │              └─■──penal_crimes_Penal_crime_Código Penal ── Topic: 12
+     │    │    │         └─terras_terras indígenas_de terras_fiscal_de terras indígenas
+     │    │    │              ├─fiscal_fiscalização_falta_critica falta de_critica falta
+     │    │    │              │    ├─Distrito Federal_disso orador defende necessidade_orador defende necessidade_defende necessidade_reg
+     │    │    │              │    │    ├─■──regulamentação_público_regulamentação da_orador defende necessidade_disso orador defende necessidade ── Topic: 23
+     │    │    │              │    │    └─■──Distrito Federal_Constituição Federal_federal_do Distrito Federal_intervenção federal ── Topic: 18
+     │    │    │              │    └─fiscal_fiscalização_falta de_orador critica falta de_orador critica falta
+     │    │    │              │         ├─■──falta de_orador critica falta_orador critica falta de_disso orador critica falta_critica falta de ── Topic: 11
+     │    │    │              │         └─■──fiscal_fiscalização_Fiscal_Lei de Responsabilidade_de Responsabilidade ── Topic: 7
+     │    │    │              └─■──terras_indígenas_terras indígenas_de terras_de terras indígenas ── Topic: 9
+     │    │    └─reforma_tributária_petróleo_royalties_dos royalties
+     │    │         ├─que ela_argumentando que ela_orador critica PEC_disso orador critica PEC_critica PEC
+     │    │         │    ├─■──que ela_argumentando que ela_orador critica PEC_disso orador critica PEC_critica PEC ── Topic: 26
+     │    │         │    └─■──gastos_de gastos_teto de gastos_gás_limites ── Topic: 50
+     │    │         └─Estados_tributária_reforma_petróleo_royalties
+     │    │              ├─royalties_petróleo_Estados_dos royalties_do petróleo
+     │    │              │    ├─■──royalties_petróleo_dos royalties_do petróleo_distribuição dos ── Topic: 19
+     │    │              │    └─financeira_pacto_federativo_pacto federativo_União Estados
+     │    │              │         ├─■──pacto_pacto federativo_federativo_recursos_entre União Estados ── Topic: 38
+     │    │              │         └─■──financeira_Estados_Municípios_financiamento_financeiro ── Topic: 16
+     │    │              └─reforma_reforma tributária_uma reforma_de uma reforma_reforma política
+     │    │                   ├─reforma_reforma tributária_uma reforma_de uma reforma_reforma política
+     │    │                   │    ├─■──reforma política_reforma_política_uma reforma_uma reforma política ── Topic: 25
+     │    │                   │    └─■──tributária_reforma tributária_uma reforma tributária_de uma reforma tributária_tributária que ── Topic: 20
+     │    │                   └─■──CPMF_da CPMF_prorrogação da CPMF_prorrogação da_CPMF argumentando ── Topic: 47
+     │    └─reforma_reforma trabalhista_reforma da_reforma da previdência_Constituição de
+     │         ├─reforma_reforma da_reforma da previdência_pela Constituição de_orador critica as
+     │         │    ├─■──reforma da_da previdência_reforma da previdência_reforma da Previdência_proposta de reforma da ── Topic: 42
+     │         │    └─■──Constituição de_pela Constituição de_reforma_disso orador critica as_critica as ── Topic: 24
+     │         └─■──trabalhista_reforma trabalhista_reforma_trabalhadores_orador critica reforma ── Topic: 34
+     └─destaca importância_orador destaca importância_disso orador destaca importância_destaca importância 
+          ├─destaca importância_orador destaca importância_disso orador destaca importância_destaca importância 
+          │    ├─destaca importância_disso orador destaca importância_orador destaca importância_educação_destaca imp
+          │    │    ├─■──adolescentes_crianças adolescentes_crianças_Criança_das crianças ── Topic: 36
+          │    │    └─educação_destaca importância_orador destaca importância_disso orador destaca importância_destaca imp
+          │    │         ├─educação_políticas públicas_de políticas_de políticas públicas_implementação
+          │    │         │    ├─■──educação_Educação_da educação_de Educação_professores ── Topic: 5
+          │    │         │    └─■──políticas_políticas públicas_de políticas_de políticas públicas_públicas que ── Topic: 14
+          │    │         └─orador destaca importância_disso orador destaca importância_destaca importância_orador destaca impor
+          │    │              ├─■──disso orador destaca importância_orador destaca importância_destaca importância_orador destaca impor ── Topic: 10
+          │    │              └─■──Brasil_no Brasil_Brasil Por causa_Brasil Por_Brasil Por causa disso ── Topic: 2
+          │    └─Constituição de_da Constituição de_disso orador destaca importância_orador destaca importância_desta
+          │         ├─■──Constituição de_importância da Constituição de_importância da Constituição_destaca importância da Co ── Topic: 17
+          │         └─■──pela Constituição de_disso orador destaca importância_orador destaca importância_destaca importância ── Topic: 4
+          └─ambiental_Amazônia_ambiente_meio ambiente_proteção ambiental
+               ├─■──Amazônia_Amazonas_desenvolvimento_do Amazonas_da região ── Topic: 44
+               └─■──ambiental_ambiente_meio ambiente_proteção ambiental_ambientais ── Topic: 35
+

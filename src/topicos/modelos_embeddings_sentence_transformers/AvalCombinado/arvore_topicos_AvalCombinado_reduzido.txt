@@ -1,0 +1,62 @@
+.
+├─impeachment_de impeachment_Constituição um_Tribunal_processo de
+│    ├─Tribunal_Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal_Constituição um
+│    │    ├─■──Ministério Público_do Ministério Público_do Ministério_que Ministério Público_ao Ministério Público ── Topic: 25
+│    │    └─Tribunal_Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal_Constituição um
+│    │         ├─Tribunal_Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal_Estado
+│    │         │    ├─■──participação_popular_participação popular_democracia participativa_de participação ── Topic: 21
+│    │         │    └─Tribunal_Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal_Estado
+│    │         │         ├─democracia_democrático_da democracia_significa que Constituição_Constituição um
+│    │         │         │    ├─■──República_da República_Presidente da_Presidente da República_do Presidente ── Topic: 15
+│    │         │         │    └─democrático_da democracia_significa que Constituição_Constituição um_democrática
+│    │         │         │         ├─■──democracia_da democracia_democrático_Constituição um_Constituição um pilar ── Topic: 4
+│    │         │         │         └─■──significa que Constituição_democracia_que Constituição de_da Constituição de_do Brasil ── Topic: 1
+│    │         │         └─Supremo_Tribunal_Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal
+│    │         │              ├─■──Constituição um_está sendo_democracia_significa que há_um documento que ── Topic: 12
+│    │         │              └─■──Supremo_Tribunal_Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal ── Topic: 6
+│    │         └─■──liberdade de_liberdade_de expressão_liberdade de expressão_liberdade de imprensa ── Topic: 26
+│    └─impeachment_de impeachment_processo de impeachment_que processo_democracia
+│         ├─■──impeachment_de impeachment_processo de impeachment_que processo_que processo de impeachment ── Topic: 5
+│         └─■──impeachment_de impeachment_processo de impeachment_do processo de impeachment_impeachment Por causa ── Topic: 29
+└─educação_Implícito_desenvolvimento_social_significa que Constituição
+     ├─educação_desenvolvimento_Governo_tem todo_Estados
+     │    ├─royalties_cargo do_recursos_do Governo Federal_Governo Federal
+     │    │    ├─royalties_dos royalties_petróleo_royalties do_federativo
+     │    │    │    ├─■──royalties_dos royalties_petróleo_royalties do_dos royalties do ── Topic: 17
+     │    │    │    └─■──Municípios_os Municípios_federativo_autonomia_dos Municípios ── Topic: 16
+     │    │    └─■──cargo_do Governo Federal_Governo Federal_do Governo_reforma tributária ── Topic: 22
+     │    └─educação_Implícito_Constituição um_tem todo_pública
+     │         ├─tem todo_ambiental_terras_regional_Amazônia
+     │         │    ├─■──indígenas_terras_de terras_terras indígenas_de terras indígenas ── Topic: 13
+     │         │    └─tem todo_conhecimento_desenvolvimento_ambiental_regional
+     │         │         ├─■──ambiental_ambiente_meio ambiente_proteção ambiental_ambientais ── Topic: 14
+     │         │         └─■──tem todo_conhecimento_desenvolvimento_regional_desenvolvimento regional ── Topic: 9
+     │         └─educação_Implícito_pública_medidas provisórias_fiscal
+     │              ├─educação_Implícito_pública_medidas provisórias_fiscal
+     │              │    ├─■──de que visa_Lei de que visa_aprovação do_aprovação do Projeto_orador apoia aprovação ── Topic: 18
+     │              │    └─educação_Implícito_pública_medidas provisórias_fiscal
+     │              │         ├─educação_Implícito_pública_fiscal_social
+     │              │         │    ├─■──fiscal_fiscalização_Fiscal_Lei de Responsabilidade Fiscal_de Responsabilidade Fiscal ── Topic: 8
+     │              │         │    └─educação_Implícito_pública_social_da educação
+     │              │         │         ├─Implícito_pública_medidas provisórias_social_Implícito discurso
+     │              │         │         │    ├─■──disso orador expressa_causa disso orador expressa_orador expressa_Brasil Por causa disso_Brasil Por  ── Topic: 2
+     │              │         │         │    └─■──Implícito_pública_Constituição um_Implícito discurso_Implícito orador ── Topic: 3
+     │              │         │         └─■──educação_da educação_Educação_para educação_educacionais ── Topic: 7
+     │              │         └─■──medidas provisórias_do Congresso_de medidas provisórias_de medidas_que Congresso ── Topic: 19
+     │              └─■──CPI_CPIs_da CPI_fiscalização_instalação da CPI ── Topic: 30
+     └─trabalhadores_igualdade_dos trabalhadores_direitos dos trabalhadores_trabalho
+          ├─trabalhadores_igualdade_dos trabalhadores_direitos dos trabalhadores_trabalho
+          │    ├─trabalhadores_dos trabalhadores_direitos dos trabalhadores_trabalhistas_trabalho
+          │    │    ├─■──trabalhadores_dos trabalhadores_direitos dos trabalhadores_trabalhistas_trabalho ── Topic: 28
+          │    │    └─■──trabalhadores_dos trabalhadores_direitos dos trabalhadores_trabalhistas_trabalhista ── Topic: 10
+          │    └─igualdade_crianças_adolescentes_crianças adolescentes_de gênero
+          │         ├─igualdade_de gênero_igualdade de_cidadania_igualdade de gênero
+          │         │    ├─■──cidadania_da cidadania_cidadãos_Constituição cidadã_dos cidadãos ── Topic: 24
+          │         │    └─igualdade_de gênero_igualdade de_igualdade de gênero_discriminação
+          │         │         ├─■──igualdade_de gênero_igualdade de_igualdade de gênero_de igualdade ── Topic: 11
+          │         │         └─■──direitos humanos_humanos_humana_dos direitos humanos_dignidade humana ── Topic: 27
+          │         └─crianças_adolescentes_crianças adolescentes_das crianças_das crianças adolescentes
+          │              ├─■──crianças_adolescentes_crianças adolescentes_das crianças_das crianças adolescentes ── Topic: 20
+          │              └─■──crimes_Penal_crime_Código Penal_penal ── Topic: 23
+          └─■──____ ── Topic: 0
+

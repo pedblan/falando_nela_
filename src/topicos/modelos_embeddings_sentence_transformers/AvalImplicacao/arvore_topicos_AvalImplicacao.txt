@@ -1,0 +1,150 @@
+.
+├─constitucionais_que há_significa que há_qualquer_que qualquer
+│    ├─constitucionais_que há_significa que há_que há uma_significa que há uma
+│    │    ├─autonomia_distribuição de_responsabilidade_responsabilidades_distribuição de recursos
+│    │    │    ├─autonomia_financeira_financeiras_Estados_significa que os Municípios
+│    │    │    │    ├─■──autonomia_autonomia dos_que autonomia_significa que autonomia_essa autonomia ── Topic: 39
+│    │    │    │    └─■──financeiras_Municípios_os Municípios_financeiros_petróleo ── Topic: 26
+│    │    │    └─distribuição_distribuição de_responsabilidade_distribuição de recursos_responsabilidades
+│    │    │         ├─■──responsabilidade_responsabilidades_responsabilidade de_tem responsabilidade de_tem responsabilidade ── Topic: 33
+│    │    │         └─distribuição_recursos_de recursos_distribuição de recursos_distribuição dos
+│    │    │              ├─■──recursos_de recursos_distribuição de recursos_recursos deve_na distribuição de recursos ── Topic: 47
+│    │    │              └─■──que distribuição_significa que distribuição_distribuição de_que distribuição dos_significa que distr ── Topic: 72
+│    │    └─constitucionais_que há_significa que há_que há uma_significa que há uma
+│    │         ├─impeachment_Congresso_governo_Federal_que processo
+│    │         │    ├─governo_que governo_significa que governo_Governo_do governo
+│    │         │    │    ├─■──governo_que governo_significa que governo_responsabilidades_responsabilidade ── Topic: 65
+│    │         │    │    └─■──governo_que governo_significa que governo_do governo_Governo ── Topic: 13
+│    │         │    └─impeachment_Congresso_processo de_que processo_significa que processo
+│    │         │         ├─Congresso_Tribunal_Tribunal Federal_Supremo Tribunal Federal_Supremo Tribunal
+│    │         │         │    ├─medidas provisórias_de medidas provisórias_de medidas_das medidas provisórias_das medidas
+│    │         │         │    │    ├─■──controle_de controle_controle sobre_mecanismo de controle_um mecanismo de controle ── Topic: 71
+│    │         │         │    │    └─■──medidas_medidas provisórias_de medidas provisórias_de medidas_das medidas provisórias ── Topic: 42
+│    │         │         │    └─Congresso_Tribunal_Tribunal Federal_Supremo Tribunal Federal_Supremo Tribunal
+│    │         │         │         ├─Tribunal_Tribunal Federal_Supremo Tribunal Federal_Supremo Tribunal_que Congresso
+│    │         │         │         │    ├─Congresso_Supremo Tribunal Federal_Tribunal Federal_Supremo Tribunal_que Congresso
+│    │         │         │         │    │    ├─■──Supremo Tribunal Federal_Tribunal Federal_Supremo Tribunal_do Supremo Tribunal_do Supremo Tribunal F ── Topic: 35
+│    │         │         │         │    │    └─■──Congresso_significa que Congresso_Congresso Nacional_do Congresso_isso significa que Congresso ── Topic: 18
+│    │         │         │         │    └─limites_STF_limites constitucionais_que STF_dos limites
+│    │         │         │         │         ├─■──que STF_significa que STF_STF está_que STF está_significa que STF está ── Topic: 43
+│    │         │         │         │         └─■──limites_limites constitucionais_dos limites_dentro dos limites_dos limites constitucionais ── Topic: 34
+│    │         │         │         └─Ministério_Ministério Público_Público_Presidente_lei
+│    │         │         │              ├─Presidente_popular_soberania popular_República_há espaço para interpretações
+│    │         │         │              │    ├─■──popular_soberania_soberania popular_popular isso significa que_popular isso significa ── Topic: 67
+│    │         │         │              │    └─interpretação_há espaço para interpretações_espaço para interpretações_Presidente da_significa que P
+│    │         │         │              │         ├─■──Presidente da_significa que Presidente_que Presidente_Isso significa que Presidente_Presidente da Re ── Topic: 52
+│    │         │         │              │         └─■──interpretações_interpretação_para interpretações_significa que interpretação_que interpretação ── Topic: 60
+│    │         │         │              └─Ministério Público_Público_lei_de lei_parlamentares
+│    │         │         │                   ├─de lei_lei_projeto de lei_projeto de_que projeto de lei
+│    │         │         │                   │    ├─■──de lei_lei_projeto de lei_projeto de_que projeto de ── Topic: 62
+│    │         │         │                   │    └─■──parlamentares_os parlamentares_dos parlamentares_significa que os parlamentares_que os parlamentares ── Topic: 70
+│    │         │         │                   └─■──Ministério_Ministério Público_Público_do Ministério Público_do Ministério ── Topic: 69
+│    │         │         └─impeachment_processo de_que processo_significa que processo_que processo de
+│    │         │              ├─■──impeachment_processo de_que processo de_significa que processo de_que processo ── Topic: 9
+│    │         │              └─■──processo legislativo_significa que processo_que processo_do processo_significa que processo legislat ── Topic: 38
+│    │         └─significa que há_que há_constitucionais_que há uma_significa que há uma
+│    │              ├─constitucionais_significa que há_normas_que as_significa que as
+│    │              │    ├─que as_significa que as_constitucionais_reforma_reformas
+│    │              │    │    ├─reforma_mudanças_constitucionais_reformas_política
+│    │              │    │    │    ├─que mudanças_significa que mudanças_isso significa que mudanças_mudanças constitucionais_Isso signif
+│    │              │    │    │    │    ├─■──que mudanças_significa que mudanças_mudanças constitucionais_isso significa que mudanças_que mudança ── Topic: 19
+│    │              │    │    │    │    └─■──crimes_penal_de crimes_de responsabilidade_crimes de responsabilidade ── Topic: 27
+│    │              │    │    │    └─reforma_reformas_política_necessidade_que as
+│    │              │    │    │         ├─reformas_reforma_política_necessidade_que as
+│    │              │    │    │         │    ├─política_respeitada_ser respeitada_deve ser respeitada_constitucionais
+│    │              │    │    │         │    │    ├─■──política_políticas_políticos_político_decisões políticas ── Topic: 3
+│    │              │    │    │         │    │    └─■──respeitada_deve ser respeitada_ser respeitada_necessidades_significa que há ── Topic: 0
+│    │              │    │    │         │    └─■──reformas_reforma_as reformas_significa que as reformas_que as reformas ── Topic: 8
+│    │              │    │    │         └─■──tributária_reforma tributária_tributário_sistema tributário_reforma ── Topic: 54
+│    │              │    │    └─Judiciário_judiciais_significa que as decisões_que as decisões_decisões judiciais
+│    │              │    │         ├─■──decisões_significa que as decisões_que as decisões_as decisões_as decisões do ── Topic: 45
+│    │              │    │         └─■──Judiciário_judiciais_decisões judiciais_do Judiciário_judiciais devem ── Topic: 10
+│    │              │    └─normas_normas constitucionais_pública_das normas_constitucionais
+│    │              │         ├─normas_normas constitucionais_das normas constitucionais_constitucionais_implementação
+│    │              │         │    ├─■──implementação_na implementação_programas_uma falha na implementação_falha na implementação ── Topic: 41
+│    │              │         │    └─■──normas_normas constitucionais_das normas_das normas constitucionais_constitucionais ── Topic: 11
+│    │              │         └─pública_fiscal_públicos_público_pública isso
+│    │              │              ├─pública_fiscal_público_pública isso significa_pública isso significa que
+│    │              │              │    ├─■──fiscal_CPIs_responsabilidade fiscal_controle_responsabilidade ── Topic: 14
+│    │              │              │    └─■──pública_públicos_público_pública isso significa que_pública isso ── Topic: 6
+│    │              │              └─■──moralidade_moral_administrativa_moralidade pública_administração ── Topic: 61
+│    │              └─significa que há_há uma lacuna_uma lacuna_lacuna_entre os
+│    │                   ├─há uma lacuna_uma lacuna_lacuna_que há uma lacuna_significa que há
+│    │                   │    ├─■──uma lacuna_há uma lacuna_lacuna_que há uma lacuna_adolescentes ── Topic: 30
+│    │                   │    └─jurídica_que há uma crise_há uma crise_insegurança jurídica_significa que há uma
+│    │                   │         ├─■──jurídica_insegurança jurídica_jurídico_segurança jurídica_uma insegurança jurídica ── Topic: 49
+│    │                   │         └─■──uma crise_há uma crise_que há uma crise_crise institucional_uma crise institucional ── Topic: 66
+│    │                   └─equilíbrio_equilíbrio entre_equilíbrio entre os_os Poderes_entre os Poderes
+│    │                        ├─■──equilíbrio_equilíbrio entre_equilíbrio entre os_os Poderes_entre os Poderes ── Topic: 28
+│    │                        └─■──competências_competência_de competências_deve atuar dentro_competências constitucionais ── Topic: 74
+│    └─que qualquer_significa que qualquer_democracia_democrático_democrática
+│         ├─democracia_democrático_democrática_significa que qualquer_democráticas
+│         │    ├─democracia_democrático_democrática_democráticas_democráticos
+│         │    │    ├─■──democrático_democrática_democráticas_democráticos_ordem democrática ── Topic: 2
+│         │    │    └─■──democracia_democracia isso significa que_democracia isso significa_democracia isso_democracia Isso ── Topic: 5
+│         │    └─violação_uma violação_significa que qualquer_isso significa que qualquer_qualquer violação
+│         │         ├─■──violação_uma violação_qualquer violação_significa que qualquer violação_que qualquer violação ── Topic: 15
+│         │         └─■──baluarte contra_um baluarte contra_um baluarte_como um baluarte contra_como um baluarte ── Topic: 24
+│         └─significa que qualquer medida_que qualquer medida_significa que qualquer_qualquer medida que_que qua
+│              ├─■──significa que qualquer medida_qualquer medida_que qualquer medida_qualquer medida que_que qualquer m ── Topic: 56
+│              └─■──retrocesso_um retrocesso_vista como um retrocesso_como um retrocesso_direitos vista como um ── Topic: 59
+└─significa que ela_Isso significa que Constituição_isso significa que Constituição_isso significa que
+     ├─Brasil_Isso significa que Constituição_significa que ela_isso significa que Constituição_social
+     │    ├─políticas públicas_serve como base para_serve como base_como base_serve
+     │    │    ├─■──políticas_políticas públicas_as políticas_as políticas públicas_significa que as políticas ── Topic: 16
+     │    │    └─base para_serve como base para_serve como base_como base para_como base
+     │    │         ├─■──ela serve como base_que ela serve_significa que ela serve_que ela serve como_ela serve como ── Topic: 44
+     │    │         └─■──base para_base_serve como base para_serve como base_como base para ── Topic: 32
+     │    └─Isso significa que Constituição_isso significa que Constituição_significa que ela_como um_vista como
+     │         ├─legal_Isso significa que Constituição_isso significa que Constituição_social_educação
+     │         │    ├─educação_como um documento_vista como um documento_vista como um_vista como
+     │         │    │    ├─lidar_lidar com_para lidar_para lidar com_crises
+     │         │    │    │    ├─■──lidar_lidar com_para lidar com_para lidar_insuficiente para ── Topic: 53
+     │         │    │    │    └─■──crises_de crises_problemas_crises institucionais_crises econômicas ── Topic: 48
+     │         │    │    └─educação_documento_um documento_como um documento_vista como um documento
+     │         │    │         ├─documento_um documento_como um documento_vista como um documento_um documento que
+     │         │    │         │    ├─■──flexível_significa que Constituição flexível_Constituição flexível_que Constituição flexível_flexíve ── Topic: 57
+     │         │    │         │    └─documento_um documento_como um documento_vista como um documento_um documento que
+     │         │    │         │         ├─■──documento_um documento_como um documento_vista como um documento_um documento que ── Topic: 20
+     │         │    │         │         └─um instrumento_econômico_desenvolvimento econômico_um instrumento de_instrumento de
+     │         │    │         │              ├─■──instrumento_um instrumento_um instrumento de_instrumento de_como um instrumento ── Topic: 51
+     │         │    │         │              └─■──econômico_desenvolvimento econômico_crescimento econômico_econômico Isso_econômico Isso significa qu ── Topic: 29
+     │         │    │         └─educação_terras_ambiental_que educação_significa que educação
+     │         │    │              ├─regional_desenvolvimento regional_como Amazônia_regional isso_regional isso significa que
+     │         │    │              │    ├─■──regional_desenvolvimento regional_regional isso_regional isso significa_regional isso significa que ── Topic: 58
+     │         │    │              │    └─■──Amazônia_como Amazônia_regiões como Amazônia_Amazonas_da Amazônia ── Topic: 73
+     │         │    │              └─educação_terras_que educação_significa que educação_de terras
+     │         │    │                   ├─■──empresas_pequenas empresas_micro_micro pequenas empresas_empresas isso significa ── Topic: 68
+     │         │    │                   └─educação_terras_significa que educação_que educação_proteção ambiental
+     │         │    │                        ├─educação_significa que educação_que educação_proteção ambiental_da educação
+     │         │    │                        │    ├─■──educação_que educação_significa que educação_da educação_isso significa que educação ── Topic: 17
+     │         │    │                        │    └─■──ambiental_proteção ambiental_ambiente_um ambiente_ambiental isso significa que ── Topic: 36
+     │         │    │                        └─■──terras_de terras_terras indígenas_terras isso significa_terras isso significa que ── Topic: 50
+     │         │    └─legal_cidadãos_base legal_significa que ela_igualdade
+     │         │         ├─legal_base legal_igualdade_base legal para_uma base
+     │         │         │    ├─legal_base legal_base legal para_uma base_uma base legal
+     │         │         │    │    ├─■──legal_base legal_base legal para_uma base_uma base legal ── Topic: 4
+     │         │         │    │    └─■──combater_corrupção_corrupção isso significa que_corrupção isso significa_combater corrupção ── Topic: 64
+     │         │         │    └─social_igualdade_justiça social_históricas_social isso significa que
+     │         │         │         ├─social_justiça social_social isso significa que_social isso_social isso significa
+     │         │         │         │    ├─■──igualdade_igualdade justiça_igualdade Isso_igualdade Isso significa_igualdade Isso significa que ── Topic: 23
+     │         │         │         │    └─■──social_justiça social_social isso significa que_social isso_social isso significa ── Topic: 22
+     │         │         │         └─■──históricas_desigualdades históricas_corrigir desigualdades históricas_corrigir desigualdades_injusti ── Topic: 37
+     │         │         └─cidadãos_dos cidadãos_direitos dos cidadãos_cidadãos isso significa que_cidadãos isso
+     │         │              ├─■──trabalhadores_dos trabalhadores_direitos dos trabalhadores_os direitos dos trabalhadores_protege ── Topic: 21
+     │         │              └─■──cidadãos_dos cidadãos_direitos dos cidadãos_cidadãos isso_cidadãos isso significa ── Topic: 12
+     │         └─significa que Constituição de_que Constituição de_Brasil isso significa que_Brasil isso significa_Br
+     │              ├─um papel_fundamental_teve um papel_significa que Constituição teve_que Constituição teve
+     │              │    ├─■──política_para estabilidade política_estabilidade política_fundamental para estabilidade política_fun ── Topic: 40
+     │              │    └─■──um papel_teve um papel_fundamental_Constituição teve um papel_que Constituição teve ── Topic: 25
+     │              └─significa que Constituição de_Brasil isso significa que_Brasil isso significa_Brasil isso_do Brasil
+     │                   ├─significa que Constituição de_Brasil isso_Brasil isso significa que_Brasil isso significa_do Brasil
+     │                   │    ├─■──Constituição de_que Constituição de_significa que Constituição de_de vista como um_Constituição de v ── Topic: 7
+     │                   │    └─■──Brasil isso_Brasil isso significa que_Brasil isso significa_do Brasil_Brasil Isso significa ── Topic: 1
+     │                   └─■──representa_ela representa_significa que ela representa_que ela representa_representa um ── Topic: 46
+     └─defendida_que ela deve ser_significa que ela deve_protegida contra_deve ser defendida
+          ├─■──defendida_defendida contra_ser defendida_deve ser defendida_ser defendida contra ── Topic: 31
+          └─protegida_protegida contra_ser respeitada protegida_respeitada protegida_deve ser respeitada protegi
+               ├─■──protegida_protegida contra_deve ser protegida_ser protegida_deve ser protegida contra ── Topic: 55
+               └─■──contra ameaças autoritárias_ameaças autoritárias_autoritárias isso significa_autoritárias isso signi ── Topic: 63
+

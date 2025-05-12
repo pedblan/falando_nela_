@@ -1,0 +1,170 @@
+.
+├─que Estado_implica que Estado_Estado_responsabilidade_educação
+│    ├─que Estado_implica que Estado_Estado_que Estado deve_Estado deve
+│    │    ├─públicas_social_políticas públicas_pública_discriminação
+│    │    │    ├─social_discriminação_igualdade_de gênero_igualdade de
+│    │    │    │    ├─■──discriminação_igualdade_homens mulheres_igualdade de_de forma igualitária ── Topic: 21
+│    │    │    │    └─■──social_seguridade social_seguridade_social isso_social isso implica ── Topic: 31
+│    │    │    └─públicas_políticas públicas_pública_políticas_público
+│    │    │         ├─■──públicos_pública_público_Pública_Defensoria Pública ── Topic: 5
+│    │    │         └─■──políticas públicas_políticas públicas devem_públicas devem_políticas públicas devem ser_que política ── Topic: 27
+│    │    └─educação_implica que Estado_que Estado_implica que Estado deve_que Estado deve
+│    │         ├─educação_implica que Estado deve_implica que Estado_acesso educação_Isso implica que Estado
+│    │         │    ├─■──educação_acesso educação_educação Isso_educação Isso implica_educação Isso implica que ── Topic: 8
+│    │         │    └─■──implica que Estado deve_que Estado deve_Estado deve_implica que Estado_que Estado ── Topic: 33
+│    │         └─cidadãos_os cidadãos_implica que Estado_que Estado_todos os cidadãos
+│    │              ├─os cidadãos_todos os cidadãos_implica que Estado_que Estado_cidadãos isso implica
+│    │              │    ├─■──cidadãos_os cidadãos_todos os cidadãos_cidadãos isso_cidadãos isso implica que ── Topic: 16
+│    │              │    └─■──tem obrigação de garantir_obrigação de garantir_Estado tem obrigação de_que Estado tem obrigação_Est ── Topic: 84
+│    │              └─■──universal_acesso universal_garantir acesso universal_acesso_universal igualitário ── Topic: 57
+│    └─responsabilidade_responsabilidade de_tem responsabilidade_tem responsabilidade de_que Estado tem res
+│         ├─responsabilidade_responsabilidade de_tem responsabilidade_tem responsabilidade de_Estado tem respons
+│         │    ├─■──responsabilidade_Estado tem responsabilidade de_que Estado tem responsabilidade_Estado tem responsab ── Topic: 63
+│         │    └─■──responsabilidade_responsabilidade de_tem responsabilidade_tem responsabilidade de_que Estado tem res ── Topic: 4
+│         └─■──das crianças_menores de_menores_menores de anos_anos não ── Topic: 44
+└─Constituição_constitucionais_processo_que qualquer_implica que qualquer
+     ├─Congresso_que Congresso_implica que Congresso_Congresso Nacional_isso implica que Congresso
+     │    ├─Congresso_que Congresso_implica que Congresso_isso implica que Congresso_implica que Congresso tem
+     │    │    ├─■──que Congresso tem responsabilidade_Congresso tem responsabilidade de_Congresso tem responsabilidade_ ── Topic: 58
+     │    │    └─Congresso_que Congresso_implica que Congresso_Congresso Nacional_isso implica que Congresso
+     │    │         ├─■──Congresso_que Congresso_implica que Congresso_Congresso Nacional_isso implica que Congresso ── Topic: 11
+     │    │         └─■──presidenciais_implica que Congresso_que Congresso_Congresso_isso implica que Congresso ── Topic: 59
+     │    └─Presidente_que Presidente_implica que Presidente_da República_Presidente da
+     │         ├─que Presidente_implica que Presidente_Presidente da_Presidente da República_Isso implica que Preside
+     │         │    ├─■──do Congresso_implica que Presidente_Congresso Nacional_isso implica que Presidente_aprovação do Cong ── Topic: 74
+     │         │    └─■──Presidente_que Presidente_implica que Presidente_Presidente da_Presidente da República ── Topic: 12
+     │         └─crimes_de responsabilidade_crime de responsabilidade_responsabilidade_crimes de responsabilidade
+     │              ├─■──de responsabilidade_crime de responsabilidade_implica que Presidente_que Presidente_crimes ── Topic: 66
+     │              └─■──crimes_de responsabilidade_crime de responsabilidade_de crimes_responsabilidade ── Topic: 26
+     └─Constituição_constitucionais_processo_que os_que qualquer
+          ├─Constituição_processo_constitucionais_impeachment_que qualquer
+          │    ├─constitucionais_Constituição_impeachment_que qualquer_implica que qualquer
+          │    │    ├─implica que qualquer_que qualquer_Isso implica que qualquer_isso implica que qualquer_violação
+          │    │    │    ├─violação_implica que qualquer_que qualquer_uma violação_Isso implica que qualquer
+          │    │    │    │    ├─■──de censura_de censura ou_forma de censura_qualquer forma de censura_implica que qualquer forma ── Topic: 65
+          │    │    │    │    └─violação_uma violação_implica que qualquer_uma violação constitucional_violação constitucional
+          │    │    │    │         ├─■──violação_uma violação_uma violação constitucional_violação constitucional_violar ── Topic: 32
+          │    │    │    │         └─■──militar_militares_tentativa de golpe_de golpe_golpe ── Topic: 70
+          │    │    │    └─implica que qualquer_que qualquer_isso implica que qualquer_reformas_judicial
+          │    │    │         ├─reforma_implica que qualquer_que qualquer_reformas_isso implica que qualquer
+          │    │    │         │    ├─■──implica que qualquer alteração_que qualquer alteração_qualquer alteração_implica que qualquer_que qu ── Topic: 50
+          │    │    │         │    └─reforma_reformas_qualquer reforma_que qualquer reforma_implica que qualquer reforma
+          │    │    │         │         ├─■──que qualquer legislação_qualquer legislação_implica que qualquer legislação_inconstitucional_implica ── Topic: 24
+          │    │    │         │         └─■──reforma_reformas_implica que qualquer reforma_qualquer reforma_que qualquer reforma ── Topic: 20
+          │    │    │         └─■──judicial_decisão judicial_judicial isso implica que_judicial isso implica_judicial isso ── Topic: 51
+          │    │    └─impeachment_constitucionais_Constituição_que as_implica que as
+          │    │         ├─impeachment_Constituição_constitucionais_que as_implica que as
+          │    │         │    ├─impeachment_de impeachment_legal_processo de_governo
+          │    │         │    │    ├─trabalhadores_os trabalhadores_implica que os trabalhadores_que os trabalhadores_trabalhistas
+          │    │         │    │    │    ├─■──trabalhadores_domésticos_trabalhadores domésticos_os trabalhadores_os trabalhadores domésticos ── Topic: 80
+          │    │         │    │    │    └─■──os trabalhadores_trabalhistas_dos trabalhadores_direitos trabalhistas_implica que os trabalhadores ── Topic: 35
+          │    │         │    │    └─impeachment_de impeachment_legal_Federal_processo de
+          │    │         │    │         ├─Federal_governo_Tribunal_implica que governo_que governo
+          │    │         │    │         │    ├─Federal_Tribunal_Supremo Tribunal_Supremo Tribunal Federal_Tribunal Federal
+          │    │         │    │         │    │    ├─Tribunal_Tribunal Federal_Supremo Tribunal_Supremo Tribunal Federal_medidas provisórias
+          │    │         │    │         │    │    │    ├─trânsito_em julgado_trânsito em_trânsito em julgado_Zona Franca
+          │    │         │    │         │    │    │    │    ├─■──Zona Franca_Franca_Zona_Franca de_Zona Franca de Manaus ── Topic: 67
+          │    │         │    │         │    │    │    │    └─trânsito_em julgado_trânsito em_trânsito em julgado_Armadas
+          │    │         │    │         │    │    │    │         ├─■──Armadas_Forças Armadas_Forças_as Forças Armadas_as Forças ── Topic: 79
+          │    │         │    │         │    │    │    │         └─■──trânsito_em julgado_trânsito em_trânsito em julgado_antes do ── Topic: 45
+          │    │         │    │         │    │    │    └─Tribunal_Supremo Tribunal Federal_Supremo Tribunal_Tribunal Federal_medidas provisórias
+          │    │         │    │         │    │    │         ├─medidas_medidas provisórias_de medidas_de medidas provisórias_que medidas
+          │    │         │    │         │    │    │         │    ├─empresas_mínimo_salário mínimo_gastos_salário mínimo deve
+          │    │         │    │         │    │    │         │    │    ├─■──mínimo_salário mínimo_salário mínimo deve_mínimo deve_implica que salário mínimo ── Topic: 38
+          │    │         │    │         │    │    │         │    │    └─empresas_financiamento_que financiamento_implica que financiamento_empresarial
+          │    │         │    │         │    │    │         │    │         ├─■──empresas_financiamento_implica que financiamento_que financiamento_empresarial ── Topic: 37
+          │    │         │    │         │    │    │         │    │         └─■──gastos_de gastos_teto de gastos_os gastos_gastos públicos ── Topic: 82
+          │    │         │    │         │    │    │         │    └─medidas_medidas provisórias_provisórias_de medidas_de medidas provisórias
+          │    │         │    │         │    │    │         │         ├─■──medidas provisórias_de medidas_de medidas provisórias_que medidas_implica que medidas ── Topic: 3
+          │    │         │    │         │    │    │         │         └─■──crédito_de crédito_créditos_autorização_créditos suplementares ── Topic: 48
+          │    │         │    │         │    │    │         └─Tribunal_Tribunal Federal_Supremo Tribunal Federal_Supremo Tribunal_Federal
+          │    │         │    │         │    │    │              ├─Tribunal_Tribunal Federal_Supremo Tribunal_Supremo Tribunal Federal_Federal
+          │    │         │    │         │    │    │              │    ├─■──Tribunal Federal_Supremo Tribunal Federal_Supremo Tribunal_que Supremo Tribunal Federal_que Supremo  ── Topic: 14
+          │    │         │    │         │    │    │              │    └─CPI_uma CPI_de uma CPI_CPIs_Câmara dos Deputados
+          │    │         │    │         │    │    │              │         ├─■──CPI_uma CPI_de uma CPI_CPIs_CPI deve ── Topic: 39
+          │    │         │    │         │    │    │              │         └─■──Câmara_Câmara dos Deputados_Câmara dos_que Câmara_implica que Câmara ── Topic: 71
+          │    │         │    │         │    │    │              └─transparente_transparentes_ser transparentes_devem ser transparentes_voto secreto
+          │    │         │    │         │    │    │                   ├─■──secreto_voto secreto_secretos_implica que voto secreto_que voto secreto ── Topic: 81
+          │    │         │    │         │    │    │                   └─■──transparente_transparentes_devem ser transparentes_ao público_deve ser transparente ── Topic: 54
+          │    │         │    │         │    │    └─governo_implica que governo_que governo_governo deve_implica que governo deve
+          │    │         │    │         │    │         ├─governo_implica que governo_que governo_governo deve_implica que governo deve
+          │    │         │    │         │    │         │    ├─■──governo_implica que governo_que governo_isso implica que governo_governo deve ── Topic: 2
+          │    │         │    │         │    │         │    └─■──deve adotar_que governo deve adotar_governo deve adotar_deve adotar políticas_implica que governo de ── Topic: 46
+          │    │         │    │         │    │         └─■──econômico_desenvolvimento econômico_regional_Centro Oeste_para promover ── Topic: 41
+          │    │         │    │         │    └─terras_terras indígenas_ambiental_ambiente_meio ambiente
+          │    │         │    │         │         ├─ambiental_ambiente_meio ambiente_ambientais_proteção
+          │    │         │    │         │         │    ├─■──defender_se defender_de se defender_de defender_de se ── Topic: 75
+          │    │         │    │         │         │    └─■──ambiental_ambiente_meio ambiente_ambientais_proteger meio ambiente ── Topic: 30
+          │    │         │    │         │         └─terras_indígenas_terras indígenas_indígenas deve_data
+          │    │         │    │         │              ├─terras_indígenas_terras indígenas_indígenas deve_data
+          │    │         │    │         │              │    ├─■──terras_indígenas_terras indígenas_indígenas deve_data ── Topic: 9
+          │    │         │    │         │              │    └─protegidos_que esses direitos_implica que esses direitos_que esses_implica que esses
+          │    │         │    │         │              │         ├─■──implica que Estado não_que Estado não_Estado não_Isso implica que Estado_liberdade ── Topic: 60
+          │    │         │    │         │              │         └─■──protegidos_que esses direitos_implica que esses direitos_que esses_implica que esses ── Topic: 40
+          │    │         │    │         │              └─■──servidores_os servidores_implica que os servidores_que os servidores_de Rondônia ── Topic: 76
+          │    │         │    │         └─impeachment_de impeachment_legal_que processo_implica que processo
+          │    │         │    │              ├─impeachment_de impeachment_processo de_que processo_implica que processo
+          │    │         │    │              │    ├─impeachment_de impeachment_que processo_implica que processo_que processo de
+          │    │         │    │              │    │    ├─■──processo legislativo_que há um processo_há um processo_um processo_implica que há um ── Topic: 22
+          │    │         │    │              │    │    └─■──impeachment_de impeachment_que processo de_implica que processo de_que processo ── Topic: 1
+          │    │         │    │              │    └─legal_legal para_normas constitucionais_base legal_implica que há
+          │    │         │    │              │         ├─■──normas_normas constitucionais_as normas_as normas constitucionais_implica que as normas ── Topic: 29
+          │    │         │    │              │         └─■──legal_base legal_base legal para_devido processo legal_processo legal ── Topic: 10
+          │    │         │    │              └─parlamentares_os parlamentares_implica que os parlamentares_que os parlamentares_penal
+          │    │         │    │                   ├─■──parlamentares_os parlamentares_implica que os parlamentares_que os parlamentares_que parlamentares ── Topic: 34
+          │    │         │    │                   └─■──penal_Penal_Código Penal_redução da_exercício do mandato ── Topic: 56
+          │    │         │    └─mudanças_que mudanças_implica que mudanças_Constituição_constitucionais
+          │    │         │         ├─que mudanças_implica que mudanças_isso implica que mudanças_Isso implica que mudanças_fiscalizar
+          │    │         │         │    ├─mudanças_que mudanças_implica que mudanças_isso implica que mudanças_Isso implica que mudanças
+          │    │         │         │    │    ├─instrumento_um instrumento_implica que Constituição um_que Constituição um_texto constitucional
+          │    │         │         │    │    │    ├─■──instrumento_um instrumento_instrumentos_instrumento de_um instrumento para ── Topic: 78
+          │    │         │         │    │    │    └─■──um documento_documento_texto constitucional_texto_Constituição um documento ── Topic: 73
+          │    │         │         │    │    └─mudanças_que mudanças_implica que mudanças_isso implica que mudanças_Isso implica que mudanças
+          │    │         │         │    │         ├─democrático_políticas_democrática_políticos_política
+          │    │         │         │    │         │    ├─■──representantes_representação_representantes eleitos_partidos_do povo ── Topic: 69
+          │    │         │         │    │         │    └─democrático_democrática_políticos_política_Constituição
+          │    │         │         │    │         │         ├─■──políticos_política_decisões políticas_políticas devem_político ── Topic: 18
+          │    │         │         │    │         │         └─■──democrático_democráticos_democráticas_processo democrático_implica que Constituição ── Topic: 23
+          │    │         │         │    │         └─■──que mudanças_implica que mudanças_isso implica que mudanças_Isso implica que mudanças_mudanças const ── Topic: 7
+          │    │         │         │    └─fiscalizar_Ministério Público_Ministério_Público_fiscalização
+          │    │         │         │         ├─■──democracia_democracia isso implica_democracia isso_democracia isso implica que_que Senado tem um ── Topic: 43
+          │    │         │         │         └─fiscalizar_Ministério Público_Ministério_Público_fiscalização
+          │    │         │         │              ├─■──fiscalizar_fiscalização_de fiscalizar_fiscal_de fiscalização ── Topic: 15
+          │    │         │         │              └─■──Ministério Público_Ministério_Público_implica que Ministério Público_que Ministério Público ── Topic: 53
+          │    │         │         └─judiciais_Judiciário_decisões judiciais_que decisões_implica que decisões
+          │    │         │              ├─judiciais_Judiciário_decisões judiciais_que as decisões_implica que as decisões
+          │    │         │              │    ├─■──judiciais_Judiciário_decisões judiciais_implica que Judiciário_que Judiciário ── Topic: 6
+          │    │         │              │    └─■──decisões_as decisões_implica que as decisões_que as decisões_que decisões ── Topic: 42
+          │    │         │              └─conformidade_em conformidade com_em conformidade_conformidade com_estar em conformidade com
+          │    │         │                   ├─conformidade_em conformidade_em conformidade com_conformidade com_estar em conformidade
+          │    │         │                   │    ├─■──Regimento_Regimento Interno_que Regimento Interno_que Regimento_regimento ── Topic: 83
+          │    │         │                   │    └─■──conformidade_em conformidade com_em conformidade_conformidade com_estar em conformidade com ── Topic: 36
+          │    │         │                   └─implica que STF_que STF_autoridades_STF deve_isso implica que STF
+          │    │         │                        ├─■──implica que STF_isso implica que STF_do STF_implica que STF deve_que STF deve ── Topic: 72
+          │    │         │                        └─■──autoridades_autoridade_de acordo com_de acordo_acordo com ── Topic: 55
+          │    │         └─limites_que cada_implica que cada_harmônica_dos limites
+          │    │              ├─limites_que cada_implica que cada_cada_harmônica
+          │    │              │    ├─■──limites_dos limites_limites constitucionais_dentro dos limites_os limites ── Topic: 17
+          │    │              │    └─harmônica_que cada_implica que cada_harmônica isso_harmônica isso implica que
+          │    │              │         ├─■──implica que cada Poder_que cada Poder_cada Poder_implica que cada_que cada ── Topic: 64
+          │    │              │         └─■──harmônica_harmônica isso_harmônica isso implica_harmônica isso implica que_independente ── Topic: 47
+          │    │              └─que nenhum_implica que nenhum_nenhum_isso implica que nenhum_nenhum dos
+          │    │                   ├─■──equilíbrio_os Poderes_implica que os Poderes_Poderes devem_que os Poderes ── Topic: 77
+          │    │                   └─■──que nenhum_nenhum_implica que nenhum_isso implica que nenhum_implica que nenhum dos ── Topic: 68
+          │    └─que Brasil_implica que Brasil_implica que Constituição_que Constituição_do Brasil
+          │         ├─■──que Brasil_implica que Brasil_do Brasil_no Brasil_Brasil Isso implica ── Topic: 0
+          │         └─Constituição de_implica que Constituição de_que Constituição de_implica que Constituição_que Constit
+          │              ├─■──Constituição de_implica que Constituição de_que Constituição de_implica que Constituição_que Constit ── Topic: 52
+          │              └─■──Constituição de_implica que Constituição de_que Constituição de_implica que Constituição_que Constit ── Topic: 62
+          └─implica que os_que os_os Estados_financeiras_isso implica que os
+               ├─autonomia_recursos_implica que os_que os_tributária
+               │    ├─■──autonomia_ter autonomia_autonomia política_administrativa_autonomia política administrativa ── Topic: 28
+               │    └─financeiras_Municípios_financeira_implica que os_que os
+               │         ├─financeiras_Municípios_financeira_implica que os_de recursos
+               │         │    ├─■──financeiras_financeira_financeiros_financiamento_financeiro ── Topic: 13
+               │         │    └─■──recursos_de recursos_os entes_os recursos_implica que os ── Topic: 25
+               │         └─■──tributária_tributário_sistema tributário_criação de novos_de novos ── Topic: 19
+               └─petróleo_do petróleo_Estados_os Estados_distribuição dos
+                    ├─■──distribuição dos_distribuição_petróleo_do petróleo_implica que distribuição ── Topic: 61
+                    └─■──petróleo_do petróleo_do ICMS_de petróleo_Estados ── Topic: 49
+

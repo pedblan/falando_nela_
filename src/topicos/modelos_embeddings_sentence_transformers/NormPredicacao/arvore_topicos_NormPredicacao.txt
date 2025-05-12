@@ -1,0 +1,194 @@
+.
+├─Constituição de_educação_Estado_Brasil_Constituição assegura
+│    ├─educação_liberdade_liberdade de_Constituição assegura_igualdade
+│    │    ├─liberdade de_liberdade de expressão_assegura liberdade_Constituição assegura liberdade_Constituição 
+│    │    │    ├─liberdade de_liberdade de expressão_assegura liberdade_Constituição assegura liberdade_Constituição 
+│    │    │    │    ├─■──religiosa_liberdade religiosa_culto_de culto_Constituição assegura liberdade ── Topic: 77
+│    │    │    │    └─■──liberdade de_liberdade de expressão_de expressão Constituição_Constituição assegura liberdade de_ass ── Topic: 13
+│    │    │    └─■──manifestação_livre manifestação_manifestação do pensamento_manifestação do_de manifestação ── Topic: 76
+│    │    └─educação_saúde_igualdade_social_iguais
+│    │         ├─educação_saúde_social_um direito_gastos
+│    │         │    ├─social_cidadão_cidadãos_ir vir_um direito
+│    │         │    │    ├─cidadãos_ir vir_ir_direito de ir vir_direito de ir
+│    │         │    │    │    ├─cidadãos_cidadão_ir vir_ir_direito de ir vir
+│    │         │    │    │    │    ├─■──ir vir_de ir vir_direito de ir vir_de ir vir Constituição_vir Constituição ── Topic: 89
+│    │         │    │    │    │    └─cidadãos_cidadão_do cidadão_cidadãos Constituição_dos cidadãos
+│    │         │    │    │    │         ├─■──garante direito_Constituição garante direito_Constituição garante_garantias_direitos garantias ── Topic: 9
+│    │         │    │    │    │         └─■──cidadão_cidadãos_do cidadão_cidadãos Constituição_dos cidadãos ── Topic: 19
+│    │         │    │    │    └─■──universal_saúde_de Saúde_Sistema Único de Saúde_Único de Saúde ── Topic: 88
+│    │         │    │    └─social_social Constituição_Social_assistência_seguridade
+│    │         │    │         ├─■──Social_social_assistência social_seguridade social_Seguridade Social ── Topic: 64
+│    │         │    │         └─■──social_social Constituição_direito social_um direito social_direito social Constituição ── Topic: 51
+│    │         │    └─educação_educação Constituição_família_saúde educação_adolescente
+│    │         │         ├─educação_educação Constituição_saúde educação_educação saúde_gastos públicos
+│    │         │         │    ├─■──gastos públicos_de gastos_os gastos_públicos_teto de gastos ── Topic: 56
+│    │         │         │    └─educação_educação Constituição_educação saúde_saúde educação_Educação
+│    │         │         │         ├─■──educação_em educação_educação Constituição_educação Constituição estabelece_mínimo de ── Topic: 46
+│    │         │         │         └─■──educação_saúde educação_educação Constituição_educação saúde_direito educação ── Topic: 8
+│    │         │         └─família_adolescente_criança_da família_prioridade
+│    │         │              ├─■──dever do Estado da_Estado da família_do Estado da família_do Estado da_da família ── Topic: 92
+│    │         │              └─■──adolescente_família_criança_prioridade_família da sociedade ── Topic: 38
+│    │         └─igualdade_perante lei Constituição_são iguais_iguais perante lei_iguais perante
+│    │              ├─igualdade_humana_pessoa humana_dignidade da_da pessoa humana
+│    │              │    ├─■──humana_humanos_direitos humanos_pessoa humana_humana Constituição ── Topic: 57
+│    │              │    └─■──igualdade_da igualdade_igualdade Constituição_princípio da igualdade_de igualdade ── Topic: 36
+│    │              └─perante lei Constituição_são iguais_iguais perante lei_iguais perante_lei Constituição
+│    │                   ├─■──homens mulheres_entre homens mulheres_homens mulheres são_homens mulheres são iguais_que homens mulh ── Topic: 94
+│    │                   └─■──perante lei Constituição_iguais perante_iguais perante lei_lei Constituição_são iguais ── Topic: 26
+│    └─Constituição de_Brasil_trabalhadores_do Brasil_democrático
+│         ├─Constituição de_Brasil_do Brasil_democrático_brasileira
+│         │    ├─democrático_democrático de_democrático de direito_Estado democrático_Estado democrático de
+│         │    │    ├─■──democrático_democrático de_democrático de direito_Estado democrático_Estado democrático de ── Topic: 12
+│         │    │    └─■──Constituição de_de estabelece_Constituição de estabelece_democrático_Constituição Federal de ── Topic: 22
+│         │    └─Constituição de_do Brasil_brasileira_Brasil Constituição_Federativa do
+│         │         ├─Constituição de_Constituição de criou_Constituição de foi_Constituição de criou Estado_de criou Esta
+│         │         │    ├─■──Constituição de_Justiça do Trabalho_Justiça do_Constituição de foi_do Trabalho ── Topic: 79
+│         │         │    └─■──Constituição de_Constituição de criou_Constituição de criou Estado_de criou Estado_Constituição de f ── Topic: 6
+│         │         └─Brasil_do Brasil_brasileira_Brasil Constituição_Federativa do Brasil
+│         │              ├─■──Brasil Constituição de_Brasil_Brasil Constituição_Constituição de_no Brasil Constituição ── Topic: 25
+│         │              └─■──Brasil_do Brasil_brasileira_República Federativa do Brasil_Federativa do ── Topic: 0
+│         └─terras_indígenas_terras indígenas_mínimo_de terras
+│              ├─trabalhadores_trabalhistas_mínimo_direitos trabalhistas_dos trabalhadores
+│              │    ├─■──salário mínimo_mínimo_que salário mínimo_que salário_do salário mínimo ── Topic: 32
+│              │    └─trabalhadores_trabalhistas_direitos trabalhistas_dos trabalhadores_trabalhadores Constituição
+│              │         ├─trabalhadores_trabalhistas_direitos trabalhistas_dos trabalhadores_trabalhadores Constituição
+│              │         │    ├─■──trabalhadores_Constituição de_aos trabalhadores_dos trabalhadores_trabalhadores rurais ── Topic: 50
+│              │         │    └─■──trabalhadores_trabalhistas_direitos trabalhistas_trabalhadores Constituição_dos trabalhadores ── Topic: 18
+│              │         └─■──domésticos_trabalhadores_trabalhadores domésticos_domésticos Constituição_domésticas ── Topic: 91
+│              └─terras_indígenas_terras indígenas_de terras_indígenas Constituição
+│                   ├─■──povos indígenas_povos_povos indígenas Constituição_indígenas_indígenas Constituição ── Topic: 85
+│                   └─terras_indígenas_terras indígenas_de terras_de terras indígenas
+│                        ├─■──terras_terras indígenas_terra_as terras_de terras ── Topic: 16
+│                        └─■──terras_indígenas_terras indígenas_de terras_de terras indígenas ── Topic: 59
+└─Constituição estabelece que_Federal_deve ser_impeachment_por
+     ├─Constituição estabelece que_Federal_deve ser_por_permite
+     │    ├─art_União_Estados_competência_Constituição pode
+     │    │    ├─art_sobre_competência_do art_da União
+     │    │    │    ├─art_competência_do art_ambiente_meio ambiente
+     │    │    │    │    ├─competência_penal_para legislar_Penal_estabelece competência
+     │    │    │    │    │    ├─■──penal_Penal_Código_maioridade penal_penal Constituição ── Topic: 53
+     │    │    │    │    │    └─■──competência_estabelece competência_concorrente da União_Constituição estabelece competência_concorre ── Topic: 15
+     │    │    │    │    └─art_do art_meio ambiente_art Constituição_ambiental
+     │    │    │    │         ├─■──ambiente_meio ambiente_equilibrado_ambiental_ao meio ambiente ── Topic: 28
+     │    │    │    │         └─■──do art_no art_art Constituição_no art Constituição_Constituição através do ── Topic: 4
+     │    │    │    └─Estados_petróleo_tributária_Estados Municípios_de recursos
+     │    │    │         ├─tributária_de recursos_Municípios Constituição_Estados Municípios_imposto
+     │    │    │         │    ├─tributária_impostos_imposto_tributário_de impostos
+     │    │    │         │    │    ├─■──impostos_imposto_de impostos_Imposto_imposto sobre ── Topic: 37
+     │    │    │         │    │    └─■──tributária_tributário_tributos_sistema tributário_tribunais ── Topic: 20
+     │    │    │         │    └─de recursos_financeiro_Municípios Constituição_financeiras_financeiros
+     │    │    │         │         ├─■──recursos_de recursos_os recursos_de recursos entre_recursos entre ── Topic: 61
+     │    │    │         │         └─■──financeiro_financeiras_financeiros_Centro_Centro Oeste ── Topic: 34
+     │    │    │         └─petróleo_do ICMS_de petróleo_exploração_gás
+     │    │    │              ├─■──petróleo_exploração_de petróleo_gás_da exploração ── Topic: 60
+     │    │    │              └─■──ICMS_do ICMS_energia elétrica_ICMS sobre_que ICMS ── Topic: 71
+     │    │    └─Constituição pode ser_Constituição pode_de emenda_propostas_propostas de emenda
+     │    │         ├─■──reforma_reformas_reforma política_reforma da_reforma política Constituição ── Topic: 84
+     │    │         └─de emenda_propostas_propostas de emenda_propostas de_Constituição pode ser
+     │    │              ├─■──propostas_de emenda_propostas de_propostas de emenda_Constituição pode ser ── Topic: 11
+     │    │              └─■──PECs_PECs Constituição_pode ser alterada por_ser alterada por_pode ser alterada ── Topic: 96
+     │    └─Constituição estabelece que_Federal_Tribunal_deve ser_Presidente
+     │         ├─emana do_emana do povo_do povo_povo_poder emana do
+     │         │    ├─■──emana do povo_emana do_poder emana do povo_poder emana do_do povo ── Topic: 83
+     │         │    └─■──do povo_poder emana do povo_poder emana do_poder emana_emana do ── Topic: 73
+     │         └─Constituição estabelece que_Federal_Tribunal_deve ser_Presidente
+     │              ├─Constituição estabelece que_Federal_Tribunal_deve ser_Presidente
+     │              │    ├─Constituição deve ser_Constituição deve_respeitada_ser respeitada_deve ser respeitada
+     │              │    │    ├─■──Regimento_Interno_Regimento Interno_Constituição Regimento_Interno do Senado ── Topic: 78
+     │              │    │    └─Constituição deve ser_Constituição deve_ser respeitada_deve ser respeitada_Constituição deve ser res
+     │              │    │         ├─Constituição deve ser_ser respeitada_deve ser respeitada_Constituição deve_Constituição deve ser res
+     │              │    │         │    ├─■──ser respeitada_deve ser respeitada_Constituição deve ser respeitada_respeitada não_deve ser respeita ── Topic: 31
+     │              │    │         │    └─■──deve ser cumprida_ser cumprida_Constituição deve ser cumprida_Constituição deve ser_cumprida Constit ── Topic: 80
+     │              │    │         └─■──defendida_Constituição deve ser defendida_deve ser defendida_ser defendida_combate ── Topic: 87
+     │              │    └─Federal_Constituição estabelece que_Tribunal_impeachment_Presidente
+     │              │         ├─Federal_Tribunal_impeachment_Constituição estabelece que_Presidente
+     │              │         │    ├─Tribunal_Federal_Tribunal Federal_Supremo Tribunal_Supremo Tribunal Federal
+     │              │         │    │    ├─Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal_do Supremo Tribunal_do Supremo Tribunal F
+     │              │         │    │    │    ├─Responsabilidade Fiscal_Responsabilidade_Lei de Responsabilidade_Lei de Responsabilidade Fiscal_de R
+     │              │         │    │    │    │    ├─■──limites_limites para_estabelece limites_Constituição estabelece limites_estabelece limites para ── Topic: 75
+     │              │         │    │    │    │    └─■──de Responsabilidade_de Responsabilidade Fiscal_Responsabilidade_Responsabilidade Fiscal_Lei de Respo ── Topic: 81
+     │              │         │    │    │    └─Tribunal_Tribunal Federal_Supremo Tribunal_Supremo Tribunal Federal_do Supremo Tribunal
+     │              │         │    │    │         ├─Judiciário_fiscalizar_Judiciário Constituição_fiscalização_Poder Judiciário
+     │              │         │    │    │         │    ├─■──Judiciário_Judiciário Constituição_Poder Judiciário_judiciais_judiciais Constituição ── Topic: 23
+     │              │         │    │    │         │    └─■──fiscalizar_fiscalização_de fiscalizar_fiscal_Executivo Constituição ── Topic: 21
+     │              │         │    │    │         └─Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal_do Supremo Tribunal_do Supremo Tribunal F
+     │              │         │    │    │              ├─■──Tribunal_Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal_do Supremo Tribunal ── Topic: 5
+     │              │         │    │    │              └─■──Federal_Constituição Federal_Governo_Federal Constituição_Distrito Federal ── Topic: 7
+     │              │         │    │    └─pública_publicidade_Público_público_Ministério Público
+     │              │         │    │         ├─publicidade_moralidade_público_administração_segurança pública
+     │              │         │    │         │    ├─■──moralidade_legalidade_publicidade_impessoalidade moralidade_administração pública ── Topic: 27
+     │              │         │    │         │    └─públicos_pública_público_segurança pública_servidores públicos
+     │              │         │    │         │         ├─■──públicos_público_pública_servidores públicos_públicos Constituição ── Topic: 1
+     │              │         │    │         │         └─■──responsabilidade_responsabilidade de_responsabilidades_segurança pública dever do_pública dever do E ── Topic: 35
+     │              │         │    │         └─Ministério Público_Público_do Ministério_do Ministério Público_autonomia dos
+     │              │         │    │              ├─■──autonomia_autonomia dos_financeira_garante autonomia_estabelece autonomia ── Topic: 29
+     │              │         │    │              └─■──Ministério_Ministério Público_Público_do Ministério_do Ministério Público ── Topic: 47
+     │              │         │    └─impeachment_Presidente_da República_de impeachment_Presidente da
+     │              │         │         ├─impeachment_Presidente_da República_de impeachment_Presidente da
+     │              │         │         │    ├─Presidente_da República_República_Presidente da República_Presidente da
+     │              │         │         │    │    ├─empresas_econômica_de empresas_empresarial_financiamento
+     │              │         │         │    │    │    ├─■──econômica_econômico_atividade econômica_poder econômico_atividade ── Topic: 93
+     │              │         │         │    │    │    └─■──empresas_de empresas_empresarial_financiamento_empresa ── Topic: 52
+     │              │         │         │    │    └─Presidente_da República_República_Presidente da República_Presidente da
+     │              │         │         │    │         ├─secreto_voto_voto secreto_parlamentares_votos
+     │              │         │         │    │         │    ├─■──secreto_voto secreto_que voto_secreto em_Constituição estabelece que voto ── Topic: 49
+     │              │         │         │    │         │    └─■──parlamentares_inviolabilidade_parlamentar_inviolabilidade dos_parlamentares Constituição ── Topic: 63
+     │              │         │         │    │         └─Presidente_da República_República_Presidente da República_Presidente da
+     │              │         │         │    │              ├─Presidente_da República_República_Presidente da República_Presidente da
+     │              │         │         │    │              │    ├─■──crédito_de crédito_autorização_autorização legislativa_crédito suplementar ── Topic: 44
+     │              │         │         │    │              │    └─Presidente_da República_República_Presidente da República_Presidente da
+     │              │         │         │    │              │         ├─Presidente_da República_República_Presidente da República_Presidente da
+     │              │         │         │    │              │         │    ├─■──crimes_crime_flagrante_crime inafiançável_em flagrante ── Topic: 33
+     │              │         │         │    │              │         │    └─República_Presidente da República_Presidente da_que Presidente_do Presidente
+     │              │         │         │    │              │         │         ├─■──República_Presidente da República_Presidente da_que Presidente_do Presidente ── Topic: 2
+     │              │         │         │    │              │         │         └─■──cargos_para cargos_cargo_de cargos_cargos públicos ── Topic: 86
+     │              │         │         │    │              │         └─■──políticos_partidos políticos_de partidos políticos_políticos Constituição_política ── Topic: 55
+     │              │         │         │    │              └─■──Armadas_Forças Armadas_das Forças Armadas_das Forças_as Forças Armadas ── Topic: 82
+     │              │         │         │    └─impeachment_de impeachment_legal_processo legal_processo de impeachment
+     │              │         │         │         ├─impeachment_de impeachment_processo de impeachment_devido processo_impeachment Constituição
+     │              │         │         │         │    ├─■──de impeachment_processo de impeachment_impeachment Constituição_de impeachment Constituição_impeachm ── Topic: 3
+     │              │         │         │         │    └─■──processo legal_legal_devido processo legal_devido processo_devido ── Topic: 14
+     │              │         │         │         └─democracia_desigualdades_regionais_desigualdades regionais_Franca
+     │              │         │         │              ├─em julgado_Zona Franca_Franca_Zona Franca de_Zona Franca de Manaus
+     │              │         │         │              │    ├─■──Franca_Zona Franca_Franca de Manaus_Zona Franca de_Zona Franca de Manaus ── Topic: 68
+     │              │         │         │              │    └─■──trânsito_trânsito em julgado_trânsito em_que ninguém_ninguém ── Topic: 54
+     │              │         │         │              └─desigualdades_desigualdades regionais_regionais Constituição_cláusula_desigualdades regionais Consti
+     │              │         │         │                   ├─democracia_informação_democracia Constituição_normas_da democracia
+     │              │         │         │                   │    ├─servidores_normas_servidores dos_perfeito_ato jurídico
+     │              │         │         │                   │    │    ├─■──servidores_servidores dos_de servidores_Roraima_transposição dos servidores ── Topic: 70
+     │              │         │         │                   │    │    └─■──normas_ato jurídico_ato jurídico perfeito_jurídico perfeito_jurídica ── Topic: 45
+     │              │         │         │                   │    └─informação_democracia Constituição_da democracia_da democracia Constituição_informações ao
+     │              │         │         │                   │         ├─■──informação_informações_de informação_informação Constituição_data ── Topic: 72
+     │              │         │         │                   │         └─■──democracia Constituição_da democracia Constituição_Constituição garante democracia_garante democraci ── Topic: 40
+     │              │         │         │                   └─desigualdades_regionais_desigualdades regionais_regionais Constituição_desigualdades regionais Const
+     │              │         │         │                        ├─■──cláusula_cláusula pétrea_cláusulas pétreas_pétreas_cláusulas ── Topic: 48
+     │              │         │         │                        └─■──desigualdades_desigualdades regionais_regionais Constituição_desigualdades regionais Constituição_as ── Topic: 41
+     │              │         │         └─popular_soberania_popular Constituição_iniciativa popular_soberania popular
+     │              │         │              ├─■──iniciativa popular_popular Constituição_participação popular_iniciativa popular Constituição_de inic ── Topic: 95
+     │              │         │              └─■──soberania_popular Constituição_soberania popular_voto popular Constituição_soberania do voto popular ── Topic: 90
+     │              │         └─medidas_medidas provisórias_Congresso_Congresso Nacional_urgência
+     │              │              ├─Congresso_Congresso Nacional_do Congresso_CPI_do Congresso Nacional
+     │              │              │    ├─CPI_Constituição exige_Casa_de Inquérito_CPIs
+     │              │              │    │    ├─■──Constituição exige_Constituição exige que_exige que_quórum_quórum qualificado ── Topic: 62
+     │              │              │    │    └─CPI_Casa_Casas_de Inquérito_Comissões
+     │              │              │    │         ├─■──Casas_Casa_das Casas_Casas do_Casas do Congresso ── Topic: 42
+     │              │              │    │         └─■──CPI_CPIs_Comissões Parlamentares de_Comissões Parlamentares_Comissões Parlamentares de Inquérito ── Topic: 24
+     │              │              │    └─Congresso Nacional_do Congresso_Congresso Nacional Constituição_vetos_Nacional Constituição
+     │              │              │         ├─■──Congresso_Congresso Nacional_do Congresso_do Congresso Nacional_Congresso Nacional Constituição ── Topic: 17
+     │              │              │         └─■──vetos_veto_presidenciais_Congresso_presidenciais devem ser ── Topic: 58
+     │              │              └─medidas provisórias_de medidas_de medidas provisórias_que medidas provisórias_que medidas
+     │              │                   ├─■──medidas provisórias_de medidas_de medidas provisórias_medidas provisórias Constituição_provisórias C ── Topic: 10
+     │              │                   └─■──urgência_de urgência_urgência Constituição_relevância urgência_de relevância urgência ── Topic: 39
+     │              └─separação_separação dos_poderes_separação dos poderes_poderes Constituição
+     │                   ├─os Poderes_harmônicos_harmonia_que os Poderes_harmonia entre
+     │                   │    ├─■──harmônicos_independentes_que os Poderes_estabelece que os Poderes_harmônicos entre ── Topic: 69
+     │                   │    └─■──harmonia_harmonia entre_harmonia entre os_independência harmonia_harmonia entre os Poderes ── Topic: 74
+     │                   └─separação_separação dos_separação dos poderes_garante separação_garante separação dos
+     │                        ├─■──separação_Constituição estabelece separação_estabelece separação_separação dos_Constituição estabele ── Topic: 65
+     │                        └─■──garante separação dos poderes_garante separação_garante separação dos_dos poderes Constituição de_po ── Topic: 30
+     └─de responsabilidade_responsabilidade_crime de responsabilidade_responsabilidade Constituição_de resp
+          ├─de responsabilidade_crime de responsabilidade_responsabilidade_responsabilidade Constituição_de resp
+          │    ├─■──crime de responsabilidade_de responsabilidade_responsabilidade_responsabilidade Constituição_de resp ── Topic: 43
+          │    └─■──de responsabilidade_responsabilidade_crime de responsabilidade_crime_crimes de responsabilidade ── Topic: 67
+          └─■──de responsabilidade_responsabilidade_Presidente_Presidente da República_Presidente da ── Topic: 66
+
