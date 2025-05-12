@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal" created-in="PY-243.25659.43">
-    <data-source name="DiscursosSenadores_02_05_2025_analisado" uuid="d3283110-98c4-44a3-897e-ff3f27468c5c">
+    <data-source name="DiscursosSenadores_02_05_2025_analisado" uuid="c65a7315-9626-4b4e-bea8-87cfd22b72f2">
       <database-info product="SQLite" version="3.45.1" jdbc-version="4.2" driver-name="SQLite JDBC" driver-version="3.45.1.0" dbms="SQLITE" exact-version="3.45.1" exact-driver-version="3.45">
         <identifier-quote-string>&quot;</identifier-quote-string>
       </database-info>

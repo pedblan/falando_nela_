@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d070db8-c7c8-445f-b51f-5d42731e104c" name="Changes" comment="" />
+    <list default="true" id="3d070db8-c7c8-445f-b51f-5d42731e104c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/topicos/modelos/cenario_1/1_preparacao_dados.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicos/modelos/cenario_1/2_modelo_basico.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicos/modelos/cenario_1/3_representacao_openai.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicos/modelos/cenario_2/1_preparacao_dados.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicos/modelos/cenario_2/2_modelo_basico.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicos/modelos/cenario_3/3_ajustes_parametros.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicos/modelos/cenario_3/4_dynamic_topic_modeling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topicos/modelos/cenario_3/5_representacao.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1b46012d-f5d2-4b3e-a8f9-d58e1ab96d1b.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1b46012d-f5d2-4b3e-a8f9-d58e1ab96d1b/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/55a78c03-0c93-47de-a82d-c21506915eff.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/55a78c03-0c93-47de-a82d-c21506915eff/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b0f78ed6-3c7a-45ae-b6f3-737ec7649ca3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b0f78ed6-3c7a-45ae-b6f3-737ec7649ca3/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be715e3c-6a97-4539-afa4-69b53c5eda4a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be715e3c-6a97-4539-afa4-69b53c5eda4a/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c9998f53-60d2-44e1-aa5e-03ecd096ea88.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c9998f53-60d2-44e1-aa5e-03ecd096ea88/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d3283110-98c4-44a3-897e-ff3f27468c5c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d3283110-98c4-44a3-897e-ff3f27468c5c/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fc844ab2-cdf6-4f75-882a-47dfe06e3334.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fc844ab2-cdf6-4f75-882a-47dfe06e3334/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DiscursosSenadores_02_05_2025_analisado.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiscursosSenadores_02_05_2025_analisado.sqlite" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,53 +48,56 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "pedblan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pedblan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/pedblan/falando_nela_.git",
-    "accountId": "3d163b49-eee1-43e7-98fd-e8b8e9da63e1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pedblan/falando_nela_.git&quot;,
+    &quot;accountId&quot;: &quot;3d163b49-eee1-43e7-98fd-e8b8e9da63e1&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2wh7MxuTTZxuEvo2L8Crp2WpKXG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/pedblan/PycharmProjects/falando_nela_/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/pedblan/PycharmProjects/falando_nela_/src/topicos/modelos/cenario_2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/topicos/modelos/cenario_2" />
+      <recent name="$PROJECT_DIR$/src/topicos/modelos/cenario_3" />
+      <recent name="$PROJECT_DIR$/src/topicos/modelos/cenario_1" />
+      <recent name="$PROJECT_DIR$/src/topicos/modelos" />
       <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/demo" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/topicos" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/demo" />
       <recent name="$PROJECT_DIR$/data/discursos" />
-      <recent name="$PROJECT_DIR$/docx" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -86,6 +117,12 @@
       <option name="presentableId" value="Default" />
       <updated>1746481907678</updated>
       <workItem from="1746481908678" duration="55249000" />
+      <workItem from="1746818870323" duration="6482000" />
+      <workItem from="1746832749035" duration="11134000" />
+      <workItem from="1746894991204" duration="9735000" />
+      <workItem from="1746907672588" duration="926000" />
+      <workItem from="1746913994369" duration="1799000" />
+      <workItem from="1746960398277" duration="1256000" />
     </task>
     <servers />
   </component>
