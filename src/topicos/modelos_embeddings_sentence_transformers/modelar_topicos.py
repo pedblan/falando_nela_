@@ -16,7 +16,7 @@ from io import StringIO
 
 CAMINHO_BANCO = "../../DiscursosSenadores_02_05_2025_analisado.sqlite"
 
-colunas = ["AvalTrecho", "NovaConstituinteOuConstituicao_trecho", "SumarioConstituicao", "TextoResumo", "Indexacao"]
+colunas = ["Indexacao"]
 
 
 def carregar_dados() -> pd.DataFrame:

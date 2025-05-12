@@ -5,33 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d070db8-c7c8-445f-b51f-5d42731e104c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/topicos/modelos/cenario_1/1_preparacao_dados.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/modelos/cenario_1/2_modelo_basico.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/modelos/cenario_1/3_representacao_openai.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/modelos/cenario_2/1_preparacao_dados.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/modelos/cenario_2/2_modelo_basico.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/modelos/cenario_3/3_ajustes_parametros.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/modelos/cenario_3/4_dynamic_topic_modeling.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/modelos/cenario_3/5_representacao.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1b46012d-f5d2-4b3e-a8f9-d58e1ab96d1b.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1b46012d-f5d2-4b3e-a8f9-d58e1ab96d1b/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/55a78c03-0c93-47de-a82d-c21506915eff.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/55a78c03-0c93-47de-a82d-c21506915eff/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b0f78ed6-3c7a-45ae-b6f3-737ec7649ca3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b0f78ed6-3c7a-45ae-b6f3-737ec7649ca3/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be715e3c-6a97-4539-afa4-69b53c5eda4a.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/be715e3c-6a97-4539-afa4-69b53c5eda4a/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c9998f53-60d2-44e1-aa5e-03ecd096ea88.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c9998f53-60d2-44e1-aa5e-03ecd096ea88/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d3283110-98c4-44a3-897e-ff3f27468c5c.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d3283110-98c4-44a3-897e-ff3f27468c5c/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fc844ab2-cdf6-4f75-882a-47dfe06e3334.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fc844ab2-cdf6-4f75-882a-47dfe06e3334/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DiscursosSenadores_02_05_2025_analisado.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiscursosSenadores_02_05_2025_analisado.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/modelos_embeddings_sentence_transformers/modelar_topicos.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/modelos_embeddings_sentence_transformers/modelar_topicos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -71,10 +47,12 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in teste_modelar.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modelar_topicos.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/pedblan/PycharmProjects/falando_nela_/src/topicos/modelos/cenario_2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/pedblan/PycharmProjects/falando_nela_/data&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -86,18 +64,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/topicos/modelos/cenario_2" />
-      <recent name="$PROJECT_DIR$/src/topicos/modelos/cenario_3" />
-      <recent name="$PROJECT_DIR$/src/topicos/modelos/cenario_1" />
-      <recent name="$PROJECT_DIR$/src/topicos/modelos" />
+      <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/topicos/modelos_embeddings_spacy" />
+      <recent name="$PROJECT_DIR$/src/topicos/modelos_embeddings_sentence_transformers" />
+      <recent name="$PROJECT_DIR$/src/topicos/modelos/cenario_2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/topicos/modelos" />
       <recent name="$PROJECT_DIR$/src/topicos" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/demo" />
-      <recent name="$PROJECT_DIR$/data/discursos" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -123,6 +101,10 @@
       <workItem from="1746907672588" duration="926000" />
       <workItem from="1746913994369" duration="1799000" />
       <workItem from="1746960398277" duration="1256000" />
+      <workItem from="1746981652422" duration="38944000" />
+      <workItem from="1747088083396" duration="782000" />
+      <workItem from="1747090148106" duration="788000" />
+      <workItem from="1747091835568" duration="817000" />
     </task>
     <servers />
   </component>
@@ -139,5 +121,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/falando_nela_$modelar_topicos.coverage" NAME="modelar_topicos Coverage Results" MODIFIED="1747091837345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/topicos/modelos_embeddings_sentence_transformers" />
+    <SUITE FILE_PATH="coverage/falando_nela_$.coverage" NAME=" Coverage Results" MODIFIED="1747054540078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/topicos/modelos" />
   </component>
 </project>
