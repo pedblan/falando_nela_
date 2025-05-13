@@ -1,0 +1,118 @@
+.
+├─Não aplica_Não_aplica Não_aplica Não aplica_defende
+│    ├─Não aplica_critica_não_Não aplica critica_defende
+│    │    ├─■──positiva_menciona forma positiva_forma positiva_menciona forma_Manaus ── Topic: 51
+│    │    └─aplica_Não aplica_Não_critica_letra morta
+│    │         ├─■──medidas provisórias_provisórias_Não aplica critica utilização_aplica critica utilização_transporte ── Topic: 55
+│    │         └─■──terrorismo_critica_aplica_Não aplica_Não ── Topic: 43
+│    └─aplica_Não aplica_aplica Não aplica_aplica Não_Brasil
+│         ├─aplica_Não aplica_Não_Brasil_aplica Não
+│         │    ├─■──Brasil_eleito_Estado_social_legalidade ── Topic: 46
+│         │    └─Não aplica_aplica_luta_mais anos_aplica Não aplica
+│         │         ├─■──mais anos_luta_Parlamento_Não aplica critica_critica ── Topic: 41
+│         │         └─■──Não aplica_aplica_impunidade_ideológica_justiça ── Topic: 52
+│         └─■──defende_falha_princípios_oposição_Não aplica ── Topic: 54
+└─aplica_Não_Não aplica_critica_não
+     ├─defende_Ele_importância_critica_Não aplica
+     │    ├─impeachment_processo impeachment_responsabilidade_defende_Dilma
+     │    │    ├─■──Legislativo_crime_inclusão_Legislativo conforme_Lei Ficha ── Topic: 58
+     │    │    └─impeachment_processo impeachment_defende_responsabilidade_Dilma
+     │    │         ├─impeachment_responsabilidade_defende_crime responsabilidade_processo impeachment
+     │    │         │    ├─■──impeachment_responsabilidade_processo impeachment_defende_democracia ── Topic: 40
+     │    │         │    └─responsabilidade_impeachment_aplica_crime responsabilidade_Não aplica
+     │    │         │         ├─■──responsabilidade_crime_crime responsabilidade_Sistema_respeito ── Topic: 45
+     │    │         │         └─■──menciona_referindo_democracia brasileira_legislar_impeachment ── Topic: 28
+     │    │         └─■──Dilma_processo impeachment_impeachment_Dilma Rousseff_Rousseff ── Topic: 48
+     │    └─defende_importância_critica_Não aplica_direitos
+     │         ├─defende_importância_critica_direitos_Não aplica
+     │         │    ├─defende_importância_direito_menciona_critica
+     │         │    │    ├─■──setores_constitucional exalta_Federativa_República Federativa_sociedade ── Topic: 57
+     │         │    │    └─defende_importância_Estado_critica_direitos
+     │         │    │         ├─direito_defende_Estado_importância_direitos
+     │         │    │         │    ├─critica_direitos_defende_importância_Federal
+     │         │    │         │    │    ├─■──redução_momento_escolha_importância_Nacional ── Topic: 32
+     │         │    │         │    │    └─■──direitos_segurança_constitucionais_defende_medida provisória ── Topic: 34
+     │         │    │         │    └─■──Estado_dever Estado_menciona_dever_Não aplica menciona ── Topic: 37
+     │         │    │         └─■──Ministério_defende_cumprir_educação básica_não ── Topic: 49
+     │         │    └─importância_critica_defende_direitos_Não aplica
+     │         │         ├─redução_Presidente_importantes_critica_defende
+     │         │         │    ├─■──critica_produtores_instrumento importante_democrática país_defende ── Topic: 39
+     │         │         │    └─■──redução_Presidente_trabalho_defende processo impeachment_defende processo ── Topic: 42
+     │         │         └─importância_critica_direitos_positiva_defende
+     │         │              ├─importância_critica_Brasil_defende_especialmente
+     │         │              │    ├─■──importância_MST_essas ações_nomeação_Tribunal ── Topic: 53
+     │         │              │    └─importância_trabalho_positiva_direitos_Brasil
+     │         │              │         ├─■──Brasil_respeitar_importância_constitucional_direitos ── Topic: 35
+     │         │              │         └─■──sociais_Distrito_Distrito Federal_No aplica_Federal ── Topic: 31
+     │         │              └─■──garantia direitos_permite_papel garantia direitos_papel garantia_Ele critica atuação ── Topic: 56
+     │         └─■──integração_povos América Latina_povos América_associação_Latina ── Topic: 47
+     └─Não aplica_defende_critica_não_direitos
+          ├─aplica_Não_Não aplica_critica_não
+          │    ├─Não_Não aplica_critica_não_direitos
+          │    │    ├─Não_Não aplica_defende_critica_não
+          │    │    │    ├─■──defende especialmente_especialmente_menciona_critica_Não aplica ── Topic: 36
+          │    │    │    └─Não_Não aplica_critica_não_direitos
+          │    │    │         ├─Não aplica_Não_não_menciona_mas
+          │    │    │         │    ├─não_Não aplica_Não_menciona_clara si
+          │    │    │         │    │    ├─■──Presidente_Não aplica_Não_mas_critica ── Topic: 22
+          │    │    │         │    │    └─não_menciona_Não aplica_opinião clara_opinião
+          │    │    │         │    │         ├─■──não_Não aplica_Não_não opinião clara si_clara si ── Topic: 18
+          │    │    │         │    │         └─não_menciona_opinião clara_opinião_não opinião clara
+          │    │    │         │    │              ├─■──mas_não opinião clara_não opinião_opinião clara_opinião ── Topic: 17
+          │    │    │         │    │              └─■──direitos_menciona_constitucional_sociais_opinião clara si ── Topic: 19
+          │    │    │         │    └─■──Não aplica_Não_aplica_Não aplica Não aplica_Não aplica Não ── Topic: 25
+          │    │    │         └─Não aplica_critica_não_direitos_menciona
+          │    │    │              ├─aplica_Não aplica_defende_critica_não
+          │    │    │              │    ├─não_menciona_direitos_Não aplica_Não
+          │    │    │              │    │    ├─■──menciona_mas_direitos_estrangeiros_defende ── Topic: 23
+          │    │    │              │    │    └─■──apoio_não_aplica_Não aplica_Não ── Topic: 20
+          │    │    │              │    └─aplica_Não_Não aplica_critica_não
+          │    │    │              │         ├─aplica_Não_Não aplica_critica_não
+          │    │    │              │         │    ├─■──aplica_Não aplica_defende_constitucionais_governo ── Topic: 13
+          │    │    │              │         │    └─aplica_Não_Não aplica_critica_não
+          │    │    │              │         │         ├─aplica_Não_Não aplica_defende_critica
+          │    │    │              │         │         │    ├─aplica_Não_Não aplica_critica_não
+          │    │    │              │         │         │    │    ├─■──critica_defende_direitos_Federal_conforme ── Topic: 10
+          │    │    │              │         │         │    │    └─Não aplica_defende_critica_não_direitos
+          │    │    │              │         │         │    │         ├─Não aplica_defende_critica_não_direitos
+          │    │    │              │         │         │    │         │    ├─■──Não aplica_Não_menciona_mas_critica ── Topic: 11
+          │    │    │              │         │         │    │         │    └─aplica_Não aplica_defende_critica_não
+          │    │    │              │         │         │    │         │         ├─aplica_Não_Não aplica_defende_critica
+          │    │    │              │         │         │    │         │         │    ├─■──aplica_Não aplica_Não_defende_critica ── Topic: 9
+          │    │    │              │         │         │    │         │         │    └─Não_Não aplica_defende_critica_não
+          │    │    │              │         │         │    │         │         │         ├─Não_Não aplica_defende_critica_não
+          │    │    │              │         │         │    │         │         │         │    ├─■──aplica_Não aplica_direitos_critica_Não aplica defende ── Topic: 6
+          │    │    │              │         │         │    │         │         │         │    └─Não aplica_defende_critica_não_direitos
+          │    │    │              │         │         │    │         │         │         │         ├─aplica_Não_Não aplica_critica_não
+          │    │    │              │         │         │    │         │         │         │         │    ├─■──aplica_Não aplica_Não_defende_aplica Não aplica ── Topic: 4
+          │    │    │              │         │         │    │         │         │         │         │    └─aplica_Não_Não aplica_defende_critica
+          │    │    │              │         │         │    │         │         │         │         │         ├─aplica_Não_Não aplica_critica_não
+          │    │    │              │         │         │    │         │         │         │         │         │    ├─■──defende_aplica_Não aplica_Não_critica ── Topic: 2
+          │    │    │              │         │         │    │         │         │         │         │         │    └─aplica_Não aplica_defende_critica_não
+          │    │    │              │         │         │    │         │         │         │         │         │         ├─■──aplica_defende_Não_Não aplica_critica ── Topic: 0
+          │    │    │              │         │         │    │         │         │         │         │         │         └─■──Não_Não aplica_critica_defende_não ── Topic: 1
+          │    │    │              │         │         │    │         │         │         │         │         └─■──aplica_Não aplica_defende_não_Federal ── Topic: 3
+          │    │    │              │         │         │    │         │         │         │         └─■──Não aplica_Não_aplica Não_aplica Não aplica_Não aplica Não ── Topic: 5
+          │    │    │              │         │         │    │         │         │         └─■──aplica_Não aplica_aplica Não aplica_aplica Não_não ── Topic: 7
+          │    │    │              │         │         │    │         │         └─■──importância_Não aplica_critica_defende_direitos ── Topic: 8
+          │    │    │              │         │         │    │         └─■──aplica_Não aplica_Não_Não aplica Não aplica_Não aplica Não ── Topic: 15
+          │    │    │              │         │         │    └─■──Não aplica_Não_critica_defende_mas ── Topic: 14
+          │    │    │              │         │         └─■──aplica_Não aplica_aplica Não_aplica Não aplica_Não aplica Não aplica ── Topic: 12
+          │    │    │              │         └─■──Não aplica_Não_aplica_princípio_defende ── Topic: 16
+          │    │    │              └─■──princípios_critica_direitos_Não aplica_públicos ── Topic: 21
+          │    │    └─aplica_Não aplica_Não_Não aplica Não_Não aplica Não aplica
+          │    │         ├─■──Não aplica_Não_aplica_aplica Não aplica_aplica Não ── Topic: 33
+          │    │         └─■──aplica_Não aplica_aplica exalta_Não aplica exalta_Não aplica Não ── Topic: 26
+          │    └─defende_Não aplica_Não_democracia_constitucionais
+          │         ├─■──Não aplica_aplica_defende_direitos_Não aplica Não ── Topic: 24
+          │         └─■──advogados_defende_constitucionais_respeito_polícias ── Topic: 27
+          └─critica_Não aplica_Não_não_defende
+               ├─critica_não_Não aplica_Não_direitos
+               │    ├─■──terrorismo_texto_Ele_critica_Brasil ── Topic: 38
+               │    └─critica_Não aplica_Não_não_direitos
+               │         ├─critica_Não aplica_Não_aplica_não
+               │         │    ├─■──critica_Não aplica_mencionando_garantia_respeitada especialmente ── Topic: 29
+               │         │    └─■──critica_Não aplica Não_Não aplica Não aplica_aplica Não_aplica Não aplica ── Topic: 30
+               │         └─■──mas não_mas_Federal_mas não opinião_mas não opinião clara ── Topic: 44
+               └─■──Não aplica defende_aplica Não aplica defende_Não aplica_aplica Não aplica_aplica Não ── Topic: 50
+

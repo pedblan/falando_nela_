@@ -499,7 +499,7 @@
     </routine>
     <schema id="191" parent="1" name="main">
       <Current>1</Current>
-      <LastIntrospectionLocalTimestamp>2025-05-13.13:36:51</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2025-05-13.22:10:21</LastIntrospectionLocalTimestamp>
     </schema>
     <argument id="192" parent="16">
       <ArgumentDirection>R</ArgumentDirection>
@@ -1590,531 +1590,205 @@
     <argument id="554" parent="190">
       <Position>1</Position>
     </argument>
-    <table id="555" parent="191" name="AnaliseAnual"/>
-    <table id="556" parent="191" name="AnaliseCorpusTodo"/>
-    <table id="557" parent="191" name="Discursos"/>
-    <table id="558" parent="191" name="PesquisaSemantica"/>
-    <table id="559" parent="191" name="Senadores"/>
-    <table id="560" parent="191" name="TopicosAvalCombinado"/>
-    <table id="561" parent="191" name="TopicosAvalConclusao"/>
-    <table id="562" parent="191" name="TopicosAvalImplicacao"/>
-    <table id="563" parent="191" name="TopicosAvalPredicacao"/>
-    <table id="564" parent="191" name="TopicosAvalTrecho"/>
-    <table id="565" parent="191" name="TopicosIndexacao"/>
-    <table id="566" parent="191" name="TopicosNormCombinado"/>
-    <table id="567" parent="191" name="TopicosNormConclusao"/>
-    <table id="568" parent="191" name="TopicosNormImplicacao"/>
-    <table id="569" parent="191" name="TopicosNormPredicacao"/>
-    <table id="570" parent="191" name="TopicosNormTrecho"/>
-    <table id="571" parent="191" name="TopicosNovaConstituinteOuConstituicao_trecho"/>
-    <table id="572" parent="191" name="TopicosSumarioConstituicao"/>
-    <table id="573" parent="191" name="TopicosTextoResumo"/>
-    <table id="574" parent="191" name="sqlite_master">
+    <table id="555" parent="191" name="Analise"/>
+    <table id="556" parent="191" name="Discursos"/>
+    <table id="557" parent="191" name="Senadores"/>
+    <table id="558" parent="191" name="sqlite_master">
       <System>1</System>
     </table>
-    <column id="575" parent="555" name="CodigoPronunciamento">
+    <column id="559" parent="555" name="CodigoPronunciamento">
       <Position>1</Position>
       <StoredType>INTEGER|0s</StoredType>
     </column>
-    <column id="576" parent="555" name="Trecho_Anual">
+    <column id="560" parent="555" name="AvalConclusao">
       <Position>2</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="577" parent="555" name="Topic">
+    <column id="561" parent="555" name="AvalImplicacao">
       <Position>3</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="578" parent="555" name="Topico_Anual">
+    <column id="562" parent="555" name="AvalPredicacao">
       <Position>4</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="579" parent="555" name="Representation">
+    <column id="563" parent="555" name="AvalTrecho">
       <Position>5</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="580" parent="555" name="Representative_Docs">
+    <column id="564" parent="555" name="MencionaConstituicao">
       <Position>6</Position>
-      <StoredType>TEXT|0s</StoredType>
-    </column>
-    <column id="581" parent="555" name="Top_n_words">
-      <Position>7</Position>
-      <StoredType>TEXT|0s</StoredType>
-    </column>
-    <column id="582" parent="555" name="Probability">
-      <Position>8</Position>
-      <StoredType>FLOAT|0s</StoredType>
-    </column>
-    <column id="583" parent="555" name="Representative_document">
-      <Position>9</Position>
-      <StoredType>TEXT|0s</StoredType>
-    </column>
-    <column id="584" parent="555" name="Ano">
-      <Position>10</Position>
-      <StoredType>DATE|0s</StoredType>
-    </column>
-    <column id="585" parent="555" name="Tipo_Anual">
-      <Position>11</Position>
-      <StoredType>TEXT|0s</StoredType>
-    </column>
-    <column id="586" parent="555" name="BM25_anual">
-      <Position>12</Position>
-      <StoredType>FLOAT|0s</StoredType>
-    </column>
-    <column id="587" parent="556" name="CodigoPronunciamento">
-      <Position>1</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="588" parent="556" name="AvalConclusao">
-      <Position>2</Position>
-      <StoredType>TEXT|0s</StoredType>
-    </column>
-    <column id="589" parent="556" name="AvalImplicacao">
-      <Position>3</Position>
-      <StoredType>TEXT|0s</StoredType>
-    </column>
-    <column id="590" parent="556" name="AvalPredicacao">
-      <Position>4</Position>
-      <StoredType>TEXT|0s</StoredType>
-    </column>
-    <column id="591" parent="556" name="AvalTrecho">
-      <Position>5</Position>
-      <StoredType>TEXT|0s</StoredType>
-    </column>
-    <column id="592" parent="556" name="BM25_CorpusTodo_Constituição">
-      <Position>6</Position>
-      <StoredType>FLOAT|0s</StoredType>
-    </column>
-    <column id="593" parent="556" name="MencionaConstituicao">
-      <Position>7</Position>
       <StoredType>BOOLEAN|0s</StoredType>
     </column>
-    <column id="594" parent="556" name="NormConclusao">
+    <column id="565" parent="555" name="NormConclusao">
+      <Position>7</Position>
+      <StoredType>TEXT|0s</StoredType>
+    </column>
+    <column id="566" parent="555" name="NormImplicacao">
       <Position>8</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="595" parent="556" name="NormImplicacao">
+    <column id="567" parent="555" name="NormPredicacao">
       <Position>9</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="596" parent="556" name="NormPredicacao">
+    <column id="568" parent="555" name="NormTrecho">
       <Position>10</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="597" parent="556" name="NormTrecho">
+    <column id="569" parent="555" name="NovaConstituinteOuConstituicao_resposta">
       <Position>11</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="598" parent="556" name="NovaConstituinteOuConstituicao_resposta">
+    <column id="570" parent="555" name="NovaConstituinteOuConstituicao_trecho">
       <Position>12</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="599" parent="556" name="NovaConstituinteOuConstituicao_trecho">
+    <column id="571" parent="555" name="SentimentoConstituicao">
       <Position>13</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="600" parent="556" name="SentimentoConstituicao">
+    <column id="572" parent="555" name="SentimentoGeral">
       <Position>14</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="601" parent="556" name="SentimentoGeral">
+    <column id="573" parent="555" name="SumarioConstituicao">
       <Position>15</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="602" parent="556" name="SumarioConstituicao">
+    <column id="574" parent="555" name="TopicosConstituicao">
       <Position>16</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="603" parent="556" name="TFIDF_CorpusTodo_Constituição">
+    <column id="575" parent="555" name="TrechosConstituicao">
       <Position>17</Position>
-      <StoredType>FLOAT|0s</StoredType>
+      <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="604" parent="556" name="TopicosConstituicao">
+    <column id="576" parent="555" name="AvalCombinado">
       <Position>18</Position>
-      <StoredType>TEXT|0s</StoredType>
+      <StoredType>REAL|0s</StoredType>
     </column>
-    <column id="605" parent="556" name="TrechosConstituicao">
+    <column id="577" parent="555" name="NormCombinado">
       <Position>19</Position>
-      <StoredType>TEXT|0s</StoredType>
+      <StoredType>REAL|0s</StoredType>
     </column>
-    <column id="606" parent="556" name="AvalCombinado">
+    <column id="578" parent="555" name="BM25_Constituição">
       <Position>20</Position>
       <StoredType>REAL|0s</StoredType>
     </column>
-    <column id="607" parent="556" name="NormCombinado">
-      <Position>21</Position>
-      <StoredType>REAL|0s</StoredType>
-    </column>
-    <column id="608" parent="557" name="CodigoPronunciamento">
+    <column id="579" parent="556" name="CodigoPronunciamento">
       <Position>1</Position>
       <StoredType>INTEGER|0s</StoredType>
     </column>
-    <column id="609" parent="557" name="CodigoParlamentar">
+    <column id="580" parent="556" name="CodigoParlamentar">
       <Position>2</Position>
       <StoredType>INTEGER|0s</StoredType>
     </column>
-    <column id="610" parent="557" name="DataPronunciamento">
+    <column id="581" parent="556" name="DataPronunciamento">
       <Position>3</Position>
       <StoredType>DATE|0s</StoredType>
     </column>
-    <column id="611" parent="557" name="TextoResumo">
+    <column id="582" parent="556" name="TextoResumo">
       <Position>4</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="612" parent="557" name="TipoUsoPalavra">
+    <column id="583" parent="556" name="TipoUsoPalavra">
       <Position>5</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="613" parent="557" name="UrlTexto">
+    <column id="584" parent="556" name="UrlTexto">
       <Position>6</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="614" parent="557" name="Indexacao">
+    <column id="585" parent="556" name="Indexacao">
       <Position>7</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="615" parent="557" name="SiglaPartidoParlamentarNaData">
+    <column id="586" parent="556" name="SiglaPartidoParlamentarNaData">
       <Position>8</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="616" parent="557" name="UfParlamentarNaData">
+    <column id="587" parent="556" name="UfParlamentarNaData">
       <Position>9</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="617" parent="557" name="SiglaCasaPronunciamento">
+    <column id="588" parent="556" name="SiglaCasaPronunciamento">
       <Position>10</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="618" parent="557" name="Forma">
+    <column id="589" parent="556" name="Forma">
       <Position>11</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="619" parent="557" name="CaminhoArquivo">
+    <column id="590" parent="556" name="CaminhoArquivo">
       <Position>12</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="620" parent="557" name="DownloadConcluido">
+    <column id="591" parent="556" name="DownloadConcluido">
       <Position>13</Position>
       <StoredType>BOOLEAN|0s</StoredType>
     </column>
-    <column id="621" parent="557" name="TextoIntegral">
+    <column id="592" parent="556" name="TextoIntegral">
       <Position>14</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="622" parent="558" name="CodigoPronunciamento">
+    <column id="593" parent="557" name="CodigoParlamentar">
       <Position>1</Position>
       <StoredType>INTEGER|0s</StoredType>
     </column>
-    <column id="623" parent="558" name="Similaridade_base_democracia">
-      <Position>2</Position>
-      <StoredType>FLOAT|0s</StoredType>
-    </column>
-    <column id="624" parent="558" name="Similaridade_ultrapassada">
-      <Position>3</Position>
-      <StoredType>FLOAT|0s</StoredType>
-    </column>
-    <column id="625" parent="558" name="Similaridade_prejudica_economia">
-      <Position>4</Position>
-      <StoredType>FLOAT|0s</StoredType>
-    </column>
-    <column id="626" parent="558" name="Similaridade_direitos_demais">
-      <Position>5</Position>
-      <StoredType>FLOAT|0s</StoredType>
-    </column>
-    <column id="627" parent="558" name="Similaridade_nova_constituinte">
-      <Position>6</Position>
-      <StoredType>FLOAT|0s</StoredType>
-    </column>
-    <column id="628" parent="558" name="Similaridade_ffaa_poder_moderador">
-      <Position>7</Position>
-      <StoredType>FLOAT|0s</StoredType>
-    </column>
-    <column id="629" parent="558" name="Similaridade_voltar_ditadura">
-      <Position>8</Position>
-      <StoredType>FLOAT|0s</StoredType>
-    </column>
-    <column id="630" parent="558" name="Similaridade_governo_nao_respeita">
-      <Position>9</Position>
-      <StoredType>FLOAT|0s</StoredType>
-    </column>
-    <column id="631" parent="558" name="Similaridade_camara_nao_respeita">
-      <Position>10</Position>
-      <StoredType>FLOAT|0s</StoredType>
-    </column>
-    <column id="632" parent="558" name="Similaridade_supremo_nao_respeita">
-      <Position>11</Position>
-      <StoredType>FLOAT|0s</StoredType>
-    </column>
-    <column id="633" parent="558" name="Similaridade_ninguem_respeita">
-      <Position>12</Position>
-      <StoredType>FLOAT|0s</StoredType>
-    </column>
-    <column id="634" parent="559" name="CodigoParlamentar">
-      <Position>1</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="635" parent="559" name="NomeParlamentar">
+    <column id="594" parent="557" name="NomeParlamentar">
       <Position>2</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="636" parent="559" name="NomeCompletoParlamentar">
+    <column id="595" parent="557" name="NomeCompletoParlamentar">
       <Position>3</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="637" parent="559" name="SexoParlamentar">
+    <column id="596" parent="557" name="SexoParlamentar">
       <Position>4</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="638" parent="559" name="SiglaPartidoParlamentar">
+    <column id="597" parent="557" name="SiglaPartidoParlamentar">
       <Position>5</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="639" parent="559" name="UfParlamentar">
+    <column id="598" parent="557" name="UfParlamentar">
       <Position>6</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="640" parent="559" name="UrlFotoParlamentar">
+    <column id="599" parent="557" name="UrlFotoParlamentar">
       <Position>7</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="641" parent="559" name="EmailParlamentar">
+    <column id="600" parent="557" name="EmailParlamentar">
       <Position>8</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="642" parent="559" name="NomeProfissao">
+    <column id="601" parent="557" name="NomeProfissao">
       <Position>9</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="643" parent="559" name="IndicadorAtividadePrincipal">
+    <column id="602" parent="557" name="IndicadorAtividadePrincipal">
       <Position>10</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="644" parent="560" name="CodigoPronunciamento">
-      <Position>1</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="645" parent="560" name="Topico">
-      <Position>2</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="646" parent="560" name="Probs">
-      <Position>3</Position>
-      <StoredType>REAL|0s</StoredType>
-    </column>
-    <index id="647" parent="560" name="idx_TopicosAvalCombinado_CodigoPronunciamento">
-      <ColNames>CodigoPronunciamento</ColNames>
-    </index>
-    <column id="648" parent="561" name="CodigoPronunciamento">
-      <Position>1</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="649" parent="561" name="Topico">
-      <Position>2</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="650" parent="561" name="Probs">
-      <Position>3</Position>
-      <StoredType>REAL|0s</StoredType>
-    </column>
-    <index id="651" parent="561" name="idx_TopicosAvalConclusao_CodigoPronunciamento">
-      <ColNames>CodigoPronunciamento</ColNames>
-    </index>
-    <column id="652" parent="562" name="CodigoPronunciamento">
-      <Position>1</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="653" parent="562" name="Topico">
-      <Position>2</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="654" parent="562" name="Probs">
-      <Position>3</Position>
-      <StoredType>REAL|0s</StoredType>
-    </column>
-    <index id="655" parent="562" name="idx_TopicosAvalImplicacao_CodigoPronunciamento">
-      <ColNames>CodigoPronunciamento</ColNames>
-    </index>
-    <column id="656" parent="563" name="CodigoPronunciamento">
-      <Position>1</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="657" parent="563" name="Topico">
-      <Position>2</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="658" parent="563" name="Probs">
-      <Position>3</Position>
-      <StoredType>REAL|0s</StoredType>
-    </column>
-    <index id="659" parent="563" name="idx_TopicosAvalPredicacao_CodigoPronunciamento">
-      <ColNames>CodigoPronunciamento</ColNames>
-    </index>
-    <column id="660" parent="564" name="CodigoPronunciamento">
-      <Position>1</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="661" parent="564" name="Topico">
-      <Position>2</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="662" parent="564" name="Probs">
-      <Position>3</Position>
-      <StoredType>REAL|0s</StoredType>
-    </column>
-    <index id="663" parent="564" name="idx_TopicosAvalTrecho_CodigoPronunciamento">
-      <ColNames>CodigoPronunciamento</ColNames>
-    </index>
-    <column id="664" parent="565" name="CodigoPronunciamento">
-      <Position>1</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="665" parent="565" name="Topico">
-      <Position>2</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="666" parent="565" name="Probs">
-      <Position>3</Position>
-      <StoredType>REAL|0s</StoredType>
-    </column>
-    <index id="667" parent="565" name="idx_TopicosIndexacao_CodigoPronunciamento">
-      <ColNames>CodigoPronunciamento</ColNames>
-    </index>
-    <column id="668" parent="566" name="CodigoPronunciamento">
-      <Position>1</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="669" parent="566" name="Topico">
-      <Position>2</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="670" parent="566" name="Probs">
-      <Position>3</Position>
-      <StoredType>REAL|0s</StoredType>
-    </column>
-    <index id="671" parent="566" name="idx_TopicosNormCombinado_CodigoPronunciamento">
-      <ColNames>CodigoPronunciamento</ColNames>
-    </index>
-    <column id="672" parent="567" name="CodigoPronunciamento">
-      <Position>1</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="673" parent="567" name="Topico">
-      <Position>2</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="674" parent="567" name="Probs">
-      <Position>3</Position>
-      <StoredType>REAL|0s</StoredType>
-    </column>
-    <index id="675" parent="567" name="idx_TopicosNormConclusao_CodigoPronunciamento">
-      <ColNames>CodigoPronunciamento</ColNames>
-    </index>
-    <column id="676" parent="568" name="CodigoPronunciamento">
-      <Position>1</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="677" parent="568" name="Topico">
-      <Position>2</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="678" parent="568" name="Probs">
-      <Position>3</Position>
-      <StoredType>REAL|0s</StoredType>
-    </column>
-    <index id="679" parent="568" name="idx_TopicosNormImplicacao_CodigoPronunciamento">
-      <ColNames>CodigoPronunciamento</ColNames>
-    </index>
-    <column id="680" parent="569" name="CodigoPronunciamento">
-      <Position>1</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="681" parent="569" name="Topico">
-      <Position>2</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="682" parent="569" name="Probs">
-      <Position>3</Position>
-      <StoredType>REAL|0s</StoredType>
-    </column>
-    <index id="683" parent="569" name="idx_TopicosNormPredicacao_CodigoPronunciamento">
-      <ColNames>CodigoPronunciamento</ColNames>
-    </index>
-    <column id="684" parent="570" name="CodigoPronunciamento">
-      <Position>1</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="685" parent="570" name="Topico">
-      <Position>2</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="686" parent="570" name="Probs">
-      <Position>3</Position>
-      <StoredType>REAL|0s</StoredType>
-    </column>
-    <index id="687" parent="570" name="idx_TopicosNormTrecho_CodigoPronunciamento">
-      <ColNames>CodigoPronunciamento</ColNames>
-    </index>
-    <column id="688" parent="571" name="CodigoPronunciamento">
-      <Position>1</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="689" parent="571" name="Topico">
-      <Position>2</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="690" parent="571" name="Probs">
-      <Position>3</Position>
-      <StoredType>REAL|0s</StoredType>
-    </column>
-    <index id="691" parent="571" name="idx_TopicosNovaConstituinteOuConstituicao_trecho_CodigoPronunciamento">
-      <ColNames>CodigoPronunciamento</ColNames>
-    </index>
-    <column id="692" parent="572" name="CodigoPronunciamento">
-      <Position>1</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="693" parent="572" name="Topico">
-      <Position>2</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="694" parent="572" name="Probs">
-      <Position>3</Position>
-      <StoredType>REAL|0s</StoredType>
-    </column>
-    <index id="695" parent="572" name="idx_TopicosSumarioConstituicao_CodigoPronunciamento">
-      <ColNames>CodigoPronunciamento</ColNames>
-    </index>
-    <column id="696" parent="573" name="CodigoPronunciamento">
-      <Position>1</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="697" parent="573" name="Topico">
-      <Position>2</Position>
-      <StoredType>INTEGER|0s</StoredType>
-    </column>
-    <column id="698" parent="573" name="Probs">
-      <Position>3</Position>
-      <StoredType>REAL|0s</StoredType>
-    </column>
-    <index id="699" parent="573" name="idx_TopicosTextoResumo_CodigoPronunciamento">
-      <ColNames>CodigoPronunciamento</ColNames>
-    </index>
-    <column id="700" parent="574" name="type">
+    <column id="603" parent="558" name="type">
       <Position>1</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="701" parent="574" name="name">
+    <column id="604" parent="558" name="name">
       <Position>2</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="702" parent="574" name="tbl_name">
+    <column id="605" parent="558" name="tbl_name">
       <Position>3</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>
-    <column id="703" parent="574" name="rootpage">
+    <column id="606" parent="558" name="rootpage">
       <Position>4</Position>
       <StoredType>INT|0s</StoredType>
     </column>
-    <column id="704" parent="574" name="sql">
+    <column id="607" parent="558" name="sql">
       <Position>5</Position>
       <StoredType>TEXT|0s</StoredType>
     </column>

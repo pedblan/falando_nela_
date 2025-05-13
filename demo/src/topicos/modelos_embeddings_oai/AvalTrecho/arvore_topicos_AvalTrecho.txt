@@ -1,0 +1,122 @@
+.
+├─■──Governo Federal_depois_Governo_Federal_Estados ── Topic: 35
+└─não_Federal_discurso_direitos_democracia
+     ├─não_discurso_Federal_direitos_Estado
+     │    ├─não_Presidente_República_porque_Estado
+     │    │    ├─não_Presidente_estamos_Brasil_República
+     │    │    │    ├─■──texto constitucional_estamos_prevalência_consumidor_conquistada ── Topic: 60
+     │    │    │    └─■──hoje_Presidente_fiscal_déficit_não ── Topic: 59
+     │    │    └─não_Presidente_nossa_República_porque
+     │    │         ├─não_Presidente_porque_nossa_impeachment
+     │    │         │    ├─não_República_Presidente_decisão_mérito
+     │    │         │    │    ├─■──quero dizer_mérito_entrar_República_dizer ── Topic: 31
+     │    │         │    │    └─direito_não_Presidente_decisão_Brasil
+     │    │         │    │         ├─■──decisão_Lava Jato_Jato_Lava_menciona ── Topic: 30
+     │    │         │    │         └─■──contra_porque_Ministério Público_Ministério_Público ── Topic: 25
+     │    │         │    └─não_tem base_nossa_porque_essa
+     │    │         │         ├─não_tem base_nossa_essa_num momento
+     │    │         │         │    ├─■──voz_Não_promover_não_oposição ── Topic: 38
+     │    │         │         │    └─■──tem base_não tem_nossa_num momento_não ── Topic: 28
+     │    │         │         └─■──situação_sugere_discurso sugere_Nós_não ── Topic: 47
+     │    │         └─não_Presidente_nossa_República_constitucional
+     │    │              ├─Presidente_constitucional_Senado_não_Brasil
+     │    │              │    ├─foram_República_Presidente_não_sem
+     │    │              │    │    ├─■──foram_Presidente_só_liberdade culto_ouvi ── Topic: 41
+     │    │              │    │    └─■──regionais_interesse_Temos_não_proteção constitucional ── Topic: 34
+     │    │              │    └─■──negar_Senado_impeachment_garantir_promulgação ── Topic: 33
+     │    │              └─tempos_Estado_Mato Grosso_nossa_Mato
+     │    │                   ├─■──tempos_ordenamento_the_ordenamento jurídico_Grosso ── Topic: 42
+     │    │                   └─■──ele está_Quando_desrespeitar_nossa_avanço ── Topic: 44
+     │    └─não_discurso_direitos_Federal_Estado
+     │         ├─não_discurso_direitos_Federal_Estado
+     │         │    ├─■──Federal_contribuíram_Senadores_Srs Senadores_Srs ── Topic: 27
+     │         │    └─não_discurso_direitos_Federal_Estado
+     │         │         ├─não_discurso_direitos_Federal_Estado
+     │         │         │    ├─não_discurso_direitos_Federal_Estado
+     │         │         │    │    ├─■──Estado_República_não_Presidente_País ── Topic: 22
+     │         │         │    │    └─não_discurso_direitos_Federal_nós
+     │         │         │    │         ├─não_discurso_direitos_Federal_democracia
+     │         │         │    │         │    ├─nosso_Estado_menciona_Federal_nosso País
+     │         │         │    │         │    │    ├─■──Estado_menciona importância_respeito_sociedade_menciona ── Topic: 17
+     │         │         │    │         │    │    └─■──nosso_respeite_Federal_direito_aumentando ── Topic: 18
+     │         │         │    │         │    └─não_discurso_direitos_Federal_democracia
+     │         │         │    │         │         ├─não_discurso_direitos_Federal_democracia
+     │         │         │    │         │         │    ├─direitos_discurso_Estado_democracia_nossa
+     │         │         │    │         │         │    │    ├─■──democracia_discurso_papel_critica_Federal ── Topic: 16
+     │         │         │    │         │         │    │    └─■──direitos_Estado_the_direito_greve ── Topic: 14
+     │         │         │    │         │         │    └─não_discurso_direitos_Federal_nós
+     │         │         │    │         │         │         ├─não_discurso_Federal_direitos_democracia
+     │         │         │    │         │         │         │    ├─■──democracia_País_não_Nacional_nosso ── Topic: 15
+     │         │         │    │         │         │         │    └─não_discurso_Federal_direitos_direito
+     │         │         │    │         │         │         │         ├─não_discurso_direitos_Federal_Brasil
+     │         │         │    │         │         │         │         │    ├─■──discurso_direitos_Não_Senado_eliminar ── Topic: 11
+     │         │         │    │         │         │         │         │    └─não_discurso_Federal_direitos_Brasil
+     │         │         │    │         │         │         │         │         ├─não_discurso_Federal_direitos_Brasil
+     │         │         │    │         │         │         │         │         │    ├─não_discurso_Federal_direitos_Brasil
+     │         │         │    │         │         │         │         │         │    │    ├─■──Senado_não_Federal_nós_sugere ── Topic: 6
+     │         │         │    │         │         │         │         │         │    │    └─não_discurso_direitos_Federal_Brasil
+     │         │         │    │         │         │         │         │         │    │         ├─não_discurso_direitos_Federal_País
+     │         │         │    │         │         │         │         │         │    │         │    ├─■──não_direitos_Estado_Brasil_nós ── Topic: 8
+     │         │         │    │         │         │         │         │         │    │         │    └─não_discurso_Federal_direitos_País
+     │         │         │    │         │         │         │         │         │    │         │         ├─não_discurso_Federal_direitos_País
+     │         │         │    │         │         │         │         │         │    │         │         │    ├─■──nossa_discurso_importância_Estado_Federal ── Topic: 3
+     │         │         │    │         │         │         │         │         │    │         │         │    └─discurso_Federal_direito_direitos_Brasil
+     │         │         │    │         │         │         │         │         │    │         │         │         ├─não_discurso_Federal_direito_Brasil
+     │         │         │    │         │         │         │         │         │    │         │         │         │    ├─■──não_discurso_Brasil_Estado_democracia ── Topic: 1
+     │         │         │    │         │         │         │         │         │    │         │         │         │    └─■──não_Federal_discurso_direitos_País ── Topic: 0
+     │         │         │    │         │         │         │         │         │    │         │         │         └─■──não_direitos_País_Federal_nossa ── Topic: 2
+     │         │         │    │         │         │         │         │         │    │         │         └─■──democracia_nossa_aqui_nosso_mas ── Topic: 5
+     │         │         │    │         │         │         │         │         │    │         └─■──não_educação_Brasil_discurso_constitucional ── Topic: 7
+     │         │         │    │         │         │         │         │         │    └─■──democracia_contra_recursos_Brasil_nós ── Topic: 9
+     │         │         │    │         │         │         │         │         └─■──morte_não_direitos_Federal_Senado Federal ── Topic: 10
+     │         │         │    │         │         │         │         └─■──constitucional_sugere_direito_Estado_nós ── Topic: 12
+     │         │         │    │         │         │         └─orçamento_Bloco_Parlamentar_não_nós fizemos
+     │         │         │    │         │         │              ├─■──nossa_discurso_não_democracia_brasileira ── Topic: 13
+     │         │         │    │         │         │              └─■──orçamento_Parlamentar_colocamos_não tinha_produzir ── Topic: 4
+     │         │         │    │         │         └─■──Presidente_nossa_não_deve_Congresso ── Topic: 19
+     │         │         │    │         └─■──não_essa_termos_nós_aqui ── Topic: 21
+     │         │         │    └─não_cada_Constituinte_liberdade_Poderes
+     │         │         │         ├─■──liberdade_não_nossa_dignidade_espírito ── Topic: 23
+     │         │         │         └─■──não_mas_aberto_vamos_fala ── Topic: 20
+     │         │         └─■──liberdade_existe_temos_social_brasileiros ── Topic: 24
+     │         └─não_constitucional_democracia_direito_hoje
+     │              ├─veto_não_constitucional_mês_hoje
+     │              │    ├─■──foram_luta_trabalho_capital_Senado ── Topic: 45
+     │              │    └─■──veto_mês_Governo_hoje_Governo está ── Topic: 26
+     │              └─respeita_não_democracia_constitucional_saúde
+     │                   ├─■──dever_Executivo_não_direito_respeita ── Topic: 32
+     │                   └─■──não respeita_legislador_democracia_democracia não_respeita ── Topic: 29
+     └─não_nossa_Brasil_democracia_nós
+          ├─não_porque_nossa_Presidente_democracia
+          │    ├─não_porque_nossa_Presidente_Estado
+          │    │    ├─não_nossa_democracia_Penal_período
+          │    │    │    ├─■──capítulo_somos_mensagem_constitucionalidade_normalidade ── Topic: 56
+          │    │    │    └─Penal_período_nossa_Direito_acho
+          │    │    │         ├─nossa_anos_Nacional_democracia_gente
+          │    │    │         │    ├─■──nossa_anos_celebramos_trabalhador_direitos estão ── Topic: 51
+          │    │    │         │    └─■──Esta Casa_gente_grupos_Casa_nossa tem ── Topic: 39
+          │    │    │         └─■──Penal_acabar_romper_proposta_acho ── Topic: 43
+          │    │    └─Brasil não_não_Estado_queremos_porque
+          │    │         ├─Brasil não_queremos_Brasil_porque_nós
+          │    │         │    ├─■──queremos_caminho_ambiental_Brasil não pode_pode ── Topic: 46
+          │    │         │    └─■──Brasil não_porque_nós_Presidente_Miguel Reale ── Topic: 40
+          │    │         └─■──escola_países_condição_estatal_outros países ── Topic: 54
+          │    └─não_Brasil_foi_Federal_discurso
+          │         ├─seletiva_elege_mais precisam_constitucionais_discursos
+          │         │    ├─■──mãe_brasileira_permitiu_sociedade brasileira_prorrogação ── Topic: 48
+          │         │    └─■──discursos_mulheres_seletiva_elege_mais precisam ── Topic: 50
+          │         └─setor_atacar_Constituinte_decreto_decisão
+          │              ├─■──setor_atacar_Vice_ontem_Constituinte exclusiva ── Topic: 49
+          │              └─■──toda população brasileira_toda população_fazer valer_importante_indicando importância ── Topic: 53
+          └─corrupção_nós_Brasil_nossa_não
+               ├─educação_mudar_solidária_efetiva_Ulysses Guimarães
+               │    ├─■──aumenta_nível_miséria_filhos_erradicar ── Topic: 58
+               │    └─■──cidadão_reforma_defendo_frase_orçamentária ── Topic: 52
+               └─corrupção_nossa_nós_contra_democracia
+                    ├─corrupção_Brasil_nós_sociedade_contra
+                    │    ├─■──linhas_precisa_nós_independência Brasil_Federal leis ── Topic: 55
+                    │    └─corrupção_partidos_prioridades_sociedade_apesar
+                    │         ├─■──apesar_pobreza_brasileira_sociedade_pobreza marginalização ── Topic: 37
+                    │         └─■──corrupção_prioridades_partidos_nossa_ainda não ── Topic: 36
+                    └─■──lei está_união_está acima_democracia_vigilância ── Topic: 57
+

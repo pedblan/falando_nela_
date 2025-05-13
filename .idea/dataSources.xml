@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="DiscursosSenadores_02_05_2025_analisado" uuid="c65a7315-9626-4b4e-bea8-87cfd22b72f2">
+    <data-source source="LOCAL" name="DiscursosSenadores_02_05_2025_analisado" uuid="c420a4b0-1007-4b23-9084-a6fee88c812a">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>

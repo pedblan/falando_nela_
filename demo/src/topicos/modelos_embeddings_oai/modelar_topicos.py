@@ -14,7 +14,12 @@ client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 from typing import Tuple, List, Optional, Dict, Any, Union
 from io import StringIO
 
-CAMINHO_BANCO = "../../DiscursosSenadores_02_05_2025_analisado.sqlite"
+CAMINHO_BANCO = "/Users/pedblan/PycharmProjects/falando_nela_/src/DiscursosSenadores_02_05_2025_analisado.sqlite"
+
+colunas = ["AvalCombinado", "AvalConclusao", "AvalImplicacao",
+            "AvalPredicacao", "AvalTrecho", "NormCombinado",
+           "NormConclusao", "NormImplicacao", "NormPredicacao", "NormTrecho",
+           "SumarioConstituicao", "TextoResumo"]
 
 
 def carregar_dados() -> pd.DataFrame:
@@ -65,8 +70,8 @@ def carregar_embeddings(coluna: str) -> Tuple[np.ndarray, np.ndarray]:
     Returns:
         Tuple[np.ndarray, np.ndarray]: Um par contendo os códigos dos documentos (IDs) e os embeddings correspondentes.
     """
-    caminho_index = f"../../../data/discursos/embeddings/discursos_{coluna}.index"
-    caminho_codigos = f"../../../data/discursos/embeddings/codigos_{coluna}.npy"
+    caminho_index = f"../../../../data/discursos/embeddings/discursos_{coluna}.index"
+    caminho_codigos = f"../../../../data/discursos/embeddings/codigos_{coluna}.npy"
 
     codigos = np.load(caminho_codigos)
     faiss_index = faiss.read_index(caminho_index)
@@ -205,13 +210,91 @@ def treinar_vetorizador() -> CountVectorizer:
     """
     stopwords_extras = [
         "texto_vazio", "textovazio", "nenhuma", "nenhum", "null", "não aplicável",
-        "resposta não informada", "Por causa disso, o orador", "Por", "causa", "disso",
+        "resposta não informada", "Por causa disso, o orador", "Por", "causa", "disso", "Por causa disso, a oradora",
         "o", "os", "as", "orador", "de", "que", "para", "do", "em", "ao", "dos", "das",
         "da", "seu", "sua", "por", "no", "na", "um", "uma", "pelo", "pela", "aos", "às",
-        "isso significa que o", "isso significa que a", "é", "são",
+        "isso significa que o", "isso significa que a", "é", "são", "que",
         "constituição de", "constituição do", "constituição da",
         "suas", "seus", "com", "como", "ser", "se", "isso", "Isso", "Eu", "eu",
-        "sobre", "conforme previsto", "conforme estabelecido", "Constituição Federal", "Constituição", "art", "arts"
+        "sobre", "conforme previsto", "conforme estabelecido", "Constituição Federal", "Constituição", "art", "arts", "texto_vazio",
+        "textovazio",
+        "nenhuma",
+        "nenhum",
+        "null",
+        "não aplicável",
+        "resposta não informada",
+        "Por causa disso, o orador",
+        "Por causa disso, a oradora",
+        "Por",
+        "causa",
+        "disso",
+        "Isso implica que",
+        "isso implica que",
+        "o",
+        "os",
+        "as",
+        "orador",
+        "de",
+        "que",
+        "para",
+        "do",
+        "em",
+        "ao",
+        "de",
+                        "no",
+                        "na",
+        "dos",
+        "das",
+        "da",
+        "em",
+        "seu",
+        "sua",
+        "por",
+        "no",
+        "na",
+        "um",
+        "uma",
+        "pelo",
+        "pela",
+        "aos",
+        "às",
+        "isso significa que o",
+        "isso significa que a",
+        "isso implica que",
+        "é",
+        "são",
+        "constituição de",
+        "constituição do",
+        "constituição da",
+        "suas",
+        "seus",
+        "com",
+        "como",
+        "ser",
+        "se",
+        "isso",
+        "Isso",
+        "Eu",
+        "eu",
+        "sobre",
+        "conforme previsto",
+        "conforme estabelecido",
+        "estabelece",
+        "art",
+        "arts",
+        "implícito",
+        "Implícito",
+        "orador",
+        "oradora",
+                        "Constituição",
+                        "estabelece",
+                        "assegura",
+                        "garante",
+                        "assinala",
+                        "arrola",
+                        "determina",
+                        "prevê", "destacando", "sugerindo", "expressa", 'art', 'art da', 'art da Constituição', 'da Constituição', "Portanto",
+                        "inciso", "artigo", "artigos", "Disposições", "Ato das Disposições Constitucionais Transitórias", "a Constituição", "Senador", "Senadora"
     ]
 
     vectorizer_model = CountVectorizer(
@@ -220,7 +303,7 @@ def treinar_vetorizador() -> CountVectorizer:
         lowercase=False,
         token_pattern=r'(?u)\b[A-Za-zÀ-ÖØ-öø-ÿ]{2,}\b',
         ngram_range=(1, 4),
-        min_df=10
+        min_df=5
     )
 
     return vectorizer_model
@@ -354,14 +437,14 @@ def representacao() -> Tuple[Dict[str, object], SentenceTransformer]:
             - Dicionário com representações ('Main', 'Aspect1')
             - Modelo de embeddings semânticos para o BERTopic
     """
-    pos_model = PartOfSpeech("pt_core_news_lg", top_n_words=30)
+    pos_model = PartOfSpeech("pt_core_news_lg", top_n_words=20)
     pos_model.pos = ["NOUN", "PROPN", "ADJ"]
 
-    mmr_model = MaximalMarginalRelevance(diversity=0.5, top_n_words=30)
+    mmr_model = MaximalMarginalRelevance(diversity=0.2, top_n_words=20)
 
     representation_model = {
-        "Main": pos_model,
-        "Aspect1": mmr_model
+        "Main": mmr_model,
+        "Aspect1": pos_model
     }
 
     embedding_model = SentenceTransformer("paraphrase-multilingual-MiniLM-L12-v2")
@@ -556,14 +639,12 @@ def salvar_resultados(
 
 
 
-def main() -> None:
+def fluxo(coluna) -> None:
     """
     Executa o pipeline completo de modelagem de tópicos com BERTopic.
     Inclui carregamento, processamento, modelagem, redução, visualização e exportação.
     """
     print("\n📥 Início do pipeline BERTopic\n")
-
-    coluna = input("Digite a coluna de embeddings a ser analisada: ").strip()
 
     print("\n[1/5] Carregando dados e embeddings...")
     df_discursos = carregar_dados()
@@ -594,13 +675,20 @@ def main() -> None:
     lista_topicos(topic_model)
     salvar_resultados(topic_model, df_valido, docs_validados, probs, coluna)
 
-    print("\n[5/5] Redução e visualização final:")
-    topic_model = reduzir_topicos(topic_model, docs_validados)
-    lista_topicos(topic_model)
-    salvar_resultados(topic_model, df_valido, docs_validados, probs, coluna, reduzido=True)
+    #print("\n[5/5] Redução e visualização final:")
+    #topic_model = reduzir_topicos(topic_model, docs_validados)
+    #lista_topicos(topic_model)
+    #salvar_resultados(topic_model, df_valido, docs_validados, probs, coluna, reduzido=True)
 
     print("\n✅ Pipeline finalizado com sucesso!\n")
 
+
+def main():
+    for coluna in colunas:
+        try:
+            fluxo(coluna)
+        except Exception as e:
+            print(f"Erro {e} no processamento da coluna {coluna}.")
 
 if __name__ == "__main__":
     main()

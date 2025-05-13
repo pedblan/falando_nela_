@@ -1,0 +1,182 @@
+.
+├─deve_não_devem_Estado_direitos
+│    ├─devem_saúde_Estado_impeachment_saúde implica
+│    │    ├─■──operações_implica União não_operações crédito_acordo implica_manter ── Topic: 55
+│    │    └─saúde_Estado_devem_Polícia_implica Estado
+│    │         ├─■──procedimento_implica cidadãos devem_Estado_implica cidadãos_respeitem ── Topic: 43
+│    │         └─■──Polícia_presos_decisão_Federal_polícias ── Topic: 51
+│    └─deve_não_devem_Estado_direitos
+│         ├─deve_não_devem_Estado_direitos
+│         │    ├─Estado_implica Estado_devem_proteger_obrigação
+│         │    │    ├─cidadãos_cidadãos implica_devem_impeachment_implica Estado
+│         │    │    │    ├─■──implica Estado_Estado_não_cidadãos_proteger ── Topic: 16
+│         │    │    │    └─■──implica impeachment_impeachment_impeachment deve_cidadãos implica_cidadãos ── Topic: 30
+│         │    │    └─Estado_implica Estado_governo_responsabilidade_crime responsabilidade implica
+│         │    │         ├─Estado_crime responsabilidade_implica Estado_governo_obrigação
+│         │    │         │    ├─■──obrigação_tem obrigação_implica Estado_desenvolvimento equilibrado entre_Estado ── Topic: 28
+│         │    │         │    └─■──Presidente_crime responsabilidade implica_crime_responsabilidade implica_responsabilidade ── Topic: 20
+│         │    │         └─■──têm_não pode_implica Estado tem_Estado tem_Legislativo ── Topic: 26
+│         │    └─deve_não_devem_Estado_constitucional
+│         │         ├─deve_não_devem_Estado_direitos
+│         │         │    ├─■──benefícios_implica Presidente Dilma_implica mudanças_Dilma_tem papel ── Topic: 22
+│         │         │    └─deve_não_devem_Estado_direitos
+│         │         │         ├─■──não_decreto_direitos_impeachment_salário ── Topic: 18
+│         │         │         └─deve_não_devem_Estado_direitos
+│         │         │              ├─deve_não_devem_Estado_direitos
+│         │         │              │    ├─■──Estado_parlamentares_cidadãos implica_preservação ambiental_deve ── Topic: 15
+│         │         │              │    └─deve_não_devem_Estado_direitos
+│         │         │              │         ├─deve_não_devem_Estado_direitos
+│         │         │              │         │    ├─não_Brasil_Senado_constitucional_governo
+│         │         │              │         │    │    ├─■──obrigação_Estado_deve_legal_tem obrigação ── Topic: 12
+│         │         │              │         │    │    └─Brasil_Senado_constitucional_governo_têm
+│         │         │              │         │    │         ├─■──têm_Senado_têm direito_direito_tem papel crucial ── Topic: 6
+│         │         │              │         │    │         └─■──Brasil_implica Brasil_não_constitucional_Senado ── Topic: 11
+│         │         │              │         │    └─deve_não_devem_Estado_direitos
+│         │         │              │         │         ├─deve_não_devem_direitos_Estado
+│         │         │              │         │         │    ├─deve_não_devem_direitos_Estado
+│         │         │              │         │         │    │    ├─■──responsabilidade_constitucional_estar_deve_devem ── Topic: 8
+│         │         │              │         │         │    │    └─deve_não_devem_direitos_Estado
+│         │         │              │         │         │    │         ├─deve_não_devem_direitos_Estado
+│         │         │              │         │         │    │         │    ├─deve_não_devem_direitos_Estado
+│         │         │              │         │         │    │         │    │    ├─deve_não_devem_direitos_Estado
+│         │         │              │         │         │    │         │    │    │    ├─■──Estado_direitos_sociais implica_ações_poder ── Topic: 3
+│         │         │              │         │         │    │         │    │    │    └─deve_não_devem_direitos_implica qualquer
+│         │         │              │         │         │    │         │    │    │         ├─deve_não_devem_direitos_implica qualquer
+│         │         │              │         │         │    │         │    │    │         │    ├─■──não_direitos_decisões_devem_governo ── Topic: 1
+│         │         │              │         │         │    │         │    │    │         │    └─■──não_deve_devem_implica qualquer_direitos ── Topic: 0
+│         │         │              │         │         │    │         │    │    │         └─■──Estado_implica Estado_cidadãos_público_direitos ── Topic: 2
+│         │         │              │         │         │    │         │    │    └─■──não_direitos_podem_constitucional_devem ── Topic: 5
+│         │         │              │         │         │    │         │    └─■──constitucional_constitucionais implica_não_obrigação_constitucionais ── Topic: 7
+│         │         │              │         │         │    │         └─■──impeachment deve_deve_implica processo impeachment deve_processo impeachment deve_impeachment ── Topic: 4
+│         │         │              │         │         │    └─■──deve_Estado_constitucionais implica_responsabilidade_saúde ── Topic: 9
+│         │         │              │         │         └─■──deve_implica Estado_Estado_saúde_têm direito ── Topic: 10
+│         │         │              │         └─■──princípios_respeitar_deve_Brasil_constitucionais ── Topic: 14
+│         │         │              └─■──legislação_deve_tem obrigação_poder_obrigação ── Topic: 21
+│         │         └─deve_constitucional_devem_têm_responsabilidade
+│         │              ├─deve_constitucional_cidadãos_responsabilidade_direitos
+│         │              │    ├─■──cidadãos_implica cidadãos têm_implica cidadãos_cidadãos têm_implica cidadãos têm direito ── Topic: 17
+│         │              │    └─constitucional_responsabilidade_direitos_devem_deve
+│         │              │         ├─■──constitucional_condições_recursos_educação_devem ── Topic: 19
+│         │              │         └─■──direitos_responsabilidade_deve_têm_devem ── Topic: 13
+│         │              └─deve_constitucional_públicos_implica qualquer_governo
+│         │                   ├─■──constitucional_emenda constitucional implica_emenda_emenda constitucional_constitucional implica ── Topic: 29
+│         │                   └─■──públicos_convocar_públicos implica_obrigação_sociais ── Topic: 25
+│         └─implica há_implica governo_devem_implica Estado_não
+│              ├─■──fiscalização_tem direito_Municípios_inconstitucional implica mudanças_implica há ── Topic: 34
+│              └─■──mercado_implica há_nas_quais_deve ajustado ── Topic: 45
+└─deve_não_devem_direitos_Estado
+     ├─deve_não_devem_direitos_Estado
+     │    ├─deve_não_devem_implica qualquer_direitos
+     │    │    ├─deve_legal_recursos_impeachment_Senado
+     │    │    │    ├─deve respeitar_deve_não pode_impeachment_Presidente República não pode
+     │    │    │    │    ├─legislação_não pode_República_Presidente República_Presidente República não pode
+     │    │    │    │    │    ├─■──assegurar esse_implica políticas_esse procedimento_cometer crime responsabilidade_cometer crime resp ── Topic: 90
+     │    │    │    │    │    └─■──legislação_implica União deve_União deve_impeachment_deve respeitar ── Topic: 66
+     │    │    │    │    └─■──estruturais_garantia direitos_implica Senadores_através emendas constitucionais_através emendas ── Topic: 65
+     │    │    │    └─implica Senado_Senado_implica há base legal_direitos_há base legal
+     │    │    │         ├─Municípios devem_devem ter_devem_Senado_implica Senado
+     │    │    │         │    ├─■──devem ter_direitos_implica processo impeachment_não podem_implica processo impeachment deve ── Topic: 57
+     │    │    │         │    └─■──implica Municípios devem_implica há base legal_há base legal_Municípios devem_essenciais ── Topic: 61
+     │    │    │         └─■──legal_municípios_pedidos_conceder_implica há base legal ── Topic: 64
+     │    │    └─deve_devem_não_implica qualquer_direitos
+     │    │         ├─deve_devem_não_implica qualquer_direitos
+     │    │         │    ├─Executivo_provisórias_medidas provisórias_implica Executivo_estruturado
+     │    │         │    │    ├─■──pressupostos_partidos_partidos implica_provisórias_medidas provisórias ── Topic: 78
+     │    │         │    │    └─■──estruturado_específicos implica_Legislativo implica_deve_implica esses direitos ── Topic: 81
+     │    │         │    └─deve_devem_não_implica qualquer_Congresso
+     │    │         │         ├─deve_devem_não_Estado_implica qualquer
+     │    │         │         │    ├─não_não pode_país_implica não deve haver_deve
+     │    │         │         │    │    ├─■──vontade_pode ter_implica senadores devem_senadores devem_implica não deve haver ── Topic: 68
+     │    │         │         │    │    └─■──concorrer_propostas_legislativas_deve_princípio ── Topic: 74
+     │    │         │         │    └─deve_devem_Estado_têm_implica Estado deve
+     │    │         │         │         ├─deve_devem_constitucionais_população_devem atuar
+     │    │         │         │         │    ├─■──decisões_instâncias_deve_podem_podem usadas ── Topic: 53
+     │    │         │         │         │    └─devem_devem atuar_deve_Estado_constitucional
+     │    │         │         │         │         ├─devem atuar_constitucional_população_deve seguir_constitucionais
+     │    │         │         │         │         │    ├─■──normas constitucionais_constitucionais_normas_população_deve seguir ── Topic: 35
+     │    │         │         │         │         │    └─■──devem atuar_sem interferências indevidas_interferências indevidas_sem interferências_devem atuar for ── Topic: 46
+     │    │         │         │         │         └─■──devem_respeitar_devem respeitar_respeitar limites constitucionais_inflação ── Topic: 39
+     │    │         │         │         └─deve_devem_não_implica qualquer_Estado
+     │    │         │         │              ├─devem_deve_Estado_não_implica qualquer
+     │    │         │         │              │    ├─■──devem_implica cidadãos têm_deve mais_devem combatidas_implica cidadãos ── Topic: 44
+     │    │         │         │              │    └─deve_implica qualquer_Estado_princípios implica_corrupção
+     │    │         │         │              │         ├─■──corrupção implica_corrupção_acesso_direito garantido constitucionalmente_deve ── Topic: 37
+     │    │         │         │              │         └─■──Supremo Tribunal Federal deve_Tribunal Federal deve_deve ter_pode considerado inconstitucional impli ── Topic: 36
+     │    │         │         │              └─■──projetos lei_garantir_vigente implica_permite_legalidade ── Topic: 73
+     │    │         │         └─deve_União_implica qualquer_não_responsabilidade
+     │    │         │              ├─União_implica União tem responsabilidade_União tem responsabilidade_implica União_responsabilidade
+     │    │         │              │    ├─■──investigado_implica qualquer tentativa_tentativa_implica governo deve seguir_governo deve seguir ── Topic: 62
+     │    │         │              │    └─União_tem responsabilidade_responsabilidade_implica União tem_implica União tem responsabilidade
+     │    │         │              │         ├─■──indígenas_pode reduzir_implica União tem_União_União tem ── Topic: 54
+     │    │         │              │         └─■──cargos_União_poderes_descumprimento_tem responsabilidade ── Topic: 40
+     │    │         │              └─inconstitucional_inconstitucional implica_implica qualquer_deve_direitos
+     │    │         │                   ├─inconstitucional_implica qualquer_inconstitucional implica_públicos_direitos
+     │    │         │                   │    ├─■──inconstitucional implica_inconstitucional_fiscalização_Brasil implica qualquer_esses valores ── Topic: 50
+     │    │         │                   │    └─■──públicos_consentimento_implica processo impeachment legítimo_processo impeachment legítimo_impeachme ── Topic: 47
+     │    │         │                   └─■──administrativa_objetivos_considerada inconstitucional implica_considerada inconstitucional_implica g ── Topic: 83
+     │    │         └─Senado_seguir estritamente preceitos constitucionais_estritamente preceitos constitucionais_deve seg
+     │    │              ├─seguir estritamente preceitos constitucionais_deve seguir estritamente preceitos_estritamente precei
+     │    │              │    ├─■──seguir estritamente preceitos constitucionais_deve seguir estritamente preceitos_seguir estritamente ── Topic: 88
+     │    │              │    └─■──processo impeachment deve conduzido_direitos_impeachment deve conduzido_liberdade imprensa_legislaçã ── Topic: 59
+     │    │              └─violência_constitucional_conformidade_devem estar_deve respeitado
+     │    │                   ├─■──proteger crianças adolescentes_proteger crianças_conformidade_emendas implica_família ── Topic: 58
+     │    │                   └─■──Chefe_implica todos_estar_mecanismo constitucional_deve respeitado ── Topic: 77
+     │    └─não_devem_Estado_direitos_responsabilidade
+     │         ├─não_deve_devem_Estado_responsabilidade
+     │         │    ├─devem_projeto_deve_Estados_constitucional
+     │         │    │    ├─recursos_devem_constitucional_demarcações terras indígenas devem_implica demarcações terras indígena
+     │         │    │    │    ├─■──devem considerar_implica demarcações terras indígenas_demarcações terras indígenas devem_constitucio ── Topic: 52
+     │         │    │    │    └─■──recursos implica_recursos_projeto_implica projeto_ensino fundamental ── Topic: 56
+     │         │    │    └─■──legislativa_União Estados Municípios_União Estados_candidatos_devem ── Topic: 48
+     │         │    └─não_devem_Estado_direitos_responsabilidade
+     │         │         ├─Estado_devem_implica Estado_direitos_Congresso
+     │         │         │    ├─democracia_Estado_salários_implica Congresso_Congresso
+     │         │         │    │    ├─■──parlamentares_democracia_implica Congresso_ensino implica_inclusão ── Topic: 38
+     │         │         │    │    └─■──devem_públicas_direitos_municípios devem_constitucionais ── Topic: 49
+     │         │         │    └─não_Estado_devem_implica Estado_Federal
+     │         │         │         ├─Federal_Estado_implica governo_governo_constitucionais
+     │         │         │         │    ├─■──Federal_sistema_Federal deve_condições_país ── Topic: 23
+     │         │         │         │    └─tem responsabilidade_implica governo_Congresso_responsabilidade_constitucionalmente
+     │         │         │         │         ├─■──promovam desenvolvimento_constitucionalmente_judiciais_Justiça_Congresso ── Topic: 27
+     │         │         │         │         └─■──tem responsabilidade_implica Congresso Nacional deve_Congresso Nacional deve_Nacional deve_implica g ── Topic: 24
+     │         │         │         └─■──Estado_tributária_implica Estado tem obrigação_Estado tem obrigação_tem obrigação ── Topic: 31
+     │         │         └─não_constitucional_responsabilidade_não pode_devem
+     │         │              ├─Estados_devem_Federal_direitos_Tribunal
+     │         │              │    ├─■──Supremo Tribunal Federal_Tribunal Federal_Supremo Tribunal_deveria_Federal ── Topic: 33
+     │         │              │    └─■──ação_implica qualquer ação_qualquer ação_implica governo não_governo não ── Topic: 32
+     │         │              └─■──marco transição_marco_CPI_transição_saúde população implica ── Topic: 42
+     │         └─devem_implica governo deve_governo deve_desenvolvimento_constitucionais
+     │              ├─implica governo deve_governo deve_devem_implementar políticas_políticas
+     │              │    ├─■──implica governo deve implementar_governo deve implementar_governo deve implementar políticas_distrib ── Topic: 71
+     │              │    └─implica Estado tem_Estado tem_Estado_implica Estado_implica Municípios
+     │              │         ├─■──conflito_segurança_tem responsabilidade_devem_instituições ── Topic: 41
+     │              │         └─■──propostas_direitos_Lula_esses direitos_modificar ── Topic: 63
+     │              └─desenvolvimento_devem_devem ter_direitos_precisa
+     │                   ├─desenvolvimento_devem ter_servidores_responsabilidade_Estado
+     │                   │    ├─■──reeleição_Estado_implica Estado_não deve_implica Estado deve ── Topic: 70
+     │                   │    └─■──candidato_devem ter_mães_responsabilidade agir_desenvolvimento ── Topic: 60
+     │                   └─■──governamentais_direitos devem_precisa_implica governo deve_governo deve ── Topic: 85
+     └─deve_garantir_constitucionais_devem_Estado
+          ├─prisão_antes trânsito_antes trânsito julgado_julgado inconstitucional implica_julgado inconstitucion
+          │    ├─graves implica_deve cumprir_julgados adultos_não podem julgados adultos_podem julgados adultos
+          │    │    ├─■──pobreza_social implica_terras_terras indígenas_implica racismo ── Topic: 86
+          │    │    └─■──atribuições constitucionais_mercado_lacuna_Judiciário implica_deve cumprir ── Topic: 82
+          │    └─implica prisão antes trânsito_implica prisão antes_prisão antes trânsito julgado_prisão antes trânsi
+          │         ├─deve garantir_Estado_implica Estado_implica prisão_implica prisão antes
+          │         │    ├─■──implica prisão_Estado_deve garantir_dignidade_implica Estado ── Topic: 79
+          │         │    └─■──inconstitucional implica Senado tem_devem distribuídos_distribuídos_ajustar_inconstitucional implica ── Topic: 72
+          │         └─■──Dilma_Senado_Executivo pode_Presidenta Dilma_Presidenta ── Topic: 75
+          └─não_constitucionais_constitucionais implica_devem_pública
+               ├─Congresso_deve_devem_pública_constitucionais
+               │    ├─implica STF não_STF não_implica STF_implica STF não deve_democrática
+               │    │    ├─■──implica STF não_STF não_implica STF_Brasil implica_interferir ── Topic: 89
+               │    │    └─■──mecanismo_democrática_implica Congresso_constitucional implica impeachment_deve atuar forma imparcia ── Topic: 84
+               │    └─pública_implica Estados_saúde_universal_saúde implica Estado deve
+               │         ├─■──universal igualitário saúde implica_igualitário saúde implica_universal igualitário saúde_acesso uni ── Topic: 76
+               │         └─■──implica Estados_pública_esferas_exploração petróleo_dois ── Topic: 67
+               └─mudanças_implica autoridades devem_constitucionais implica_sociedade_autoridades devem
+                    ├─sociedade_mudanças_implica cidadãos têm_Civil_implica qualquer julgamento deve
+                    │    ├─■──deveria ter_homens mulheres devem_implica homens mulheres devem_implica homens mulheres_implica home ── Topic: 80
+                    │    └─■──colaboração_incluir_incentivos fiscais_incentivos_pública ── Topic: 69
+                    └─■──implica trabalhadores rurais têm_trabalhadores rurais têm_implica trabalhadores rurais_rurais têm_tr ── Topic: 87
+

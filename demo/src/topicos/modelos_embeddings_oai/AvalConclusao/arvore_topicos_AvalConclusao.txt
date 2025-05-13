@@ -1,0 +1,168 @@
+.
+├─defende_critica_Brasil_deve_política
+│    ├─critica_deve_pública_segurança_governo
+│    │    ├─Brasil_critica_critica postura governo_postura governo_Federal
+│    │    │    ├─■──proteção_acredita proposta emenda_critica_deve_Brasil apoia Projeto Lei ── Topic: 54
+│    │    │    └─■──recursos_constitucionais promovendo_simbólica_ambiental_Brasil ── Topic: 49
+│    │    └─■──pública_critica_governo_nacional_necessidades ── Topic: 60
+│    └─defende_critica_Brasil_deve_política
+│         ├─defende_critica_Brasil_deve_política
+│         │    ├─critica_defende_Brasil_necessidade_política
+│         │    │    ├─critica_defende_Brasil_necessidade_Federal
+│         │    │    │    ├─■──Brasil_Presidente Lula_Presidente_Lula_defende ── Topic: 42
+│         │    │    │    └─critica_defende_necessidade_Governo_Federal
+│         │    │    │         ├─■──critica_necessidade Senado_defende_fatos_Federal ── Topic: 33
+│         │    │    │         └─■──Governo Federal_necessidade_política_Governo_governo ── Topic: 28
+│         │    │    └─■──PEC_democracia_luta contra_apoia PEC_política ── Topic: 43
+│         │    └─defende_critica_Brasil_deve_garantir
+│         │         ├─defende_critica_deve_Brasil_garantir
+│         │         │    ├─■──reformas_direitos_sociedade_sociais_PEC ── Topic: 25
+│         │         │    └─defende_critica_deve_Brasil_garantir
+│         │         │         ├─defende_Brasil_política_critica_governo
+│         │         │         │    ├─■──sugere_governo_critica_Brasil_política ── Topic: 24
+│         │         │         │    └─defende_Brasil_política_critica_governo
+│         │         │         │         ├─política_defende_critica_Brasil_opõe
+│         │         │         │         │    ├─■──propõe_política_critica_pública_projeto ── Topic: 26
+│         │         │         │         │    └─■──política_defende_Brasil_proteção_crise ── Topic: 20
+│         │         │         │         └─■──Brasil_medida necessária_PEC_social_critica ── Topic: 19
+│         │         │         └─defende_critica_deve_Brasil_garantir
+│         │         │              ├─defende_critica_Brasil_garantir_Senado
+│         │         │              │    ├─■──defende_importância_critica_resolver questão_liberdade expressão ── Topic: 22
+│         │         │              │    └─defende_critica_deve_Brasil_democracia
+│         │         │              │         ├─defende_critica_deve_Brasil_democracia
+│         │         │              │         │    ├─■──novo_visa_Brasil_União_políticas ── Topic: 18
+│         │         │              │         │    └─defende_critica_deve_Brasil_democracia
+│         │         │              │         │         ├─defende_critica_deve_Brasil_democracia
+│         │         │              │         │         │    ├─defende_constitucionais_critica_sugere_princípios
+│         │         │              │         │         │    │    ├─■──defende_critica_Executivo_constitucionais_educação ── Topic: 21
+│         │         │              │         │         │    │    └─■──defende_constitucionais_critica_PEC_Justiça ── Topic: 15
+│         │         │              │         │         │    └─defende_critica_deve_Brasil_democracia
+│         │         │              │         │         │         ├─defende_critica_deve_Brasil_democracia
+│         │         │              │         │         │         │    ├─defende_critica_Brasil_não_princípios
+│         │         │              │         │         │         │    │    ├─■──critica_PEC_defende_constitucionais_Brasil ── Topic: 13
+│         │         │              │         │         │         │    │    └─■──Governo_defende_Brasil_critica_promover ── Topic: 10
+│         │         │              │         │         │         │    └─defende_critica_deve_Brasil_democracia
+│         │         │              │         │         │         │         ├─critica_defende_deve_Brasil_democracia
+│         │         │              │         │         │         │         │    ├─impeachment_critica_defende_Brasil_processo impeachment
+│         │         │              │         │         │         │         │    │    ├─■──critica_defende_governo_país_evitar ── Topic: 11
+│         │         │              │         │         │         │         │    │    └─impeachment_Brasil_Presidente_processo impeachment_critica
+│         │         │              │         │         │         │         │    │         ├─■──impeachment_Presidente_Dilma_critica_processo impeachment ── Topic: 8
+│         │         │              │         │         │         │         │    │         └─■──Brasil_defende_reforma_impeachment_Estado ── Topic: 9
+│         │         │              │         │         │         │         │    └─critica_defende_deve_democracia_aprovação
+│         │         │              │         │         │         │         │         ├─defende_critica_deve_democracia_aprovação
+│         │         │              │         │         │         │         │         │    ├─■──proposta_critica_contra_defende_constitucionais ── Topic: 6
+│         │         │              │         │         │         │         │         │    └─defende_critica_deve_democracia_aprovação
+│         │         │              │         │         │         │         │         │         ├─■──direitos_defende_critica_aprovação_pública ── Topic: 7
+│         │         │              │         │         │         │         │         │         └─defende_critica_deve_democracia_garantir
+│         │         │              │         │         │         │         │         │              ├─critica_defende_deve_democracia_garantir
+│         │         │              │         │         │         │         │         │              │    ├─■──defende_critica_pública_Brasil_princípios ── Topic: 2
+│         │         │              │         │         │         │         │         │              │    └─critica_defende_deve_democracia_aprovação
+│         │         │              │         │         │         │         │         │              │         ├─■──critica_defende_democracia_sugere_Projeto Lei ── Topic: 1
+│         │         │              │         │         │         │         │         │              │         └─critica_defende_PEC_aprovação_garantir
+│         │         │              │         │         │         │         │         │              │              ├─■──critica_defende_deve_PEC_aprovação ── Topic: 0
+│         │         │              │         │         │         │         │         │              │              └─■──defende_critica_garantir_constitucionais_propõe ── Topic: 4
+│         │         │              │         │         │         │         │         │              └─■──defende_critica_política_democracia_aprovação ── Topic: 3
+│         │         │              │         │         │         │         │         └─■──política_critica_defende_promover_sugere ── Topic: 5
+│         │         │              │         │         │         │         └─■──garantir_defende_direitos_constitucionais_deve ── Topic: 12
+│         │         │              │         │         │         └─■──defende_critica_público_contra_Brasil ── Topic: 14
+│         │         │              │         │         └─■──Brasil_país_defende_Senado_deve ── Topic: 17
+│         │         │              │         └─■──critica_constitucionais_direitos_defende_contra ── Topic: 16
+│         │         │              └─■──impeachment_contra_processo impeachment_Dilma_aprovação ── Topic: 23
+│         │         └─■──impeachment_crimes hediondos_hediondos_propõe_enfatiza necessidade ── Topic: 32
+│         └─Brasil_critica_defende_deve_Projeto Lei
+│              ├─política_governo_critica_evitar_defende
+│              │    ├─■──evitar_CPI_Brasil_proteger liberdade imprensa_política ── Topic: 37
+│              │    └─■──critica_política_governo_gestão_defende ── Topic: 41
+│              └─Brasil_defende_critica_Projeto Lei_aprovação
+│                   ├─Brasil_defende_critica_Projeto Lei_projeto
+│                   │    ├─Brasil_pagamento_reforma_legislação_políticas
+│                   │    │    ├─■──eleições diretas_critica_decreto_políticas_eleições ── Topic: 36
+│                   │    │    └─■──pagamento_Brasil_regulamentação Emenda_saúde_reforma ── Topic: 35
+│                   │    └─Brasil_projeto_defende_critica_direitos
+│                   │         ├─Brasil_direitos_critica_princípios_política
+│                   │         │    ├─■──Brasil_propõe_política_busca_justiça ── Topic: 27
+│                   │         │    └─■──direitos_constitucionais_princípios_Brasil_princípios constitucionais ── Topic: 31
+│                   │         └─royalties_Projeto Lei_saúde pública_Brasil_governo
+│                   │              ├─■──royalties_Projeto Lei_considerando medida_considerando_direitos crianças ── Topic: 29
+│                   │              └─■──recursos_crescimento econômico_governo_Nacional_crescimento ── Topic: 30
+│                   └─■──posiciona contra projeto lei_democracia acredita aprovação_contra projeto lei_posiciona contra proje ── Topic: 48
+└─critica_defende_garantir_constitucionais_política
+     ├─critica_política_defende_Governo_governo
+     │    ├─critica_política_Projeto_governo_aprovação
+     │    │    ├─impeachment_Rousseff_Dilma Rousseff_Dilma_processo impeachment
+     │    │    │    ├─■──compromisso_redução desigualdades_Nacional_sociais_projeto ── Topic: 51
+     │    │    │    └─impeachment_Dilma Rousseff_Rousseff_Dilma_processo impeachment
+     │    │    │         ├─■──direito resposta_impeachment_defende aprovação Projeto Lei_liberdade imprensa_defende aprovação Proj ── Topic: 62
+     │    │    │         └─■──impeachment_Dilma_Dilma Rousseff_Presidente Dilma Rousseff_Presidente Dilma ── Topic: 70
+     │    │    └─critica_política_Projeto_Senado_governo
+     │    │         ├─critica_defende_Senado_política_governo
+     │    │         │    ├─■──Santa Catarina_Catarina_opinião pública_Senado_opinião ── Topic: 77
+     │    │         │    └─critica_defende_governo_política_deve
+     │    │         │         ├─garantir_fiscais_necessidade urgente_Congresso_royalties
+     │    │         │         │    ├─■──comissão_penal_reformulação_necessidade urgente_recursos apoia ── Topic: 64
+     │    │         │         │    └─■──problemas_Rousseff_Dilma Rousseff_Presidente Dilma Rousseff_Presidente Dilma ── Topic: 55
+     │    │         │         └─critica_Projeto_política_defende_governo
+     │    │         │              ├─critica_política_aprovação_externa_governo
+     │    │         │              │    ├─■──públicas_instituições públicas_públicas apoia_orçamentários_defende necessidade políticas ── Topic: 56
+     │    │         │              │    └─política_critica_sugere_Projeto_nacional
+     │    │         │              │         ├─■──Governo_critica_federativo_reforma_mesmo signifique ── Topic: 50
+     │    │         │              │         └─■──ele não_política_critica_brasileira_sugere ── Topic: 46
+     │    │         │              └─■──alterar_instituições_critica_cenário internacional_políticas ── Topic: 57
+     │    │         └─política_inclusão_Governo_Projeto_visa
+     │    │              ├─■──aberta_região amazônica_amazônica_Estados Municípios_Estados ── Topic: 81
+     │    │              └─política_educação_inclusão_Governo_critica falta
+     │    │                   ├─■──inclusão_educação_sugere_Senado deve assumir_falta ── Topic: 61
+     │    │                   └─■──política_respeite_mais justa_partidário_Amazônia ── Topic: 71
+     │    └─critica_Governo_contra_defende_Brasil
+     │         ├─critica_segurança_gestão_contra_Estados
+     │         │    ├─profissionais_enfermagem_saúde_gênero_apela Presidente
+     │         │    │    ├─■──gestão_profissionais_trabalhar_Maria Penha_Lei Maria Penha ── Topic: 76
+     │         │    │    └─deve prioridade nacional_pobreza_veto_prioridade nacional_derrubada veto
+     │         │    │         ├─■──pobreza_veto_derrubada veto_derrubada_defende derrubada ── Topic: 58
+     │         │    │         └─■──saúde_deve aumentar_deve prioridade nacional_constitucional_categoria ── Topic: 66
+     │         │    └─critica_defende_mudanças_políticas_segurança
+     │         │         ├─■──compromissos_critica processo impeachment curso_considerando_critica_considerando golpe ── Topic: 67
+     │         │         └─■──defende implementação_respeitem direitos_defende implementação políticas públicas_desenvolvimento_il ── Topic: 52
+     │         └─eficiente_enfatiza importância_sugere Brasil deve continuar_partidária_Brasil visando
+     │              ├─■──partidária_Brasil visando_medida provisória_provisória_afetam ── Topic: 83
+     │              └─■──país apoia aprovação_justiça social_sistema político brasileiro_político brasileiro_Ministério ── Topic: 79
+     └─constitucionais_princípios_garantir_defende_critica
+          ├─projeto lei_princípios_constitucionais_Tribunal_justiça
+          │    ├─projeto lei_Tribunal_justiça_critica_pré
+          │    │    ├─projeto_justiça_projeto lei_critica_pré
+          │    │    │    ├─■──Banco Brasil_uso_democracia_país critica_constitucionalidade ── Topic: 63
+          │    │    │    └─projeto_justiça_projeto lei_pré_progresso
+          │    │    │         ├─■──indicação_justiça_funcional_administrativa_garanta ── Topic: 65
+          │    │    │         └─■──progresso_projeto_projeto lei_desenvolvimento_valores constitucionais ── Topic: 59
+          │    │    └─■──assistência social_nacionais_emendas constitucionais_emendas_Unidos ── Topic: 72
+          │    └─econômicas_eficiência_princípios_constitucionais_políticas
+          │         ├─■──alinhando princípios_econômicas_estaduais_princípios constitucionais_alinhando princípios constituci ── Topic: 80
+          │         └─■──cumprimento_democracia brasileira apoia_insatisfação_eficiência_igualitária ── Topic: 73
+          └─garantir_constitucionais_princípios_direitos_defende
+               ├─princípios_constitucionais_defende_reforma_direitos
+               │    ├─reforma_desenvolvimento_reforma previdência_previdência_reforça importância
+               │    │    ├─■──celebra marco_histórica_concretas_investimentos_importância ── Topic: 74
+               │    │    └─reforma_previdência proposta_reforma previdência proposta_reforma previdência_previdência
+               │    │         ├─■──previdência proposta_reforma previdência proposta_reforma previdência_social_previdência ── Topic: 68
+               │    │         └─■──reforma_intenção_elogia atuação_legislativa_reforça importância seguir ── Topic: 69
+               │    └─garantir_princípios_direitos_constitucionais_alinhando princípios
+               │         ├─garantir_direitos_princípios_constitucionais_defende
+               │         │    ├─garantir_princípios_visa_PEC_controle
+               │         │    │    ├─■──decisão STF_apoia revisão_princípios_contra_revisão ── Topic: 47
+               │         │    │    └─controle_visa_PEC_princípios_constitucionais
+               │         │    │         ├─controle_transparência controle_PEC_garantir_maior transparência controle
+               │         │    │         │    ├─■──controle_desenvolvimento_propõe_desrespeitando_maior transparência controle ── Topic: 45
+               │         │    │         │    └─■──político_transparência controle_governo_relação_alinhando princípios ── Topic: 40
+               │         │    │         └─visa_visa garantir_necessidade_princípios_trabalho
+               │         │    │              ├─garantir_alinhando princípios_visa garantir_princípios_Federal
+               │         │    │              │    ├─■──alinhando princípios_princípios_segurança_garantir_princípios constitucionais proteção ── Topic: 34
+               │         │    │              │    └─■──trabalho_cultura_agências_visa garantir_financeiras ── Topic: 38
+               │         │    │              └─■──visa_justiça_social_papel_considera ── Topic: 39
+               │         │    └─direitos_reforma_Projeto_sistema_constitucional
+               │         │         ├─■──Projeto_garantir_educação_aposentados_inconstitucional ── Topic: 53
+               │         │         └─■──direitos_implementação_critica atuação_proteger_justiça histórica ── Topic: 44
+               │         └─■──Universal_critica atual situação_alinhando princípios constitucionais_princípios_Senado ── Topic: 78
+               └─trabalhadores_constitucionais_direitos_Comissão_Parlamento
+                    ├─■──processo legislativo apoia_legislativo apoia_fim foro_Comissão_constitucionais ── Topic: 82
+                    └─■──trabalhadores_trabalhadores sugere_Lei Kandir_critica reforma trabalhista_critica projeto lei ── Topic: 75
+

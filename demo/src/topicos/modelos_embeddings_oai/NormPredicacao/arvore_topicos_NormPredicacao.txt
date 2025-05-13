@@ -1,0 +1,202 @@
+.
+├─prioridade_saúde alimentação educação_alimentação educação_alimentação educação lazer profissionaliz
+│    ├─profissionalização cultura_saúde alimentação educação_alimentação educação_saúde alimentação educaçã
+│    │    ├─alimentação educação lazer profissionalização_educação lazer profissionalização cultura_alimentação 
+│    │    │    ├─■──Banco Desenvolvimento Centro_Banco Desenvolvimento Centro Oeste_Banco Desenvolvimento_princípio mora ── Topic: 97
+│    │    │    └─■──Suprema_Corte_antes trânsito julgado_culpado antes_Senado Federal prerrogativa ── Topic: 88
+│    │    └─democracia_prioridade_profissionalização cultura_saúde alimentação educação_liberdade
+│    │         ├─■──prioridade_democracia_Armadas_Forças Armadas_Social ── Topic: 40
+│    │         └─■──deve cumprir_território_reduzir desigualdades_serviço_cargos ── Topic: 82
+│    └─■──culturais_comunicações_liberdade_direito social_cultura ── Topic: 41
+└─não_deve_direitos_Federal_Estado
+     ├─deve_direitos_Federal_Estado_República
+     │    ├─não_deve_Federal_direitos_República
+     │    │    ├─não_liberdade_legal_deve_impeachment
+     │    │    │    ├─atuais limites geográficos_Federados mantidos atuais limites_Estados Federados mantidos atuais_manti
+     │    │    │    │    ├─■──Eleitoral_direito ir vir_direito ir_impõe_político ── Topic: 72
+     │    │    │    │    └─liberdade_deveria_regras_plena_Federados mantidos
+     │    │    │    │         ├─■──regras_parlamentares_escolas_opinião_liberdade imprensa ── Topic: 43
+     │    │    │    │         └─■──emenda_plena liberdade_ponto vista_fronteira_comum ── Topic: 22
+     │    │    │    └─processo_legal_defesa_impeachment_direitos
+     │    │    │         ├─processo legal_legal_contrato_investimento_União
+     │    │    │         │    ├─não_quanto possível representação proporcional_possível representação_possível representação proporc
+     │    │    │         │    │    ├─■──prerrogativa função_não pode_foro privilegiado_privilegiado_proposição ── Topic: 50
+     │    │    │         │    │    └─■──assegurado_agentes_Comissão_impeachment_livre exercício cultos ── Topic: 66
+     │    │    │         │    └─reeleição_União_processo legal_defesa_contrato
+     │    │    │         │         ├─reeleição_pessoa_contrato_dignidade_jurídica
+     │    │    │         │         │    ├─■──cidadania dignidade pessoa humana_cidadania dignidade pessoa_cidadania dignidade_Democrático_pessoa ── Topic: 51
+     │    │    │         │         │    └─investimento_contrato_empresa_estrutura_normas
+     │    │    │         │         │         ├─■──contrato_não podem_público_gratuita_Código ── Topic: 78
+     │    │    │         │         │         └─■──investimento_política_estrutura_dignidade_regulamentação ── Topic: 68
+     │    │    │         │         └─■──PMDB_separação_proteção defesa_defesa saúde_Federal permite ── Topic: 96
+     │    │    │         └─sociais individuais_individuais_ordem jurídica_Ministério Público_Ministério
+     │    │    │              ├─sociais individuais_individuais_ordem jurídica_individuais indisponíveis_sociais individuais indispo
+     │    │    │              │    ├─votos_sociais individuais_mandato_segurança_regime
+     │    │    │              │    │    ├─■──Ministério Público_Público deve_Ministério Público deve_Ministério_sociais individuais ── Topic: 56
+     │    │    │              │    │    └─votos_territoriais_indisponíveis_presunção_interesses
+     │    │    │              │    │         ├─■──alterar_votos_territoriais_reforma previdência_segurança ── Topic: 23
+     │    │    │              │    │         └─■──dever Estado direito_mandato_presunção_anos mandato_perda ── Topic: 29
+     │    │    │              │    └─medidas_ordem jurídica_medidas provisórias_provisórias_redemocratização Brasil
+     │    │    │              │         ├─■──Brasil_medidas_medidas provisórias_provisórias_pessoas deficiência ── Topic: 42
+     │    │    │              │         └─■──sociais individuais_ordem jurídica_uso_impeachment_exercício direitos sociais ── Topic: 90
+     │    │    │              └─■──voto popular_manifestação_republicana_qualquer restrição_Público instituição permanente ── Topic: 94
+     │    │    └─Federal_República_direitos_Estado_Nacional
+     │    │         ├─não_direitos_República_Federal_Estado
+     │    │         │    ├─não_República_Federal_Presidente_União
+     │    │         │    │    ├─gás natural_gás_participação resultado exploração petróleo_resultado exploração petróleo ou_ou gás n
+     │    │         │    │    │    ├─Municípios participação resultado exploração_Federal Municípios participação resultado_Federal Munic
+     │    │         │    │    │    │    ├─■──dignidade pessoa_dignidade pessoa humana_pessoa humana_iniciativa_mandato deve ── Topic: 76
+     │    │         │    │    │    │    └─■──julgar Presidente_regionais sociais_desigualdades regionais sociais_provas_processar julgar ── Topic: 67
+     │    │         │    │    │    └─■──Poderes União independentes harmônicos_Poderes União independentes_União independentes harmônicos_Un ── Topic: 63
+     │    │         │    │    └─não_República_Presidente_Federal_Nacional
+     │    │         │    │         ├─pública direito todos_Estado_permite_pública direito_Federal
+     │    │         │    │         │    ├─livre exercício_profissão_Estado_lei estabelecer_reforma tributária
+     │    │         │    │         │    │    ├─■──instituiu_livre exercício_liberdades_garantia_Estado ── Topic: 62
+     │    │         │    │         │    │    └─■──educação básica_profissão_iniciativa popular_educação_desigualdades regionais ── Topic: 83
+     │    │         │    │         │    └─pública direito todos_emendas_pública direito_emendas constitucionais_permite
+     │    │         │    │         │         ├─■──Presidenta_não há_Presidenta Dilma_pacto_República ── Topic: 70
+     │    │         │    │         │         └─■──emendas constitucionais_pública direito todos_Eleitoral_mulheres_pública direito ── Topic: 54
+     │    │         │    │         └─Presidente_Nacional_não_República_direitos
+     │    │         │    │              ├─Nacional_advogado_Congresso_urgência_Congresso Nacional
+     │    │         │    │              │    ├─advogado_remanescentes_Estatuto_urgência_civil
+     │    │         │    │              │    │    ├─■──advogado_atos manifestações_momentos_processual_manifestações ── Topic: 26
+     │    │         │    │              │    │    └─■──Estatuto_urgência_servidores públicos_fato determinado_comissões ── Topic: 53
+     │    │         │    │              │    └─■──Nacional_Congresso Nacional_Presidente_Congresso_Ministério Público Federal ── Topic: 74
+     │    │         │    │              └─direitos_Presidente_República_voto_União
+     │    │         │    │                   ├─direitos_República_União_Federal_Supremo
+     │    │         │    │                   │    ├─■──competência julgar_jurídico_direito propriedade_Presidente República_República ── Topic: 30
+     │    │         │    │                   │    └─União_garantias_direitos_direitos garantias_direitos deveres
+     │    │         │    │                   │         ├─distinção qualquer_sem distinção qualquer_sem distinção qualquer natureza_distinção qualquer naturez
+     │    │         │    │                   │         │    ├─■──setor_orçamentos_impeachment_saúde_Poderes União ── Topic: 18
+     │    │         │    │                   │         │    └─■──direitos garantias fundamentais_garantias fundamentais_proteção_cidadão brasileiro_assegurado ── Topic: 25
+     │    │         │    │                   │         └─■──direitos deveres_Conselho Nacional_garantias_indígenas_garantias individuais ── Topic: 34
+     │    │         │    │                   └─■──eleições diretas_eleições_voto_Presidente_cargo Presidente ── Topic: 48
+     │    │         │    └─princípios_direitos_direito_saúde_Estado
+     │    │         │         ├─será_princípios_ninguém será_considerado_ninguém
+     │    │         │         │    ├─será considerado_será considerado culpado_ninguém será considerado_ninguém será considerado culpado_
+     │    │         │         │    │    ├─■──ninguém será considerado_será considerado_ninguém será considerado culpado_será considerado culpado_ ── Topic: 75
+     │    │         │         │    │    └─■──poderes necessidade_distribuição recursos_princípio_Estados_separação poderes ── Topic: 59
+     │    │         │         │    └─saúde_República_princípios_soberania_deve haver
+     │    │         │         │         ├─deve haver_obrigações_saúde_regulamentada_soberania
+     │    │         │         │         │    ├─■──deve haver_regulamentada_agentes_obrigações_pública ── Topic: 65
+     │    │         │         │         │    └─■──soberania_atribui Senado_saúde educação_ensino_direitos ── Topic: 21
+     │    │         │         │         └─princípios_direito moradia_República_cidadã foi_democracia liberdade
+     │    │         │         │              ├─■──democracia liberdade_cidadã foi_República_veto_ninguém será ── Topic: 71
+     │    │         │         │              └─■──garantia_redução_Judiciário independentes_Federal saúde_Judiciário independentes harmônicos entre ── Topic: 93
+     │    │         │         └─prerrogativa função_liberdade_autoridades_função_férias
+     │    │         │              ├─pessoas deficiência_desenvolvimento ensino_manutenção desenvolvimento ensino_manutenção desenvolvime
+     │    │         │              │    ├─■──recurso_liberdade organização_liberdade_autoridades_prerrogativa ── Topic: 87
+     │    │         │              │    └─■──exceção_políticas_regra_pessoas deficiência_crimes ── Topic: 57
+     │    │         │              └─Lucro Líquido_Contribuição_Social_Previdência Social_mulheres
+     │    │         │                   ├─■──autoridades_acordos internacionais_outros direitos_Lucro Líquido_estupro ── Topic: 85
+     │    │         │                   └─■──homens mulheres_mulheres_inimputáveis_liberdade ir_liberdade ir vir ── Topic: 99
+     │    │         └─Federal_Congresso Nacional_Nacional_Congresso_União
+     │    │              ├─legislar_Federal_Distrito Federal_Distrito_Nacional deve
+     │    │              │    ├─políticas_medidas provisórias Presidente_portadores deficiência_provisórias Presidente República_pro
+     │    │              │    │    ├─■──portadores deficiência_proteção meio_proteção meio ambiente_fundamentos_proíbe ── Topic: 91
+     │    │              │    │    └─■──direito não_penal_garantir_Judiciário_SUS ── Topic: 46
+     │    │              │    └─legislar_eleição_Federal_administrativa_Nacional deve
+     │    │              │         ├─■──administrativa_legislar_probidade administrativa_eleição_probidade ── Topic: 28
+     │    │              │         └─■──Desenvolvimento_competência concorrente União_desigualdades regionais_competência concorrente_concor ── Topic: 52
+     │    │              └─Congresso Nacional_Nacional_deve_divisão_Congresso
+     │    │                   ├─divisão_alterada permitir_entre União Estados_permitir_devem
+     │    │                   │    ├─devem_alterada permitir_representantes_representantes eleitos ou diretamente_representantes eleitos 
+     │    │                   │    │    ├─■──contribuições sociais_alterada permitir_deve alterada_constitucionalidade_contribuições ── Topic: 95
+     │    │                   │    │    └─casos crimes_Sistema Único Saúde_Sistema Único_Único Saúde_devem harmônicos
+     │    │                   │    │         ├─■──entre União Estados Municípios_princípios fundamentais_Sistema Único Saúde_entre União Estados_Siste ── Topic: 45
+     │    │                   │    │         └─■──Poderes República_separação Poderes_Parlamentares_suspensão direitos_prática racismo constitui ── Topic: 77
+     │    │                   │    └─entre União Estados_entre União_divisão_divisão recursos_Parlamentar Inquérito
+     │    │                   │         ├─■──divisão recursos_entre União Estados_entre União_divisão_objetivo fundamental República ── Topic: 100
+     │    │                   │         └─■──escrita_ditadura_Fundo Participação_Participação_recursos ── Topic: 86
+     │    │                   └─através Ato_através Ato Constitucionais Transitórias_através Ato Constitucionais_exclusiva Congresso
+     │    │                        ├─imunidade_exclusiva Congresso_exclusiva Congresso Nacional_competência exclusiva Congresso Nacional_
+     │    │                        │    ├─■──atribuição_Municípios_Fundo Participação Municípios_Deputados Senado_Participação Municípios ── Topic: 33
+     │    │                        │    └─■──território_Polícia_imunidade_direito vida_instituições ── Topic: 73
+     │    │                        └─■──pedidos_Supremo Tribunal Federal_Supremo Tribunal_Tribunal Federal_Supremo ── Topic: 92
+     │    └─direitos_não_Federal_Estado_União
+     │         ├─todos abolir toda qualquer_promover bem estar todos_estar todos abolir_toda qualquer forma discrimin
+     │         │    ├─projeto lei_independência_promover bem estar todos_Brasil promover_todos abolir toda
+     │         │    │    ├─■──Imposto_serão_independência_Estado deve_Tribunal ── Topic: 49
+     │         │    │    └─■──projeto lei_projeto_Poder_prazo_importante ── Topic: 39
+     │         │    └─Federativa Brasil promover bem_Federativa Brasil promover_promover bem estar todos_estar todos aboli
+     │         │         ├─ex territórios_abolir toda qualquer forma_estar todos abolir toda_Brasil promover_Brasil promover be
+     │         │         │    ├─■──cidadão_ex territórios_créditos_territórios_sendo respeitada ── Topic: 64
+     │         │         │    └─■──justiça_deve respeitada_lei complementar_federal_complementar ── Topic: 89
+     │         │         └─■──reforma trabalhista_trabalhista_propõe_Ulysses_tratamento diferenciado ── Topic: 47
+     │         └─direito_direitos_não_Federal_Estado
+     │              ├─não_direitos_Federal_Estado_Presidente
+     │              │    ├─impeachment_responsabilidade_crime responsabilidade_deve_crédito
+     │              │    │    ├─crime responsabilidade_impeachment_mandato_responsabilidade_autorização
+     │              │    │    │    ├─■──impeachment_autorização_Dilma_crime responsabilidade_limita ── Topic: 36
+     │              │    │    │    └─■──mandato_define_Mesa_indicação_patrimônio ── Topic: 27
+     │              │    │    └─impeachment_responsabilidade_deliberação_crédito_não
+     │              │    │         ├─■──impeachment_legal_Supremo_crime responsabilidade_crédito ── Topic: 32
+     │              │    │         └─■──impeachment_valor_aposentadorias_novos Estados_votação ── Topic: 17
+     │              │    └─direitos_deve_Federal_Estado_permite
+     │              │         ├─direitos_deve_Federal_Estado_União
+     │              │         │    ├─União_Federal_Estados_Estados Distrito Federal_Estados Distrito
+     │              │         │    │    ├─■──concorrente União_Distrito_Distrito Federal_escolha_União ── Topic: 15
+     │              │         │    │    └─liberdade_Federal_União_democracia_legal
+     │              │         │    │         ├─■──União_Federal_política_medidas provisórias não_provisórias não ── Topic: 7
+     │              │         │    │         └─■──democracia_liberdade_Constitucional_permitiu_legal ── Topic: 13
+     │              │         │    └─direitos_deve_não_Estado_Federal
+     │              │         │         ├─direitos_deve_Estado_Federal_permite
+     │              │         │         │    ├─direitos_deve_Estado_Federal_República
+     │              │         │         │    │    ├─■──competência_legislativa_trabalhadores_Estado_União ── Topic: 12
+     │              │         │         │    │    └─direitos_deve_não_Federal_Estado
+     │              │         │         │    │         ├─direitos_deve_Federal_Estado_República
+     │              │         │         │    │         │    ├─■──permite_educação_polícia_República_STF ── Topic: 6
+     │              │         │         │    │         │    └─direitos_não_Federal_Estado_Presidente
+     │              │         │         │    │         │         ├─direitos_deve_não_Estado_Federal
+     │              │         │         │    │         │         │    ├─direitos_não_deve_Federal_Estado
+     │              │         │         │    │         │         │    │    ├─direitos_deve_não_Estado_Federal
+     │              │         │         │    │         │         │    │    │    ├─■──sociais_direito_direitos_nova_Estados ── Topic: 3
+     │              │         │         │    │         │         │    │    │    └─direitos_não_Estado_Federal_Presidente
+     │              │         │         │    │         │         │    │    │         ├─■──direitos_não_Federal_Presidente_Estado ── Topic: 0
+     │              │         │         │    │         │         │    │    │         └─■──direitos_sociais_parlamentares_princípios_Estado ── Topic: 1
+     │              │         │         │    │         │         │    │    └─■──Nacional_direitos_Congresso_Federal_não ── Topic: 2
+     │              │         │         │    │         │         │    └─■──Brasil_educação_fundamentais_direitos_deve ── Topic: 4
+     │              │         │         │    │         │         └─■──direitos_Federal_devem_Presidente República_República ── Topic: 5
+     │              │         │         │    │         └─■──Poder_Brasil_deve_não_União ── Topic: 10
+     │              │         │         │    └─■──crimes_eleições_nacional_não_devem ── Topic: 8
+     │              │         │         └─direito_Estado_Federal_sem preconceitos_todos
+     │              │         │              ├─■──sem preconceitos_preconceitos_direito_sistema_sociedade ── Topic: 9
+     │              │         │              └─■──salário_cidadãos_Federal_Tribunal_União ── Topic: 11
+     │              │         └─não pode_saúde direito_acesso_Poder_normativos
+     │              │              ├─■──não pode_não_indígenas_Deputados Senadores_acesso ── Topic: 19
+     │              │              └─■──limites_férias_ensino_décimo terceiro_impacto ── Topic: 35
+     │              └─sessão legislativa_democracia_Estado direito_ou tenha perdido_rejeitada ou tenha perdido
+     │                   ├─sessão legislativa_democracia_direitos_Senado_transparência
+     │                   │    ├─■──votos_democracia_trabalhistas_maioria_todos ── Topic: 14
+     │                   │    └─■──sessão legislativa_igualdade entre_proíbe_exige_partidária ── Topic: 16
+     │                   └─ou tenha perdido eficácia_ou tenha perdido_tenha perdido eficácia decurso_tenha perdido eficácia_rej
+     │                        ├─■──Fundo Constitucional_todos cidadãos_cidadãos_regra_garantia ── Topic: 58
+     │                        └─■──Justiça_prazo_normas_União Estados_comissão parlamentar inquérito ── Topic: 98
+     └─saúde_Estado_Federal_sociais_República
+          ├─Congresso_mediante políticas sociais_políticas sociais econômicas_garantido mediante políticas socia
+          │    ├─Congresso_Congresso Nacional_risco_democrático_doença outros agravos
+          │    │    ├─■──Diretrizes Orçamentárias_Orçamentárias_Lei Diretrizes Orçamentárias_não pode candidato_pode candidat ── Topic: 38
+          │    │    └─Federal_poder_Congresso_deve guardada_risco
+          │    │         ├─■──mandamento_Justiça Trabalho_tem poder_Trabalho_deve guardada ── Topic: 84
+          │    │         └─■──Congresso_Federal_nos Estados_Congresso Nacional_fontes financiamento ── Topic: 24
+          │    └─saúde direito todos_proteção meio_proteção meio ambiente_saúde direito_Estado garantido
+          │         ├─■──saúde direito todos_saúde_saúde direito_direito todos_Saúde ── Topic: 31
+          │         └─■──proteção meio ambiente_proteção meio_meio ambiente_proteção_participação ── Topic: 61
+          └─Estado_saúde_fundamentais_não_Federal
+               ├─origem raça_raça sexo cor_raça sexo cor idade_sexo cor idade_origem raça sexo cor
+               │    ├─■──domínio_Judiciário_sistema_requer_tribunais ── Topic: 79
+               │    └─quaisquer outras formas discriminação_formas discriminação_cor idade quaisquer outras_idade quaisque
+               │         ├─construir_idade quaisquer_cor idade quaisquer outras_cor idade quaisquer_idade quaisquer outras
+               │         │    ├─■──Trabalho_sociedade livre_direito ir vir_direito ir_país ── Topic: 81
+               │         │    └─construir_energia_saúde_idade quaisquer outras formas_idade quaisquer outras
+               │         │         ├─■──energia_sexo cor idade quaisquer_idade quaisquer_cor idade quaisquer outras_cor idade quaisquer ── Topic: 44
+               │         │         └─■──bem estar social_estar social_construir_tem competência_educação direito ── Topic: 20
+               │         └─■──crime_crime responsabilidade_impeachment_respeito_responsabilidade atentar ── Topic: 37
+               └─Fundo Participação Estados_marginalização reduzir desigualdades sociais_pobreza marginalização reduz
+                    ├─Fundo Participação Estados_marginalização reduzir desigualdades sociais_marginalização reduzir desig
+                    │    ├─■──Federal leis_alteração_marginalização reduzir desigualdades sociais_pobreza marginalização reduzir d ── Topic: 60
+                    │    └─improbidade_justiça_Fundo Participação Estados_Participação Estados_Estado
+                    │         ├─■──orçamentos_exige medidas provisórias_exige medidas_estabelecida_municipais ── Topic: 55
+                    │         └─■──não deve alterada_Estado não_aprovado_projeto lei_improbidade ── Topic: 69
+                    └─■──dinheiro_Tribunal_prisão_decisões_Supremo Tribunal Federal ── Topic: 80
+

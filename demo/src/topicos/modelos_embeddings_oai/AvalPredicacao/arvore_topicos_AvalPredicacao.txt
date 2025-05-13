@@ -1,0 +1,156 @@
+.
+├─documento_direitos_deve_marco_democracia
+│    ├─direitos_documento_importante_garantir_democracia
+│    │    ├─documento_impeachment_deve_importante_protege
+│    │    │    ├─documento_nacional_prioridade_adolescentes_crianças adolescentes
+│    │    │    │    ├─■──essencial proteção_democracia deve_Brasil documento_liberdade organização_categorias ── Topic: 77
+│    │    │    │    └─documento_políticos_Presidente_marco importante_nacional
+│    │    │    │         ├─políticos_nacional_prioridade_Presidente_documento deve respeitado garantir
+│    │    │    │         │    ├─■──nacional_resolver problemas_direitos comunidades_liberdades fundamentais_problemas ── Topic: 24
+│    │    │    │         │    └─■──julgamento_prioridade_democracia Brasil_políticos_importante ── Topic: 30
+│    │    │    │         └─■──corrupção_marco importante_impeachment_não foi plenamente cumprida_legalidade ações ── Topic: 60
+│    │    │    └─processo_desrespeitada_processo impeachment_devido_impeachment
+│    │    │         ├─processo_processo impeachment_impeachment_deve respeitada seguida_desrespeitada
+│    │    │         │    ├─■──contexto_evitar_devido_foi desrespeitada_reformas ── Topic: 55
+│    │    │         │    └─processo_deve respeitada seguida_processo impeachment_impeachment_respeitada seguida
+│    │    │         │         ├─■──processo_processo impeachment_impeachment_devido processo legal_Câmara Deputados ── Topic: 32
+│    │    │         │         └─■──deve respeitada seguida_atuais_respeitada seguida_adequada_instrumento importante ── Topic: 38
+│    │    │         └─■──educação saúde_principal_informação_garantir transparência_documento deveria garantir ── Topic: 48
+│    │    └─direitos_documento_Estado_garantir_democracia
+│    │         ├─Estado_direitos_marco_documento_Estado democrático direito
+│    │         │    ├─Estado_direitos_marco_protege_Estado democrático direito
+│    │         │    │    ├─Pacto_Federativo_Pacto Federativo_marco importante_Pública
+│    │         │    │    │    ├─■──Federativo_Pacto Federativo_Pacto_Pública_instrumento justiça ── Topic: 43
+│    │         │    │    │    └─■──legal_instrumento essencial_constitucionais_Estado_essencial ── Topic: 42
+│    │         │    │    └─Estado_direitos_direito_Estado democrático direito_protege
+│    │         │    │         ├─Estado_direitos_protege_Presidente_dorsal Estado
+│    │         │    │         │    ├─■──espinha dorsal Estado democrático_espinha dorsal Estado_dorsal Estado_dorsal Estado democrático_dors ── Topic: 34
+│    │         │    │         │    └─■──atual_Presidente_entre Poderes_Carta_direitos ── Topic: 26
+│    │         │    │         └─Estado_Estado democrático direito_democrático direito_Estado democrático_direitos
+│    │         │    │              ├─garantir_Estado_documento deve_deve defendido_Estado democrático direito
+│    │         │    │              │    ├─■──garantir_Estado_redemocratização_democracia brasileira documento_brasileira documento ── Topic: 22
+│    │         │    │              │    └─■──sistema tributário_tributário_importantes trabalhadores_garantir autonomia_documento deve ── Topic: 20
+│    │         │    │              └─■──democrático direito está_democrático direito está sendo_Estado democrático direito está_direito está ── Topic: 18
+│    │         │    └─■──governança_proteção direitos trabalhadores_iniciativa_representa avanço_ambiental ── Topic: 56
+│    │         └─Poderes_democracia_fundamental_democracia brasileira_documento
+│    │              ├─fundamental_deve respeitado garantir_respeitado garantir_democracia_democracia brasileira
+│    │              │    ├─■──utilizada justificar_precisa emendada_utilizada_justificar_emendada ── Topic: 44
+│    │              │    └─Poderes_deve respeitado garantir_respeitado garantir_democracia_deve respeitado
+│    │              │         ├─■──democracia brasileira_democracia_brasileira_Poder_documento consagra direitos ── Topic: 29
+│    │              │         └─deve respeitado garantir_respeitado garantir_social_deve respeitado_respeitado
+│    │              │              ├─deve respeitado garantir_respeitado garantir_deve respeitado_documento deve respeitado garantir_docu
+│    │              │              │    ├─■──ministros Supremo_respeitado_legislar_foi fundamental_deve respeitado garantir democracia ── Topic: 33
+│    │              │              │    └─■──Poderes_deve respeitado garantir_respeitado garantir_democrática_independência entre Poderes ── Topic: 28
+│    │              │              └─■──desrespeitada pelos_base Estado_pilar democracia_constitucionais_democracia brasileira ── Topic: 36
+│    │              └─■──fundamental democracia brasileira_dignidade_deveria respeitado_documento deveria respeitado_instrume ── Topic: 53
+│    └─documento_direitos_deve_instrumento_democracia
+│         ├─documento_direitos_deve_democracia_desrespeitada
+│         │    ├─estabelecer_Municípios_recursos_representa avanço_democrático
+│         │    │    ├─■──participação popular_Municípios_justiça_econômicos_participação ── Topic: 23
+│         │    │    └─■──igualdade gênero_gênero_sendo desrespeitada STF_está sendo desrespeitada STF_STF ── Topic: 25
+│         │    └─documento_direitos_deve_instrumento_democracia
+│         │         ├─documento_saúde_direitos_fundamentais_promove igualdade
+│         │         │    ├─■──excessivo_documento não_documento_documento direitos fundamentais direito_garantir educação ── Topic: 19
+│         │         │    └─■──respeito_direitos_promove igualdade_documento promove_instrumento reconhecimento ── Topic: 14
+│         │         └─documento_direitos_deve_democracia_desrespeitada
+│         │              ├─■──parlamentares_eficiência_impeachment_prerrogativas_prerrogativas parlamentares ── Topic: 21
+│         │              └─documento_direitos_deve_democracia_desrespeitada
+│         │                   ├─documento_direitos_marco_democracia_desrespeitada
+│         │                   │    ├─documento_direitos_justiça_deve_sociais
+│         │                   │    │    ├─■──justiça_garantir justiça_democracia_princípio_brasileira ── Topic: 13
+│         │                   │    │    └─■──sociais_instrumento_usada_respeitado_direitos ── Topic: 10
+│         │                   │    └─documento_direitos_marco_democracia_desrespeitada
+│         │                   │         ├─documento_direitos_marco_democracia_desrespeitada
+│         │                   │         │    ├─Brasil_democracia_marco_documento_documento deve respeitado
+│         │                   │         │    │    ├─■──documento_democracia_protege direitos cidadãos_documento deve_documento deve respeitado ── Topic: 11
+│         │                   │         │    │    └─■──Brasil_política_guia essencial_marco_pilar ── Topic: 9
+│         │                   │         │    └─documento_direitos_deve_democracia_desrespeitada
+│         │                   │         │         ├─documento_direitos_democracia_desrespeitada_importante
+│         │                   │         │         │    ├─documento_direitos_deve_desrespeitada_democracia
+│         │                   │         │         │    │    ├─documento_direitos_deve_desrespeitada_democracia
+│         │                   │         │         │    │    │    ├─■──documento_necessidades_direito_direitos_deve ── Topic: 4
+│         │                   │         │         │    │    │    └─documento_direitos_deve_desrespeitada_democracia
+│         │                   │         │         │    │    │         ├─direitos_documento_deve_desrespeitada_democracia
+│         │                   │         │         │    │    │         │    ├─■──documento_direitos_deve_democracia_importante ── Topic: 3
+│         │                   │         │         │    │    │         │    └─direitos_documento_deve_desrespeitada_democracia
+│         │                   │         │         │    │    │         │         ├─direitos_documento_deve_desrespeitada_democracia
+│         │                   │         │         │    │    │         │         │    ├─■──documento_deve_democracia_direitos_marco ── Topic: 1
+│         │                   │         │         │    │    │         │         │    └─■──direitos_documento_desrespeitada_importante_protege ── Topic: 0
+│         │                   │         │         │    │    │         │         └─■──está sendo desrespeitada_sendo desrespeitada_brasileira_desrespeitada_Brasil ── Topic: 2
+│         │                   │         │         │    │    │         └─■──documento_democracia_protege_documento protege_pilar ── Topic: 7
+│         │                   │         │         │    │    └─■──documento_protege_desrespeitada_igualdade_documento protege ── Topic: 6
+│         │                   │         │         │    └─■──direitos_fundamentais_documento_igualdade_direitos fundamentais ── Topic: 5
+│         │                   │         │         └─■──direitos fundamentais_política_estabilidade_fundamentais_combate corrupção ── Topic: 8
+│         │                   │         └─■──desigualdades_econômica_documento protege direitos fundamentais_documento protege direitos_documento ── Topic: 12
+│         │                   └─■──deveria_documento protege_protege_públicos_documento deveria ── Topic: 15
+│         └─importante_documento_direitos_marco importante_proteção
+│              ├─importante_proteção_documento_marco importante_marco
+│              │    ├─proteção_União_legitimidade_Tribunal_Federal
+│              │    │    ├─■──impõe_legitimidade_documento deve respeitado_documento deve_mandato ── Topic: 31
+│              │    │    └─■──União Estados_Distrito_Distrito Federal_marco importante_liberdade ── Topic: 27
+│              │    └─pública_garantir_respeitada_representa_saúde
+│              │         ├─representa_deve_documento_direitos_garantir
+│              │         │    ├─■──representa_garantir_garantia fundamental_respeitada_deve respeitada ── Topic: 16
+│              │         │    └─■──impõe responsabilidade_documento_parlamentares_importante_direitos aposentados ── Topic: 17
+│              │         └─■──Roraima_adequado_instrumento essencial garantir_pública_está sendo plenamente ── Topic: 35
+│              └─■──protege democracia_precisam_legislativas_Supremo Tribunal_democracia ── Topic: 46
+└─documento_direitos_deve_democracia_respeitado
+     ├─documento_direitos_marco_democracia_deve
+     │    ├─sendo cumprida adequadamente relação_cumprida adequadamente relação_direitos_Supremo_Tribunal
+     │    │    ├─cumprida adequadamente relação_sendo cumprida adequadamente relação_adequadamente relação_está sendo
+     │    │    │    ├─■──proteção direitos trabalhadores_direitos trabalhadores_legislativo documento_processo legislativo do ── Topic: 58
+     │    │    │    └─cumprida adequadamente relação_sendo cumprida adequadamente relação_cumprida adequadamente_está send
+     │    │    │         ├─■──sendo cumprida adequadamente relação_cumprida adequadamente relação_cumprida adequadamente_sendo cum ── Topic: 45
+     │    │    │         └─■──garantir direitos sociais_saúde pública Brasil_pública Brasil_saúde_visa ── Topic: 39
+     │    │    └─Tribunal_Supremo Tribunal Federal_Tribunal Federal_Supremo Tribunal_Supremo
+     │    │         ├─■──definir_educacionais_Tribunal_direitos fundamentais_Federal ── Topic: 54
+     │    │         └─■──marco importante proteção direitos_marco importante proteção_desrespeitada Supremo_desrespeitada Sup ── Topic: 72
+     │    └─documento_social_deve_país_democracia
+     │         ├─documento_social_garantias_país_reforma
+     │         │    ├─crime_ainda não plenamente_ação_social marco_fundamental
+     │         │    │    ├─social marco_entes federativos_social_federativos_cumprir
+     │         │    │    │    ├─■──social marco_entes federativos_federativos_voto_importante Amapá ── Topic: 57
+     │         │    │    │    └─■──democratização_reforma_compromisso_público_reforma agrária ── Topic: 69
+     │         │    │    └─ainda não plenamente realizado_plenamente realizado_não plenamente realizado_Ministros Supremo Tribu
+     │         │    │         ├─■──protege direitos sociais_direitos sociais_fundamental_insegurança_reforma agrária ── Topic: 75
+     │         │    │         └─■──protegido_contra_processo legislativo_legislativo_País ── Topic: 49
+     │         │    └─garantias_país_deve aplicada forma_direitos garantias_deve aplicada
+     │         │         ├─■──não está sendo respeitada_sendo respeitada_está sendo respeitada_não está sendo_Legislativo ── Topic: 50
+     │         │         └─país_garantias_direitos garantias_deve aplicada forma_sociais
+     │         │              ├─■──país_Constituinte_igualitária_direitos garantias_importância ── Topic: 37
+     │         │              └─■──garantias_suficientes_Estados documento_deve aplicada forma_documento precisa atualizado ── Topic: 74
+     │         └─deveriam_aqueles deveriam_aqueles deveriam defendê la_deveriam defendê_deveriam defendê la
+     │              ├─■──compromisso_paz_federativo_aqueles deveriam_deveriam ── Topic: 52
+     │              └─■──deveriam_aqueles deveriam_desrespeitada caso_aqueles deveriam defendê la_sábio ── Topic: 59
+     └─documento_respeitado_documento deve_documento deve respeitado_deve respeitado
+          ├─ditadura_governo_documento_limites claros_limites
+          │    ├─forças_claramente competências_define claramente competências_foi fundamental_limites
+          │    │    ├─■──forças_foi fundamental_Roraima_fundamental_direito todos ── Topic: 76
+          │    │    └─■──governo_resolver_limites_define_equilíbrio ── Topic: 65
+          │    └─ditadura_promove inclusão_democracia brasileira_sistema político_governo
+          │         ├─■──democracia brasileira_investimento educação_documento deve defendido contra_estados documento_princí ── Topic: 62
+          │         └─■──ditadura_pilar essencial_Estado direito_pilar_Estado ── Topic: 68
+          └─documento_respeitado_democrática_deve respeitado_documento deve respeitado
+               ├─documento_respeitado_documento deve respeitado_documento deve respeitado seguido_deve respeitado
+               │    ├─está sendo usada_sendo usada_documento_permite_democracia
+               │    │    ├─proteção contra_instrumento proteção_instrumento proteção contra_ordem jurídica_ordem democrática
+               │    │    │    ├─■──fiscal_democracia está sendo_responsabilidade fiscal_democracia está_marco garantia ── Topic: 63
+               │    │    │    └─■──proteção contra_democracia direitos humanos_conquistas importantes_sociais está_democracia documento ── Topic: 64
+               │    │    └─sendo usada_está sendo usada_discurso_documento protege direitos_direitos comunidades
+               │    │         ├─■──discurso_forma_permite_documento orienta_sendo usada ── Topic: 40
+               │    │         └─■──histórico importante_marco histórico importante_marco histórico_atual permite_sendo usada ── Topic: 47
+               │    └─documento deve respeitado_documento deve_deve respeitado_documento deve respeitado seguido_deve resp
+               │         ├─documento deve respeitado_documento deve_respeitado seguido especialmente_deve respeitado seguido es
+               │         │    ├─■──independente_Ministério_Ministério Público_documento direitos fundamentais trabalhadores_respeitado  ── Topic: 61
+               │         │    └─documento deve respeitado seguido_documento deve respeitado_deve respeitado seguido_respeitado segui
+               │         │         ├─■──respeitado seguido especialmente_deve respeitado seguido especialmente_justiça social_documento deve ── Topic: 51
+               │         │         └─■──documento deve respeitado seguido_deve respeitado seguido_respeitado seguido_documento deve respeita ── Topic: 41
+               │         └─individuais liberdade_pode utilizado promover_instrumento pode utilizado promover_utilizado promover
+               │              ├─■──deve respeitada aplicada forma_respeitada aplicada forma_deve respeitada aplicada_respeitada aplicad ── Topic: 66
+               │              └─■──instrumento pode utilizado promover_pode utilizado promover_utilizado promover_Estado democrático di ── Topic: 73
+               └─atender demandas_precisa respeitada_demandas_atender demandas sociais_complementada reformas
+                    ├─atender demandas_demandas_atender demandas sociais_demandas sociais_precisa respeitada
+                    │    ├─■──atender demandas_precisa respeitada_demandas_social documento deve_promove democratização ── Topic: 70
+                    │    └─■──pública_urgentes_educação pública_decretos_suficiente proteger ── Topic: 67
+                    └─■──ações governamentais_governamentais_Legislativo_magistrados_processo legislativo documento ── Topic: 71
+

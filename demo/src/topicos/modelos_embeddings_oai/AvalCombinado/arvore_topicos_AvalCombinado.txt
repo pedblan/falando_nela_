@@ -1,0 +1,118 @@
+.
+├─direitos_constitucionais_deve_documento_sociedade
+│    ├─■──direitos_sociedade_solidária_pessoa_formalmente ── Topic: 58
+│    └─constitucionais_documento_princípios_Senado_direitos
+│         ├─documento_constitucionais_deve_garantir_democracia
+│         │    ├─■──União_documento_necessidade_regime democrático_deve ── Topic: 55
+│         │    └─constitucionais_pública_princípios_deve_democracia
+│         │         ├─■──pública_saúde pública_financiamento_veto_Brasil significa ela fundamental ── Topic: 50
+│         │         └─■──Piauí_senador_Justiça Federal_cidadania_constitucionais ── Topic: 51
+│         └─■──TCU_queremos_Congresso_justiça_Congresso Nacional ── Topic: 53
+└─direitos_deve_democracia_Brasil_critica
+     ├─direitos_deve_democracia_Brasil_critica
+     │    ├─democracia_República_não_direito_contra
+     │    │    ├─■──PEC_direitos_social_faixa fronteira_está sendo desrespeitada ── Topic: 56
+     │    │    └─contra_República_democracia_partidário_Presidente
+     │    │         ├─■──partidário_democracia_contra_união_partidos ── Topic: 57
+     │    │         └─■──moralidade_impessoalidade_República_desenvolvimento_direito ── Topic: 52
+     │    └─direitos_deve_democracia_Brasil_critica
+     │         ├─direitos_deve_democracia_Brasil_critica
+     │         │    ├─■──Executivo_brasileiro_idosos_direitos_democracia ── Topic: 46
+     │         │    └─direitos_deve_democracia_Brasil_critica
+     │         │         ├─direitos_deve_democracia_Brasil_critica
+     │         │         │    ├─significa_Brasil_democracia_critica_deve
+     │         │         │    │    ├─■──medidas_democracia_Brasil_direitos_medidas provisórias ── Topic: 42
+     │         │         │    │    └─■──vida_significa_Brasil_nacional_democracia ── Topic: 43
+     │         │         │    └─direitos_deve_democracia_Brasil_critica
+     │         │         │         ├─direitos_deve_democracia_Brasil_critica
+     │         │         │         │    ├─conhecimento_significa_não_direitos_Brasil
+     │         │         │         │    │    ├─■──conhecimento_direitos_não_Brasil_deve ── Topic: 7
+     │         │         │         │    │    └─■──paz_política preços_direitos_constitucional_crise ── Topic: 39
+     │         │         │         │    └─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         ├─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    ├─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │    ├─■──Brasil_constitucional_Estado_liberdade_princípios ── Topic: 36
+     │         │         │         │         │    │    └─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │         ├─■──sugere_reforma_direitos_deve_mas ── Topic: 38
+     │         │         │         │         │    │         └─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              ├─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │    ├─■──direitos_saúde_impeachment_democracia_Brasil ── Topic: 29
+     │         │         │         │         │    │              │    └─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         ├─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │    ├─■──deve_democracia_não_Presidente_liberdade ── Topic: 25
+     │         │         │         │         │    │              │         │    └─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │         ├─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │         │    ├─■──Brasil_democracia_política_direitos_Estado ── Topic: 35
+     │         │         │         │         │    │              │         │         │    └─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │         │         ├─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │         │         │    ├─■──Federal_não_democracia_direitos_Brasil ── Topic: 28
+     │         │         │         │         │    │              │         │         │         │    └─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │         │         │         ├─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │         │         │         │    ├─■──não_democracia_proposta_defende_constitucionais ── Topic: 21
+     │         │         │         │         │    │              │         │         │         │         │    └─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │         │         │         │         ├─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │         │         │         │         │    ├─■──Estado_garantir_direitos_Senado_Tocantins ── Topic: 19
+     │         │         │         │         │    │              │         │         │         │         │         │    └─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │         │         │         │         │         ├─■──significa_direitos_critica_importância_democracia ── Topic: 18
+     │         │         │         │         │    │              │         │         │         │         │         │         └─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │         │         │         │         │              ├─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │         │         │         │         │              │    ├─direitos_deve_Brasil_democracia_critica
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │    ├─■──deve_Brasil_critica_direitos_Federal ── Topic: 16
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │    └─direitos_deve_Brasil_democracia_critica
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         ├─direitos_deve_Brasil_democracia_critica
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │    ├─■──orçamento_não_Democrática_Parlamentar_direitos ── Topic: 6
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │    └─não_direitos_deve_Brasil_democracia
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         ├─não_direitos_deve_Brasil_democracia
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    ├─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │    ├─■──não_direitos_impeachment_democracia_Federal ── Topic: 12
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │    └─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │         ├─não_direitos_deve_democracia_Brasil
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │         │    ├─direitos_deve_Brasil_democracia_critica
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │         │    │    ├─■──direitos_Brasil_deve_direito_social ── Topic: 8
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │         │    │    └─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │         │    │         ├─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │         │    │         │    ├─■──direitos_democracia_Brasil_Presidente_deve ── Topic: 4
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │         │    │         │    └─direitos_deve_democracia_Brasil_critica
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │         │    │         │         ├─não_direitos_deve_democracia_Brasil
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │         │    │         │         │    ├─■──direitos_deve_democracia_garantir_defende ── Topic: 2
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │         │    │         │         │    └─não_direitos_deve_democracia_Brasil
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │         │    │         │         │         ├─■──não_direitos_democracia_Brasil_deve ── Topic: 0
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │         │    │         │         │         └─■──direitos_deve_constitucionais_critica_Brasil ── Topic: 1
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │         │    │         │         └─■──direitos_critica_Brasil_deve_defende ── Topic: 3
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │         │    │         └─■──direitos_não_deve_critica_constitucionais ── Topic: 9
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │         │    └─■──democracia_critica_deve_garantir_política ── Topic: 10
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    │         └─■──direitos_não_deve_constitucionais_Brasil ── Topic: 11
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         │    └─■──direitos_não_Brasil_saúde_Estado ── Topic: 13
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         │         └─■──não_direitos_garantir_Brasil_critica ── Topic: 14
+     │         │         │         │         │    │              │         │         │         │         │         │              │    │         └─■──significa_direitos_critica_deve_princípios ── Topic: 15
+     │         │         │         │         │    │              │         │         │         │         │         │              │    └─■──Governo Federal_Governo_Federal_não_democracia ── Topic: 5
+     │         │         │         │         │    │              │         │         │         │         │         │              └─■──democracia_impeachment_direitos_deve_Estado ── Topic: 17
+     │         │         │         │         │    │              │         │         │         │         │         └─■──direitos_saúde_democracia_brasileira_direito ── Topic: 20
+     │         │         │         │         │    │              │         │         │         │         └─■──democracia_garantir_política_critica_Poderes ── Topic: 22
+     │         │         │         │         │    │              │         │         │         └─■──direitos_não_proposta_Senado_sociais ── Topic: 24
+     │         │         │         │         │    │              │         │         └─■──garantir_direitos_critica_deve_sugere ── Topic: 26
+     │         │         │         │         │    │              │         └─■──democracia_Senado_Federal_Estado_Brasil ── Topic: 30
+     │         │         │         │         │    │              └─■──direitos_Federal_PEC_aprovação_social ── Topic: 33
+     │         │         │         │         │    └─significa_não_deve_Brasil_direitos
+     │         │         │         │         │         ├─■──educação_não_brasileira_Brasil_direitos ── Topic: 31
+     │         │         │         │         │         └─significa_não_deve_Brasil_democracia
+     │         │         │         │         │              ├─■──mas_Brasil_apoia_legalidade_deve ── Topic: 23
+     │         │         │         │         │              └─■──significa_trabalhadores_deve_democracia_direitos trabalhadores ── Topic: 27
+     │         │         │         │         └─Brasil_educação_direitos_deve_constitucionais
+     │         │         │         │              ├─significa_Brasil_educação_saúde_constitucionais
+     │         │         │         │              │    ├─■──educação_Brasil_saúde_constitucionais_país ── Topic: 32
+     │         │         │         │              │    └─■──Brasil_desenvolvimento_acessibilidade_deve_documento ── Topic: 37
+     │         │         │         │              └─■──direitos_Brasil_Estado_direito_Municípios ── Topic: 34
+     │         │         │         └─■──direitos_sistema_ensino_políticas_privado ── Topic: 41
+     │         │         └─educação_garantir_constitucional_pública_constitucionais
+     │         │              ├─educação_pública_segurança_Senado_proteção
+     │         │              │    ├─■──pública_segurança_tem base_ambiente_normativa ── Topic: 45
+     │         │              │    └─■──educação_Federal_direitos_STF_Estado ── Topic: 40
+     │         │              └─■──deve_constitucional_financiamento_democrático_Estado ── Topic: 47
+     │         └─direitos_Brasil_democracia_defende_deve
+     │              ├─■──PEC_mínimo_brasileira_Judiciário_Brasil ── Topic: 44
+     │              └─■──direitos_protege_defende_saúde_narrativa ── Topic: 49
+     └─impeachment_processo impeachment_significa_Estado_democracia
+          ├─■──impeachment_processo impeachment_não_Estado_constitucional ── Topic: 54
+          └─■──processo impeachment_impeachment_processo_Justiça_República ── Topic: 48
+

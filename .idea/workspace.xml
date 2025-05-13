@@ -5,57 +5,200 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d070db8-c7c8-445f-b51f-5d42731e104c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/topicos/AvalCombinado/topicos_rotulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/AvalConclusao/topicos_rotulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/AvalImplicacao/topicos_rotulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/AvalPredicacao/topicos_rotulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/AvalTrecho/topicos_rotulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/Indexacao/topicos_rotulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/NormCombinado/topicos_rotulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/NormConclusao/topicos_rotulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/NormImplicacao/topicos_rotulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/NormPredicacao/topicos_rotulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/NormTrecho/topicos_rotulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/NovaConstituinteOuConstituicao_trecho/topicos_rotulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/SumarioConstituicao/topicos_rotulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/TextoResumo/topicos_rotulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/mapear_rotulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topicos/visualizar_topicos_docs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/topicos/modelos_embeddings_oai/visualizar_topicos_docs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/4_bm_25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/c65a7315-9626-4b4e-bea8-87cfd22b72f2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c65a7315-9626-4b4e-bea8-87cfd22b72f2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/arvore_topicos_AvalConclusao.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalConclusao/arvore_topicos_AvalConclusao.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/documentos_topicos_AvalConclusao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalConclusao/documentos_topicos_AvalConclusao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/grafico_topicos_AvalConclusao.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalConclusao/grafico_topicos_AvalConclusao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/rotulos_AvalConclusao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalConclusao/rotulos_AvalConclusao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/topicos_AvalConclusao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalConclusao/topicos_AvalConclusao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/topicos_AvalConclusao_tempo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalConclusao/topicos_AvalConclusao_tempo.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/arvore_topicos_AvalImplicacao.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalImplicacao/arvore_topicos_AvalImplicacao.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/documentos_topicos_AvalImplicacao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalImplicacao/documentos_topicos_AvalImplicacao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/grafico_topicos_AvalImplicacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalImplicacao/grafico_topicos_AvalImplicacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/rotulos_AvalImplicacao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalImplicacao/rotulos_AvalImplicacao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/topicos_AvalImplicacao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalImplicacao/topicos_AvalImplicacao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/topicos_AvalImplicacao_tempo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalImplicacao/topicos_AvalImplicacao_tempo.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/arvore_topicos_AvalPredicacao.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalPredicacao/arvore_topicos_AvalPredicacao.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/documentos_topicos_AvalPredicacao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalPredicacao/documentos_topicos_AvalPredicacao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/grafico_topicos_AvalPredicacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalPredicacao/grafico_topicos_AvalPredicacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/rotulos_AvalPredicacao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalPredicacao/rotulos_AvalPredicacao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/topicos_AvalPredicacao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalPredicacao/topicos_AvalPredicacao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/topicos_AvalPredicacao_tempo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalPredicacao/topicos_AvalPredicacao_tempo.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/arvore_topicos_AvalTrecho.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalTrecho/arvore_topicos_AvalTrecho.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/documentos_topicos_AvalTrecho.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalTrecho/documentos_topicos_AvalTrecho.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/grafico_topicos_AvalTrecho.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalTrecho/grafico_topicos_AvalTrecho.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/rotulos_AvalTrecho.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalTrecho/rotulos_AvalTrecho.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/topicos_AvalTrecho.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalTrecho/topicos_AvalTrecho.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/topicos_AvalTrecho_tempo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/AvalTrecho/topicos_AvalTrecho_tempo.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/Indexacao/documentos_topicos_Indexacao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/Indexacao/documentos_topicos_Indexacao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/Indexacao/grafico_topicos_Indexacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/Indexacao/grafico_topicos_Indexacao.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/Indexacao/rotulos_Indexacao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/Indexacao/rotulos_Indexacao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/Indexacao/topicos_Indexacao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/Indexacao/topicos_Indexacao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/documentos_topicos_NormCombinado.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/NormCombinado/documentos_topicos_NormCombinado.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/grafico_topicos_NormCombinado.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/NormCombinado/grafico_topicos_NormCombinado.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/rotulos_NormCombinado.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/NormCombinado/rotulos_NormCombinado.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/topicos_NormCombinado.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/NormCombinado/topicos_NormCombinado.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/DiscursosSenadores_02_05_2025.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/data/DiscursosSenadores_02_05_2025.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/topicos/modelos_embeddings_oai/cenario_1/1_preparacao_dados.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/topicos/modelos_embeddings_oai/cenario_1/2_modelo_basico.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/topicos/modelos_embeddings_oai/cenario_1/3_ajustes_pos.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/topicos/modelos_embeddings_oai/cenario_2/1_preparacao_dados.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/topicos/modelos_embeddings_oai/cenario_2/2_modelo_basico.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/topicos/modelos_embeddings_oai/cenario_3/3_ajustes_parametros.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/topicos/modelos_embeddings_oai/cenario_3/4_dynamic_topic_modeling.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/topicos/modelos_embeddings_oai/cenario_3/5_representacao.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/topicos/modelos_embeddings_oai/modelar_topicos.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/topicos/modelos_embeddings_oai/modelar_topicos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2_2_refazendo_embeddings_em_FAISS.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2_refazer_embeddings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/2_refazer_embeddings.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/3_BM25_pre_processamento.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/3_pre_processamento.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DiscursosSenadores_02_05_2025_analisado.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalCombinado/arvore_topicos_AvalCombinado.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalCombinado/arvore_topicos_AvalCombinado_reduzido.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalCombinado/documentos_topicos_AvalCombinado.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalCombinado/documentos_topicos_AvalCombinado_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalCombinado/grafico_topicos_AvalCombinado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalCombinado/grafico_topicos_AvalCombinado_reduzido.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalCombinado/rotulos_AvalCombinado.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalCombinado/rotulos_AvalCombinado_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalCombinado/topicos_AvalCombinado.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalCombinado/topicos_AvalCombinado_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalCombinado/topicos_AvalCombinado_tempo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalCombinado/topicos_AvalCombinado_tempo_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalCombinado/topicos_rotulos.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ajeitas_sql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/arvore_topicos_AvalConclusao.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/arvore_topicos_AvalConclusao_reduzido.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/documentos_topicos_AvalConclusao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/documentos_topicos_AvalConclusao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/grafico_topicos_AvalConclusao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/grafico_topicos_AvalConclusao_reduzido.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/rotulos_AvalConclusao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/rotulos_AvalConclusao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/topicos_AvalConclusao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/topicos_AvalConclusao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/topicos_AvalConclusao_tempo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/topicos_AvalConclusao_tempo_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalConclusao/topicos_rotulos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/arvore_topicos_AvalImplicacao.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/arvore_topicos_AvalImplicacao_reduzido.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/documentos_topicos_AvalImplicacao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/documentos_topicos_AvalImplicacao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/grafico_topicos_AvalImplicacao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/grafico_topicos_AvalImplicacao_reduzido.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/rotulos_AvalImplicacao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/rotulos_AvalImplicacao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/topicos_AvalImplicacao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/topicos_AvalImplicacao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/topicos_AvalImplicacao_tempo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/topicos_AvalImplicacao_tempo_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalImplicacao/topicos_rotulos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/arvore_topicos_AvalPredicacao.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/arvore_topicos_AvalPredicacao_reduzido.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/documentos_topicos_AvalPredicacao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/documentos_topicos_AvalPredicacao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/grafico_topicos_AvalPredicacao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/grafico_topicos_AvalPredicacao_reduzido.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/rotulos_AvalPredicacao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/rotulos_AvalPredicacao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/topicos_AvalPredicacao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/topicos_AvalPredicacao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/topicos_AvalPredicacao_tempo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/topicos_AvalPredicacao_tempo_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalPredicacao/topicos_rotulos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/arvore_topicos_AvalTrecho.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/arvore_topicos_AvalTrecho_reduzido.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/documentos_topicos_AvalTrecho.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/documentos_topicos_AvalTrecho_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/grafico_topicos_AvalTrecho.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/grafico_topicos_AvalTrecho_reduzido.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/rotulos_AvalTrecho.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/rotulos_AvalTrecho_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/topicos_AvalTrecho.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/topicos_AvalTrecho_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/topicos_AvalTrecho_tempo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/topicos_AvalTrecho_tempo_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/AvalTrecho/topicos_rotulos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/Indexacao/arvore_topicos_Indexacao.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/Indexacao/documentos_topicos_Indexacao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/Indexacao/documentos_topicos_Indexacao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/Indexacao/grafico_topicos_Indexacao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/Indexacao/grafico_topicos_Indexacao_reduzido.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/Indexacao/rotulos_Indexacao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/Indexacao/rotulos_Indexacao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/Indexacao/topicos_Indexacao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/Indexacao/topicos_Indexacao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/Indexacao/topicos_Indexacao_tempo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/Indexacao/topicos_rotulos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/arvore_topicos_NormCombinado.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/arvore_topicos_NormCombinado_reduzido.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/documentos_topicos_NormCombinado.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/documentos_topicos_NormCombinado_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/grafico_topicos_NormCombinado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/grafico_topicos_NormCombinado_reduzido.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/rotulos_NormCombinado.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/rotulos_NormCombinado_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/topicos_NormCombinado.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/topicos_NormCombinado_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/topicos_NormCombinado_tempo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/topicos_NormCombinado_tempo_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormCombinado/topicos_rotulos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormConclusao/arvore_topicos_NormConclusao.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormConclusao/arvore_topicos_NormConclusao_reduzido.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormConclusao/documentos_topicos_NormConclusao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormConclusao/documentos_topicos_NormConclusao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormConclusao/grafico_topicos_NormConclusao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormConclusao/grafico_topicos_NormConclusao_reduzido.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormConclusao/rotulos_NormConclusao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormConclusao/rotulos_NormConclusao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormConclusao/topicos_NormConclusao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormConclusao/topicos_NormConclusao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormConclusao/topicos_NormConclusao_tempo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormConclusao/topicos_NormConclusao_tempo_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormConclusao/topicos_rotulos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormImplicacao/arvore_topicos_NormImplicacao.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormImplicacao/arvore_topicos_NormImplicacao_reduzido.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormImplicacao/documentos_topicos_NormImplicacao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormImplicacao/documentos_topicos_NormImplicacao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormImplicacao/grafico_topicos_NormImplicacao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormImplicacao/grafico_topicos_NormImplicacao_reduzido.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormImplicacao/rotulos_NormImplicacao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormImplicacao/rotulos_NormImplicacao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormImplicacao/topicos_NormImplicacao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormImplicacao/topicos_NormImplicacao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormImplicacao/topicos_NormImplicacao_tempo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormImplicacao/topicos_NormImplicacao_tempo_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormImplicacao/topicos_rotulos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormPredicacao/arvore_topicos_NormPredicacao.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormPredicacao/arvore_topicos_NormPredicacao_reduzido.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormPredicacao/documentos_topicos_NormPredicacao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormPredicacao/documentos_topicos_NormPredicacao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormPredicacao/grafico_topicos_NormPredicacao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormPredicacao/grafico_topicos_NormPredicacao_reduzido.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormPredicacao/rotulos_NormPredicacao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormPredicacao/rotulos_NormPredicacao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormPredicacao/topicos_NormPredicacao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormPredicacao/topicos_NormPredicacao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormPredicacao/topicos_NormPredicacao_tempo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormPredicacao/topicos_NormPredicacao_tempo_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormPredicacao/topicos_rotulos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormTrecho/arvore_topicos_NormTrecho.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormTrecho/arvore_topicos_NormTrecho_reduzido.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormTrecho/documentos_topicos_NormTrecho.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormTrecho/documentos_topicos_NormTrecho_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormTrecho/grafico_topicos_NormTrecho.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormTrecho/grafico_topicos_NormTrecho_reduzido.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormTrecho/rotulos_NormTrecho.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormTrecho/rotulos_NormTrecho_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormTrecho/topicos_NormTrecho.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormTrecho/topicos_NormTrecho_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormTrecho/topicos_NormTrecho_tempo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormTrecho/topicos_NormTrecho_tempo_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NormTrecho/topicos_rotulos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NovaConstituinteOuConstituicao_trecho/arvore_topicos_NovaConstituinteOuConstituicao_trecho.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NovaConstituinteOuConstituicao_trecho/documentos_topicos_NovaConstituinteOuConstituicao_trecho.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NovaConstituinteOuConstituicao_trecho/documentos_topicos_NovaConstituinteOuConstituicao_trecho_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NovaConstituinteOuConstituicao_trecho/grafico_topicos_NovaConstituinteOuConstituicao_trecho.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NovaConstituinteOuConstituicao_trecho/rotulos_NovaConstituinteOuConstituicao_trecho.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NovaConstituinteOuConstituicao_trecho/topicos_NovaConstituinteOuConstituicao_trecho.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NovaConstituinteOuConstituicao_trecho/topicos_NovaConstituinteOuConstituicao_trecho_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NovaConstituinteOuConstituicao_trecho/topicos_NovaConstituinteOuConstituicao_trecho_tempo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/NovaConstituinteOuConstituicao_trecho/topicos_rotulos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/SumarioConstituicao/arvore_topicos_SumarioConstituicao.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/SumarioConstituicao/documentos_topicos_SumarioConstituicao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/SumarioConstituicao/documentos_topicos_SumarioConstituicao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/SumarioConstituicao/grafico_topicos_SumarioConstituicao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/SumarioConstituicao/rotulos_SumarioConstituicao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/SumarioConstituicao/topicos_SumarioConstituicao.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/SumarioConstituicao/topicos_SumarioConstituicao_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/SumarioConstituicao/topicos_SumarioConstituicao_tempo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/SumarioConstituicao/topicos_rotulos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/TextoResumo/arvore_topicos_TextoResumo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/TextoResumo/arvore_topicos_TextoResumo_reduzido.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/TextoResumo/documentos_topicos_TextoResumo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/TextoResumo/documentos_topicos_TextoResumo_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/TextoResumo/grafico_topicos_TextoResumo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/TextoResumo/grafico_topicos_TextoResumo_reduzido.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/TextoResumo/rotulos_TextoResumo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/TextoResumo/rotulos_TextoResumo_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/TextoResumo/topicos_TextoResumo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/TextoResumo/topicos_TextoResumo_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/TextoResumo/topicos_TextoResumo_tempo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/TextoResumo/topicos_TextoResumo_tempo_reduzido.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/TextoResumo/topicos_rotulos.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/topicos/modelar_topicos.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/modelar_topicos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topicos/visualizar_topicos_docs.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/topicos/visualizar_topicos_docs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,28 +242,36 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests in teste_modelar.py.executor": "Run",
+    "Python.4_bm_25.executor": "Run",
+    "Python.ajeitas_sql.executor": "Run",
+    "Python.bm_25.executor": "Run",
     "Python.incluir_banco_de_dados.executor": "Run",
     "Python.modelar_topicos.executor": "Run",
+    "Python.visualizar_topicos_docs.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "database.data.extractors.current.export.id": "SQL Inserts",
+    "database.data.extractors.current.id": "SQL Inserts",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/pedblan/PycharmProjects/falando_nela_/src/topicos/TextoResumo",
+    "grid.search.filter.rows": "true",
+    "last_opened_file_path": "/Users/pedblan/PycharmProjects/falando_nela_/demo/src/topicos/modelos_embeddings_oai",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "File.Encoding",
+    "sql.rename.search.for.storage.occurrences": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo/src/topicos/modelos_embeddings_oai" />
       <recent name="$PROJECT_DIR$/src/topicos/TextoResumo" />
       <recent name="$PROJECT_DIR$/src/topicos/SumarioConstituicao" />
       <recent name="$PROJECT_DIR$/src/topicos/NovaConstituinteOuConstituicao_trecho" />
       <recent name="$PROJECT_DIR$/src/topicos/NormTrecho" />
-      <recent name="$PROJECT_DIR$/src/topicos/NormPredicacao" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/demo/src/topicos" />
@@ -157,7 +308,9 @@
       <workItem from="1747088083396" duration="782000" />
       <workItem from="1747090148106" duration="788000" />
       <workItem from="1747091835568" duration="817000" />
-      <workItem from="1747126412560" duration="9957000" />
+      <workItem from="1747126412560" duration="12943000" />
+      <workItem from="1747153621059" duration="5605000" />
+      <workItem from="1747160781491" duration="8729000" />
     </task>
     <servers />
   </component>
@@ -176,8 +329,12 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/falando_nela_$bm_25.coverage" NAME="bm_25 Coverage Results" MODIFIED="1747173551674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/falando_nela_$incluir_banco_de_dados.coverage" NAME="incluir_banco_de_dados Coverage Results" MODIFIED="1747130211012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/topicos" />
-    <SUITE FILE_PATH="coverage/falando_nela_$modelar_topicos.coverage" NAME="modelar_topicos Coverage Results" MODIFIED="1747144474256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/topicos" />
+    <SUITE FILE_PATH="coverage/falando_nela_$modelar_topicos.coverage" NAME="modelar_topicos Coverage Results" MODIFIED="1747169966019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/topicos" />
+    <SUITE FILE_PATH="coverage/falando_nela_$visualizar_topicos_docs.coverage" NAME="visualizar_topicos_docs Coverage Results" MODIFIED="1747172547222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/topicos" />
+    <SUITE FILE_PATH="coverage/falando_nela_$ajeitas_sql.coverage" NAME="ajeitas_sql Coverage Results" MODIFIED="1747174508124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/falando_nela_$.coverage" NAME=" Coverage Results" MODIFIED="1747054540078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/topicos/modelos" />
+    <SUITE FILE_PATH="coverage/falando_nela_$4_bm_25.coverage" NAME="4_bm_25 Coverage Results" MODIFIED="1747174570785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>

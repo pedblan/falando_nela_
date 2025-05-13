@@ -14,6 +14,8 @@ client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 from typing import Tuple, List, Optional, Dict, Any, Union
 from io import StringIO
 import spacy
+from bertopic.vectorizers import ClassTfidfTransformer
+
 
 CAMINHO_BANCO = "../DiscursosSenadores_02_05_2025_analisado.sqlite"
 
@@ -29,7 +31,7 @@ def carregar_dados() -> pd.DataFrame:
     """
     Carrega os dados dos discursos do Senado a partir do banco de dados SQLite.
 
-    A função realiza uma junção entre as tabelas AnaliseCorpusTodo, Discursos e Senadores,
+    A função realiza uma junção entre as tabelas AnaliseLLM, Discursos e Senadores,
     filtrando apenas os discursos da Casa Legislativa 'SF' (Senado Federal).
 
     Returns:
@@ -48,7 +50,7 @@ def carregar_dados() -> pd.DataFrame:
         s.CodigoParlamentar,
         d.SiglaPartidoParlamentarNaData,
         d.UfParlamentarNaData
-    FROM AnaliseCorpusTodo AS a
+    FROM AnaliseLLM AS a
     LEFT JOIN Discursos AS d ON a.CodigoPronunciamento = d.CodigoPronunciamento
     LEFT JOIN Senadores AS s ON d.CodigoParlamentar = s.CodigoParlamentar
     WHERE d.SiglaCasaPronunciamento = 'SF'
@@ -222,6 +224,8 @@ def treinar_vetorizador() -> CountVectorizer:
         "Por",
         "causa",
         "disso",
+        "Isso implica que",
+        "isso implica que",
         "o",
         "os",
         "as",
@@ -277,24 +281,27 @@ def treinar_vetorizador() -> CountVectorizer:
         "Implícito",
         "orador",
         "oradora",
-                        "Constituição",
                         "estabelece",
                         "assegura",
                         "garante",
                         "assinala",
                         "arrola",
-                        "determina"
+                        "determina",
+                        "prevê", "destacando", "sugerindo", "expressa", 'art', 'art da', 'art da Constituição', 'da Constituição', "Portanto",
+                        "inciso", "artigo", "artigos"
+
     ]
 
     vectorizer_model = CountVectorizer(
-        stop_words=stopwords_extras,
+        #stop_words=stopwords_extras,
         strip_accents=None,
         lowercase=False,
         token_pattern=r'(?u)\b[A-Za-zÀ-ÖØ-öø-ÿ]{2,}\b',
-        ngram_range=(1, 4),
+        ngram_range=(1, 2),
         min_df=2,
         max_df=0.9
     )
+
 
     return vectorizer_model
 
@@ -477,13 +484,21 @@ def modelar(
             - Lista de tópicos atribuídos
             - Distribuição de probabilidades por tópico
     """
+
+    seed_topic_list = [
+                       ["uma Constituinte", "convocar", "nova Constituinte", "nova Constituição"]]
+
+    ctfidf_model = ClassTfidfTransformer(bm25_weighting=True, reduce_frequent_words=True)
+
     topic_model = BERTopic(
         vectorizer_model=vectorizer_model,
         language="multilingual",
         umap_model=umap_model,
         hdbscan_model=hdbscan_model,
         representation_model=representation_model,
-        embedding_model=embedding_model
+        embedding_model=embedding_model,
+        #seed_topic_list=seed_topic_list,
+        ctfidf_model=ctfidf_model
     )
 
     topics, probs = topic_model.fit_transform(docs_validados, reduced_embeddings)

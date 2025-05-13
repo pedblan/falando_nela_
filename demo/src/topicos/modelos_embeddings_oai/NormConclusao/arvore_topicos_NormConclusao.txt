@@ -1,0 +1,190 @@
+.
+├─impeachment_processo impeachment_defende_Dilma Rousseff_Rousseff
+│    ├─impeachment_processo impeachment_Dilma Rousseff_Rousseff_Dilma
+│    │    ├─impeachment_processo impeachment_impeachment deve_pré sal_deve
+│    │    │    ├─■──Marcos Val_Marcos_penais_PEC trata_conforme estabelecido ── Topic: 68
+│    │    │    └─■──impeachment_direito resposta_impeachment deve_processo impeachment_igualitária ── Topic: 89
+│    │    └─impeachment_processo impeachment_Rousseff_Dilma Rousseff_Dilma
+│    │         ├─■──impeachment_Dilma Rousseff_Rousseff_Dilma_Presidente ── Topic: 50
+│    │         └─processo impeachment_impeachment_impeachment Presidenta Dilma Rousseff_impeachment Presidenta Dilma_
+│    │              ├─■──processo impeachment_impeachment_constitucionais sejam_garantir princípios_recursos saúde pública ── Topic: 72
+│    │              └─■──processo impeachment_impeachment_impeachment Presidenta Dilma Rousseff_impeachment Presidenta Dilma_ ── Topic: 90
+│    └─impeachment_defende_processo impeachment_Dilma_Rousseff
+│         ├─impeachment_defende_processo impeachment_Dilma_Rousseff
+│         │    ├─defende_deve_Federal_importância_destaca importância
+│         │    │    ├─■──defende_constitucionais_Federal_comissão especial_deve ── Topic: 34
+│         │    │    └─defende_importância_destaca importância_conforme estabelecido_deve
+│         │    │         ├─■──corrigir distorções_Federal_importância_defende_corrigir ── Topic: 29
+│         │    │         └─■──recursos_trabalho escravo_escravo_fiscal_Brasil ── Topic: 24
+│         │    └─impeachment_processo impeachment_defende_Dilma_Rousseff
+│         │         ├─impeachment_processo impeachment_defende_necessidade_constitucional
+│         │         │    ├─■──critica_tais ações_princípios_processo impeachment_impeachment ── Topic: 36
+│         │         │    └─■──necessidade_impeachment_constitucional_defende_processo impeachment ── Topic: 31
+│         │         └─impeachment_processo impeachment_defende_Dilma_Dilma Rousseff
+│         │              ├─impeachment_defende_processo impeachment_Dilma_Dilma Rousseff
+│         │              │    ├─■──impeachment_processo_mulher_partidária_impeachment Presidente Dilma Rousseff ── Topic: 32
+│         │              │    └─impeachment_defende_processo impeachment_Dilma_Rousseff
+│         │              │         ├─impeachment_processo impeachment_defende_Dilma Rousseff_Rousseff
+│         │              │         │    ├─■──defende_conforme_impeachment_processo impeachment_garantir ── Topic: 19
+│         │              │         │    └─impeachment_processo impeachment_Dilma_Rousseff_Dilma Rousseff
+│         │              │         │         ├─■──impeachment_defende_Presidente_Dilma_Federal ── Topic: 6
+│         │              │         │         └─■──impeachment_processo impeachment_Dilma Rousseff_Rousseff_Dilma ── Topic: 16
+│         │              │         └─■──contra_defende_Presidente_Federal_impeachment contra ── Topic: 25
+│         │              └─■──processo impeachment_Presidenta Dilma_Dilma_Presidenta_impeachment ── Topic: 58
+│         └─Dilma Rousseff_Rousseff_aprovar_destaca importância_Dilma
+│              ├─■──importância_destaca importância_Senado_deve exercer_piso salarial nacional ── Topic: 56
+│              └─■──impeachment Dilma Rousseff_impeachment Dilma_argumentando ela_Rousseff_Dilma Rousseff ── Topic: 62
+└─defende_importância_garantir_critica_deve
+     ├─defende_garantir_importância_deve_critica
+     │    ├─garantir_defende necessidade_critica_necessidade_emenda
+     │    │    ├─■──prejudiciais_ações inconstitucionais_argumentando_critica_públicos ── Topic: 42
+     │    │    └─defende_defende necessidade_necessidade_deve_critica
+     │    │         ├─■──defende_básica_Direito_educação_estudantes ── Topic: 28
+     │    │         └─■──garantir_defende necessidade_necessidade_legislativo_processo legislativo ── Topic: 33
+     │    └─defende_importância_garantir_deve_critica
+     │         ├─defende_importância_garantir_deve_critica
+     │         │    ├─■──defende_públicos_conforme estabelecido_Ministro_Comissão ── Topic: 30
+     │         │    └─defende_importância_garantir_deve_critica
+     │         │         ├─defende_importância_garantir_deve_critica
+     │         │         │    ├─■──importância_percentuais_informações_constitucional_defende ── Topic: 23
+     │         │         │    └─defende_importância_garantir_deve_critica
+     │         │         │         ├─defende_importância_garantir_deve_critica
+     │         │         │         │    ├─■──defende_ações_seguridade social_seguridade_critica ── Topic: 20
+     │         │         │         │    └─defende_importância_garantir_deve_critica
+     │         │         │         │         ├─defende_importância_garantir_deve_conforme
+     │         │         │         │         │    ├─defende_importância_garantir_conforme_deve
+     │         │         │         │         │    │    ├─defende_deve_política_garantir_critica
+     │         │         │         │         │    │    │    ├─■──previsto_defende_conforme_conforme previsto_garantir ── Topic: 17
+     │         │         │         │         │    │    │    └─■──defende_política_critica_direitos_pública ── Topic: 11
+     │         │         │         │         │    │    └─defende_importância_garantir_conforme_destaca importância
+     │         │         │         │         │    │         ├─defende_importância_garantir_critica_conforme
+     │         │         │         │         │    │         │    ├─■──destaca importância_Estado_garantir_defende_eleitoral ── Topic: 15
+     │         │         │         │         │    │         │    └─defende_importância_garantir_critica_conforme
+     │         │         │         │         │    │         │         ├─defende_importância_garantir_conforme_critica
+     │         │         │         │         │    │         │         │    ├─■──medidas_direitos_defende_constitucionais_garantir ── Topic: 9
+     │         │         │         │         │    │         │         │    └─defende_importância_garantir_conforme_critica
+     │         │         │         │         │    │         │         │         ├─■──importância_destaca importância_União_aprovação_garantir ── Topic: 8
+     │         │         │         │         │    │         │         │         └─defende_importância_garantir_conforme_critica
+     │         │         │         │         │    │         │         │              ├─defende_importância_critica_garantir_deve
+     │         │         │         │         │    │         │         │              │    ├─■──importância_defende_destaca importância_critica_constitucionais ── Topic: 1
+     │         │         │         │         │    │         │         │              │    └─defende_critica_importância_garantir_direitos
+     │         │         │         │         │    │         │         │              │         ├─defende_critica_conforme_garantir_importância
+     │         │         │         │         │    │         │         │              │         │    ├─defende_critica_garantir_conforme_importância
+     │         │         │         │         │    │         │         │              │         │    │    ├─■──defende_Senado_constitucionais_constitucional_critica ── Topic: 3
+     │         │         │         │         │    │         │         │              │         │    │    └─defende_garantir_critica_importância_conforme
+     │         │         │         │         │    │         │         │              │         │    │         ├─■──defende_critica_direitos_garantir_importância ── Topic: 0
+     │         │         │         │         │    │         │         │              │         │    │         └─■──defende_garantir_Federal_constitucionais_importância ── Topic: 2
+     │         │         │         │         │    │         │         │              │         │    └─■──direitos_defende_critica_reforma_PEC ── Topic: 4
+     │         │         │         │         │    │         │         │              │         └─■──defende_Senado_destaca importância_direitos_Congresso ── Topic: 5
+     │         │         │         │         │    │         │         │              └─■──garantir_necessidade_defende necessidade_defende_importância ── Topic: 7
+     │         │         │         │         │    │         │         └─■──Brasil_defende_Estado_destaca importância_critica ── Topic: 10
+     │         │         │         │         │    │         └─■──constitucional_Nacional_garantir_destaca_importância ── Topic: 12
+     │         │         │         │         │    └─defende_constitucional_constitucionais_Senado_importância
+     │         │         │         │         │         ├─■──importância_PEC_Senado_destaca importância_necessidade ── Topic: 18
+     │         │         │         │         │         └─■──constitucional_garantir_defende_portos_constitucionais ── Topic: 13
+     │         │         │         │         └─■──salário_direitos_salário mínimo_critica_Estado ── Topic: 14
+     │         │         │         └─defende_Federal_constitucionais_princípios_constitucional
+     │         │         │              ├─■──parlamentar_Federal_defende_critica_terras ── Topic: 22
+     │         │         │              └─■──decisão_constitucional_projeto lei_defende_princípios ── Topic: 21
+     │         │         └─destaca importância_importância_garantir_defende_necessidade
+     │         │              ├─■──deve_defende_direitos_poder_papel ── Topic: 26
+     │         │              └─■──destaca importância_Brasil_legislação_necessidade_medidas ── Topic: 27
+     │         └─defende_garantir_Emenda Constitucional_Constitucional_constitucional
+     │              ├─■──garantir_União_constitucional saúde_pacto federativo garantir_federativo garantir ── Topic: 35
+     │              └─■──pública_disposições_Emenda Constitucional_ordem_Constitucional ── Topic: 39
+     └─defende_critica_importância_garantir_Federal
+          ├─defende_critica_constitucionais_Federal_direitos
+          │    ├─reforma_direitos_destaca importância_reformas_defende
+          │    │    ├─■──seguridade social_seguridade_Judiciário destaca_sistema seguridade social_sistema seguridade ── Topic: 93
+          │    │    └─direitos_medidas provisórias Executivo_provisórias Executivo_fatos_destaca importância
+          │    │         ├─■──defesa_dignidade humana_critica reforma trabalhista_violam direitos_proteção ── Topic: 76
+          │    │         └─■──Emenda Constitucional garantir financiamento_Constitucional garantir financiamento_Constitucional ga ── Topic: 77
+          │    └─defende_critica_Federal_constitucionais_constitucional
+          │         ├─defende_critica_constitucionais_Federal_constitucional
+          │         │    ├─defende_critica_maioridade penal_maioridade_redução maioridade penal
+          │         │    │    ├─■──ele desrespeitam_segundo ele desrespeitam_penal anos_maioridade penal anos_importância garantir recu ── Topic: 79
+          │         │    │    └─defende_cultura_desigualdades regionais conforme_redução maioridade_redução maioridade penal
+          │         │    │         ├─■──consolidação_avaliação_posiciona contra_terceiro mandato presidencial_mandato presidencial ── Topic: 64
+          │         │    │         └─■──mudança_garantias_vulneráveis_desigualdades regionais conforme_mais pobres ── Topic: 80
+          │         │    └─defende_critica_constitucionais_Federal_constitucional
+          │         │         ├─constitucionais_critica_defende_Federal_importância
+          │         │         │    ├─Presidente_Presidente Dilma Rousseff_Presidente Dilma_Rousseff_Dilma Rousseff
+          │         │         │    │    ├─■──excessos_proteção direitos_créditos suplementares_bancos_brasileiros ── Topic: 49
+          │         │         │    │    └─■──direitos estabelecidos_Presidente_argumenta_CPMF_Presidente Dilma Rousseff ── Topic: 82
+          │         │         │    └─constitucionais_critica_defende_Federal_Brasil
+          │         │         │         ├─constitucionais_critica_defende_importância_decisão
+          │         │         │         │    ├─constitucionais_defende_critica_direitos_necessidade
+          │         │         │         │    │    ├─■──CPI_monocrática_decisão monocrática_jurídica_garantir segurança ── Topic: 51
+          │         │         │         │    │    └─constitucionais_defende_Legislativo_critica_direitos
+          │         │         │         │    │         ├─■──petróleo_população_apoia indicação_enfatiza necessidade_constitucionais ── Topic: 43
+          │         │         │         │    │         └─■──Branco_militares_federais_educação_Justiça Trabalho ── Topic: 47
+          │         │         │         │    └─importância_decisão_constitucionais_critica_PEC
+          │         │         │         │         ├─importância_critica_constitucionais_decisão_violam
+          │         │         │         │         │    ├─■──conforme previsto_constitucionais_tempo serviço_penal_promover justiça ── Topic: 40
+          │         │         │         │         │    └─■──liberdade_imprensa_recursos orçamentários_reforça importância_expressão garantida ── Topic: 57
+          │         │         │         │         └─■──PEC_saúde educação argumentando_respeitando processo legislativo_decisão_educação argumentando ── Topic: 55
+          │         │         │         └─política_Nacional_constitucionais_Brasil_limite
+          │         │         │              ├─■──política_princípios_reforma política_Nacional_direitos ── Topic: 83
+          │         │         │              └─■──limite_Amazônia_portos_Amazônia defende_privados ── Topic: 66
+          │         │         └─defende_critica_Tribunal_Federal_Supremo Tribunal
+          │         │              ├─Tribunal_defende_Federal_constitucional_Supremo Tribunal
+          │         │              │    ├─■──brasileiro conforme_respeitar_educação pública_sociedade defende_privado ── Topic: 60
+          │         │              │    └─empresarial campanhas_financiamento empresarial campanhas_financiamento empresarial_campanhas_Federa
+          │         │              │         ├─■──crimes_felicidade_finanças públicas_Ministério Justiça_brasileira ── Topic: 59
+          │         │              │         └─■──veto presidencial_veto_presidencial_critica falta respeito_defende implementação medidas ── Topic: 46
+          │         │              └─■──Petrobras_deve_político defende_Senado_CPI Petrobras ── Topic: 81
+          │         └─Senado_deve_sugere_defende_critica
+          │              ├─Pessoa Deficiência_aprovar_Deficiência_critica_deve
+          │              │    ├─■──aprovar_crime hediondo_hediondo_Brasil defende Senado_Pessoa Deficiência ── Topic: 75
+          │              │    └─■──alterações_produtores_Pessoa Deficiência_uso recursos públicos_proposta ── Topic: 53
+          │              └─Senado_meio PEC_defende_demarcação_garantir cumprimento
+          │                   ├─■──demarcação_estruturais reforma_reformas estruturais reforma_trabalhadores critica_defende aprovação  ── Topic: 78
+          │                   └─■──assistência_meio PEC_critica falta_garantir cumprimento_falta ── Topic: 73
+          └─defende_importância_garantir_necessidade_destaca importância
+               ├─necessidade_constitucional_direitos_destaca importância_Municípios
+               │    ├─direitos_constitucional_importância_necessidade_jurídica
+               │    │    ├─■──constitucional_importância respeitar_CPI Covid_destaca importância respeitar_importância ── Topic: 52
+               │    │    └─■──transportes_impeachment_governo_proposta_direitos ── Topic: 61
+               │    └─Distrito Federal_Distrito_enfatizando importância_importância_importância seguir
+               │         ├─■──Presidente_enfatizando importância_presidencial_índios_tomar medidas ── Topic: 70
+               │         └─■──Distrito Federal_Distrito_defende política_Paraguai_política ── Topic: 91
+               └─importância_garantir_deve_Federal_PEC
+                    ├─defende_importância_garantir_Federal_critica
+                    │    ├─defende_importância_deve_critica_Federal
+                    │    │    ├─fortalecer_Municípios_fortalecer democracia_momentos crise_necessidade
+                    │    │    │    ├─■──Estados Distrito Federal Municípios_Distrito Federal Municípios_Federal Municípios_Senado_Estados Di ── Topic: 88
+                    │    │    │    └─■──fortalecer democracia_preservar_lei questão_projeto lei questão_fortalecer ── Topic: 87
+                    │    │    └─garantir_importância_critica_deve_Federal
+                    │    │         ├─importância_critica_garantir_aprovação_visa
+                    │    │         │    ├─importância_aprovação_critica_visa_saúde
+                    │    │         │    │    ├─defende_critica_importância_aprovação_constitucionais
+                    │    │         │    │    │    ├─■──MP_defende processo impeachment_defende processo_desenvolvimento econômico social_econômico social ── Topic: 84
+                    │    │         │    │    │    └─critica_segurança_saúde_aprovação_educação
+                    │    │         │    │    │         ├─defende_aprovação_objetivos_argumentando_importância
+                    │    │         │    │    │         │    ├─■──permitindo_objetivos_público_importância_cumprir objetivos ── Topic: 37
+                    │    │         │    │    │         │    └─■──defende_aprovação_transparência responsabilidade parlamentares perante_responsabilidade parlamentare ── Topic: 38
+                    │    │         │    │    │         └─■──saúde_nas áreas_social_Estado_políticas ── Topic: 44
+                    │    │         │    │    └─garantir_poderes_estabelecido_entre poderes_conforme
+                    │    │         │    │         ├─■──garantir igualdade_apoia Projeto Lei Senado_perante lei conforme estabelecido_lei conforme estabelec ── Topic: 67
+                    │    │         │    │         └─■──poderes_Federação_entre poderes_defende processo impeachment curso_Lei visa alterar ── Topic: 41
+                    │    │         │    └─políticas_Brasil_Supremo Tribunal_Supremo Tribunal Federal_Tribunal Federal
+                    │    │         │         ├─■──emergência_argumenta_devido processo legal_processo legal_Brasil ── Topic: 86
+                    │    │         │         └─■──pessoas_melhorar gestão_melhorar_mulheres_políticas ── Topic: 71
+                    │    │         └─defende_Federal_garantir_conforme_PEC
+                    │    │              ├─proteger liberdade_importância_PEC_crise_conforme estabelecido
+                    │    │              │    ├─■──proteger liberdade_Lei defende_estabilidade_Federal_Federal critica ── Topic: 65
+                    │    │              │    └─■──Teto_defende importância proteger_aposentados_aplicação Lei Ficha_aplicação Lei Ficha Limpa ── Topic: 85
+                    │    │              └─defende_apoia Proposta Emenda_apoia Proposta_Federal_garantir
+                    │    │                   ├─defende_apoia Proposta Emenda_apoia Proposta_ministros Supremo Tribunal_ministros Supremo Tribunal F
+                    │    │                   │    ├─■──normas_jurídica_equilíbrio federativo_normas constitucionais_independência ── Topic: 69
+                    │    │                   │    └─■──ministros Supremo Tribunal Federal_ministros Supremo Tribunal_ministros Supremo_defende_eleitores ── Topic: 45
+                    │    │                   └─■──substituição_sessão_urgência relevância_agentes_mecanismos ── Topic: 92
+                    │    └─Sistema Único Saúde SUS_Saúde SUS_Único Saúde SUS_necessidade_PLS visa
+                    │         ├─■──Rondônia quadros União_não ter_defende necessidade_Executivo Judiciário_necessidade ── Topic: 48
+                    │         └─■──PLS visa_PLS_Único Saúde SUS_Saúde SUS_Sistema Único Saúde SUS ── Topic: 94
+                    └─processo impeachment deve seguir_impeachment deve seguir_processo impeachment deve_impeachment deve_
+                         ├─processo_PEC_União_processo impeachment deve seguir_impeachment deve seguir
+                         │    ├─■──gastos_PEC_públicos_aprovar PEC_gastos públicos ── Topic: 63
+                         │    └─■──processo impeachment deve seguir_impeachment deve seguir_defende processo impeachment deve_processo  ── Topic: 54
+                         └─■──mas critica_compromete_impeachment deve seguir estritamente_interino_profissão ── Topic: 74
+

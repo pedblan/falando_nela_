@@ -1,0 +1,180 @@
+.
+├─impeachment_não_processo impeachment_Presidente_responsabilidade
+│    ├─impeachment_processo_processo impeachment_Presidente_não
+│    │    ├─■──limita_saúde_limita gastos públicos_limita gastos_gastos públicos ── Topic: 70
+│    │    └─impeachment_processo impeachment_Presidente_não_responsabilidade
+│    │         ├─impeachment_processo impeachment_não_responsabilidade_Presidente
+│    │         │    ├─■──impeachment_Estado_responsabilidade_Tocantins_Federal ── Topic: 76
+│    │         │    └─impeachment_processo impeachment_não_Presidente_responsabilidade
+│    │         │         ├─impeachment_processo impeachment_Presidente_responsabilidade_não
+│    │         │         │    ├─■──impeachment_processo_processo impeachment_Presidente_base ── Topic: 54
+│    │         │         │    └─■──impeachment_processo_responsabilidade_processo impeachment_Presidente ── Topic: 30
+│    │         │         └─■──impeachment_processo impeachment_processuais_crime responsabilidade_crime ── Topic: 46
+│    │         └─■──direitos_Presidente_impeachment_direitos mulheres_desenvolvimento econômico ── Topic: 89
+│    └─■──empresas_impeachment_proporcional_informações_Presidente ── Topic: 72
+└─não_Federal_deve_defende_direitos
+     ├─Federal_deve_Municípios_União_Estados
+     │    ├─Municípios_Federal_deve_petróleo_União
+     │    │    ├─■──educação_licitações_Municípios_devem_projeto ── Topic: 81
+     │    │    └─Federal_União_direitos_Municípios_Estado
+     │    │         ├─■──direito_deficientes_transformação_direitos_Estado ── Topic: 48
+     │    │         └─■──ensino_desigualdades regionais_poder econômico_regionais_Governo ── Topic: 82
+     │    └─Federal_deve_Senado_defende_direitos
+     │         ├─Presidente_direitos_Senado_deve_Federal
+     │         │    ├─■──Presidente_impacto_ambiental_Federal_Senado ── Topic: 59
+     │         │    └─■──contra_deve_direitos_Senado_Presidente ── Topic: 56
+     │         └─liberdade_Estados_Federal_Estado_União
+     │              ├─■──municípios_campanhas_União_Estados_Federal ── Topic: 42
+     │              └─■──transporte_liberdade_Estado_liberdade expressão_compensações ── Topic: 74
+     └─não_Federal_deve_defende_direitos
+          ├─não_deve_Federal_defende_direitos
+          │    ├─não_deve_Estado_Federal_defende
+          │    │    ├─não_deve_defende_nosso_impeachment
+          │    │    │    ├─■──social_contribuição_deve_constitucional_cidadania dignidade pessoa humana ── Topic: 66
+          │    │    │    └─não_deve_defende_Estado_impeachment
+          │    │    │         ├─■──nosso_orçamento_CPI_nosso povo_nós ── Topic: 65
+          │    │    │         └─impeachment_não_deve_defende_Estado
+          │    │    │              ├─■──não_educação_democracia_municípios_inabilitação ── Topic: 33
+          │    │    │              └─■──impeachment_deve_Estado_não golpe_igualdade ── Topic: 60
+          │    │    └─não_deve_Estado_saúde_Federal
+          │    │         ├─■──não_saúde_Estatuto_Estado Roraima_mas ── Topic: 55
+          │    │         └─não_Estado_deve_Federal_saúde
+          │    │              ├─■──dever Estado_saúde_cumprir_mecanismos_saúde direito todos dever ── Topic: 61
+          │    │              └─não_Federal_Estado_deve_Senado
+          │    │                   ├─■──Estado_direito_saúde_Poderes_deve ── Topic: 31
+          │    │                   └─■──Federal_grandes_Governo Federal_Governo_grandes fortunas ── Topic: 52
+          │    └─não_Federal_deve_direitos_defende
+          │         ├─Federal_deve_não_Estado_Senado
+          │         │    ├─deve_direitos_Federal_perda_Brasil
+          │         │    │    ├─direitos_deve_perda_Federal_Brasil
+          │         │    │    │    ├─■──perda_contratos_deve_riquezas_Brasil ── Topic: 39
+          │         │    │    │    └─■──direitos_Federal_Congresso_mulheres_deve ── Topic: 38
+          │         │    │    └─■──emenda_redução desigualdades_secreto_Federal_regra ── Topic: 47
+          │         │    └─Federal_Estado_não_deve_Senado
+          │         │         ├─não_Federal_Estado_condições_servidores
+          │         │         │    ├─■──Estado_provas_dever Estado_União_Amapá Roraima ── Topic: 71
+          │         │         │    └─■──condições_Federal_Senado_ministros_não ── Topic: 64
+          │         │         └─Federal_Senado_Estado_dignidade_reforma
+          │         │              ├─■──contas_constitucionais_aprovação_governo_tribunais ── Topic: 62
+          │         │              └─■──Estado_Brasil_Senado_CLT_reeleição ── Topic: 57
+          │         └─não_Federal_deve_direitos_defende
+          │              ├─direito_direitos_constitucional_garantir_Federal
+          │              │    ├─Estado_direitos_Federal_deve_importância
+          │              │    │    ├─■──educação_lista_recursos_indígenas_defende ── Topic: 45
+          │              │    │    └─■──direitos_Estado_importância_trabalhadores_constitucional ── Topic: 41
+          │              │    └─povo_política_Ministério Público_direitos_poder
+          │              │         ├─■──política_governo_falta_função_Congresso ── Topic: 58
+          │              │         └─■──povo_Ministério Público_federações_brasileiro_Público ── Topic: 53
+          │              └─não_Federal_deve_defende_direitos
+          │                   ├─não_deve_Federal_direitos_defende
+          │                   │    ├─direitos_deve_Federal_Franca Manaus_Zona Franca Manaus
+          │                   │    │    ├─■──direitos_Congresso_deve_Presidente_penal ── Topic: 51
+          │                   │    │    └─não_direitos_deve_Senado_Federal
+          │                   │    │         ├─■──não_direitos_públicos_CPI_Franca Manaus ── Topic: 35
+          │                   │    │         └─■──salário_Senado_Poder_direitos_Federal ── Topic: 34
+          │                   │    └─não_Federal_deve_defende_direitos
+          │                   │         ├─não_Federal_deve_defende_direitos
+          │                   │         │    ├─■──devido processo legal_Federal_processo legal_devido processo_requisitos ── Topic: 32
+          │                   │         │    └─não_deve_Federal_defende_direitos
+          │                   │         │         ├─direitos_Federal_constitucionais_Estados_defende
+          │                   │         │         │    ├─■──direitos_direito_anos_base_constitucionais ── Topic: 22
+          │                   │         │         │    └─■──Estados_Federal_Municípios_social_Regimento ── Topic: 23
+          │                   │         │         └─não_deve_Federal_defende_direitos
+          │                   │         │              ├─não_Federal_deve_defende_direitos
+          │                   │         │              │    ├─■──Federal_direito_deve_público_jurídica ── Topic: 25
+          │                   │         │              │    └─não_Federal_deve_defende_direitos
+          │                   │         │              │         ├─não_Federal_deve_defende_direitos
+          │                   │         │              │         │    ├─não_Federal_deve_defende_direitos
+          │                   │         │              │         │    │    ├─■──não_Federal_deve_defende_devem ── Topic: 14
+          │                   │         │              │         │    │    └─não_Federal_deve_defende_direitos
+          │                   │         │              │         │    │         ├─não_Federal_deve_defende_direitos
+          │                   │         │              │         │    │         │    ├─■──não_União_Estado_Federal_fundamentais ── Topic: 19
+          │                   │         │              │         │    │         │    └─não_Federal_deve_direitos_defende
+          │                   │         │              │         │    │         │         ├─não_Federal_deve_direitos_defende
+          │                   │         │              │         │    │         │         │    ├─■──Federal_República_defende_direitos_impeachment ── Topic: 13
+          │                   │         │              │         │    │         │         │    └─não_Federal_deve_direitos_defende
+          │                   │         │              │         │    │         │         │         ├─não_deve_Federal_direitos_defende
+          │                   │         │              │         │    │         │         │         │    ├─■──Federal_direitos_defende_deve_indígenas ── Topic: 15
+          │                   │         │              │         │    │         │         │         │    └─não_deve_Federal_direitos_defende
+          │                   │         │              │         │    │         │         │         │         ├─não_Federal_deve_direitos_defende
+          │                   │         │              │         │    │         │         │         │         │    ├─■──Presidente_Federal_liberdade_República_defende ── Topic: 12
+          │                   │         │              │         │    │         │         │         │         │    └─não_Federal_deve_direitos_defende
+          │                   │         │              │         │    │         │         │         │         │         ├─não_Federal_deve_direitos_defende
+          │                   │         │              │         │    │         │         │         │         │         │    ├─■──não_deve_defende_constitucional_Federal ── Topic: 8
+          │                   │         │              │         │    │         │         │         │         │         │    └─não_Federal_deve_direitos_defende
+          │                   │         │              │         │    │         │         │         │         │         │         ├─não_Federal_deve_direitos_defende
+          │                   │         │              │         │    │         │         │         │         │         │         │    ├─■──impeachment_processo_deve_Presidente_Federal ── Topic: 6
+          │                   │         │              │         │    │         │         │         │         │         │         │    └─não_Federal_deve_direitos_defende
+          │                   │         │              │         │    │         │         │         │         │         │         │         ├─Federal_deve_direitos_direito_defende
+          │                   │         │              │         │    │         │         │         │         │         │         │         │    ├─■──Federal_deve_direitos_constitucionais_defende ── Topic: 5
+          │                   │         │              │         │    │         │         │         │         │         │         │         │    └─Federal_deve_direitos_direito_defende
+          │                   │         │              │         │    │         │         │         │         │         │         │         │         ├─Federal_deve_direitos_direito_defende
+          │                   │         │              │         │    │         │         │         │         │         │         │         │         │    ├─Federal_deve_direitos_direito_respeitado
+          │                   │         │              │         │    │         │         │         │         │         │         │         │         │    │    ├─■──deve_Federal_direitos_garantir_direito ── Topic: 1
+          │                   │         │              │         │    │         │         │         │         │         │         │         │         │    │    └─■──respeitado_não_Federal_deve_direitos ── Topic: 0
+          │                   │         │              │         │    │         │         │         │         │         │         │         │         │    └─■──não_Federal_deve_constitucionais_Estado ── Topic: 2
+          │                   │         │              │         │    │         │         │         │         │         │         │         │         └─■──não_Federal_deve_defende_direito ── Topic: 3
+          │                   │         │              │         │    │         │         │         │         │         │         │         └─■──Estado_não_deve_Federal_defende ── Topic: 4
+          │                   │         │              │         │    │         │         │         │         │         │         └─■──Congresso_deve_Federal_defende_constitucionais ── Topic: 7
+          │                   │         │              │         │    │         │         │         │         │         └─■──direitos_Federal_constitucional_defende_deve ── Topic: 9
+          │                   │         │              │         │    │         │         │         │         └─■──deve_direitos_defende_direito_constitucional ── Topic: 11
+          │                   │         │              │         │    │         │         │         └─■──não_Federal_olha_acontecer_ficar ── Topic: 10
+          │                   │         │              │         │    │         │         └─■──deve_constitucional_Federal_garantir_Estado ── Topic: 17
+          │                   │         │              │         │    │         └─■──deve_defende_direitos_trabalhadores_Federal ── Topic: 18
+          │                   │         │              │         │    └─■──negociações_negociação_Brasil_Governo_processo ── Topic: 16
+          │                   │         │              │         └─não_direito_deve_saúde_direitos
+          │                   │         │              │              ├─■──direito_não_direitos_saúde_Tribunal ── Topic: 21
+          │                   │         │              │              └─■──não_direito_deve_constitucional_Federal ── Topic: 24
+          │                   │         │              └─não_deve_defende_direito_constitucional
+          │                   │         │                   ├─deve_processo_defende_não_constitucional
+          │                   │         │                   │    ├─■──defende_impeachment_deve_liberdade_trabalho escravo ── Topic: 29
+          │                   │         │                   │    └─■──deve_direitos_direito_constitucional_garantir ── Topic: 28
+          │                   │         │                   └─■──não_defende_indígenas_igualdade_deve ── Topic: 27
+          │                   │         └─■──direitos_indígenas_Federal_Tribunal_processo eleitoral ── Topic: 36
+          │                   └─Federal_não_defende_Senado_constitucional
+          │                        ├─Federal_não_defende_Senado_Tribunal
+          │                        │    ├─■──imunidade_ações_contra_proteger_Senado ── Topic: 50
+          │                        │    └─Federal_deve_não_defende_constitucional
+          │                        │         ├─Federal_não_defende_Estado_constitucional
+          │                        │         │    ├─■──deve_humana_dignidade_tribunais_defende ── Topic: 40
+          │                        │         │    └─Federal_constitucional_não_defende_direitos
+          │                        │         │         ├─Federal_constitucional_Supremo_Tribunal_não
+          │                        │         │         │    ├─■──não_direitos_Estado_emenda_Federal ── Topic: 37
+          │                        │         │         │    └─■──Federal_fronteira_Tribunal_Supremo_constitucional ── Topic: 26
+          │                        │         │         └─■──popular_deve_Federal_democracia_trânsito julgado ── Topic: 43
+          │                        │         └─■──DRU_serviços_impeachment_Federal_Procurador Geral ── Topic: 44
+          │                        └─■──judiciária_polícia_ocorrer_implica_iniciativa ── Topic: 69
+          └─Federal_não_deve_direito_defende
+               ├─conseguir_Federal_não_deve_Presidente
+               │    ├─■──voto_segurança alimentar_nós_abertura crédito extraordinário_partidos ── Topic: 73
+               │    └─conseguir_Federal_não_deve_Presidente
+               │         ├─Federal_deve_Nacional_não_Congresso
+               │         │    ├─Federal_defende_constitucionais_Tribunal_Nacional
+               │         │    │    ├─■──requisitos_unanimidade_democracia_emancipação_requisitos constitucionais ── Topic: 85
+               │         │    │    └─Federal_deve_Tribunal_Nacional_defende
+               │         │    │         ├─Federal_direitos_Tribunal_defende_constitucionais
+               │         │    │         │    ├─■──portos_Federal_direitos_urgência_devem ── Topic: 49
+               │         │    │         │    └─■──estrangeiros_Trabalho_igualdade_capitais_menores anos ── Topic: 63
+               │         │    │         └─■──informações_Nacional_Congresso_brasileira_trabalhadora ── Topic: 68
+               │         │    └─■──indígenas_Polícia Federal_universidades_Polícia_CPI ── Topic: 83
+               │         └─conseguir_esperança_Itamar_trazer_possível
+               │              ├─conseguir_esperança_Itamar_trazer_dela
+               │              │    ├─Estado_saúde_Senado_Federais_Constitucional
+               │              │    │    ├─■──Estado_eleições_prazo_zero_agências reguladoras ── Topic: 75
+               │              │    │    └─■──Federais_doações_Territórios Federais_políticos_Estado ── Topic: 86
+               │              │    └─conseguir_vai_Itamar_trazer_dela
+               │              │         ├─■──advocacia_orçamentos_ações_partidos_aposentadoria compulsória ── Topic: 79
+               │              │         └─conseguir_vai_Itamar_dela_possível
+               │              │              ├─■──Senado_aviação_Senado Federal_igualdade_Federal ── Topic: 78
+               │              │              └─■──conseguir_Itamar_esperança_dela_Presidente Dilma ── Topic: 20
+               │              └─■──decoro parlamentar_tratamento desigual_público_concurso público_superior ── Topic: 87
+               └─direitos_constitucional_Federal_direito_defende
+                    ├─direitos_direito_salário_Federal_constitucional
+                    │    ├─direitos_social_direito_assinada_trabalhistas
+                    │    │    ├─■──social_nos lucros_direitos_trabalhistas_nacional ── Topic: 67
+                    │    │    └─■──direitos_segurança_segurança pública_saúde_capacidade ── Topic: 77
+                    │    └─direitos_direitos fundamentais_constitucional_salário_Federal
+                    │         ├─■──pesquisa_reserva indígena_aposentadorias_salário_proteção ── Topic: 84
+                    │         └─■──direitos fundamentais_direitos_moralidade_produtividade_constitucional ── Topic: 88
+                    └─■──Público_direitos_Câmaras Municipais_Municipais_Ministério ── Topic: 80
+
