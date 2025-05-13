@@ -202,8 +202,68 @@ def treinar_vetorizador() -> CountVectorizer:
     Returns:
         CountVectorizer: Vetorizador configurado.
     """
-    stopwords_extras = [
-        # ... sua lista extensa mantida
+    stopwords_extras = ["texto_vazio",
+        "textovazio",
+        "nenhuma",
+        "nenhum",
+        "null",
+        "não aplicável",
+        "resposta não informada",
+        "Por causa disso, o orador",
+        "Por",
+        "causa",
+        "disso",
+        "o",
+        "os",
+        "as",
+        "orador",
+        "de",
+        "que",
+        "para",
+        "do",
+        "em",
+        "ao",
+        "dos",
+        "das",
+        "da",
+        "em",
+        "seu",
+        "sua",
+        "por",
+        "no",
+        "na",
+        "um",
+        "uma",
+        "pelo",
+        "pela",
+        "aos",
+        "às",
+        "isso significa que o",
+        "isso significa que a"
+        "é",
+        "são",
+        "constituição de",
+        "constituição do",
+        "constituição da",
+        "suas",
+        "seus",
+        "com",
+        "como",
+        "ser",
+        "se",
+        "isso",
+        "Isso",
+        "Eu",
+        "eu",
+        "sobre",
+        "conforme previsto",
+        "conforme estabelecido",
+        "estabelece",
+        "art",
+        "implícito",
+        "Implícito",
+        "orador",
+        "oradora"
     ]
 
     vectorizer_model = CountVectorizer(
@@ -567,41 +627,60 @@ def fluxo(coluna):
     print("\n📥 Início do pipeline BERTopic\n")
 
     print("\n[1/5] Carregando e preparando dados...")
-    df_discursos = carregar_dados()
+    try:
+        df_discursos = carregar_dados()
+    except:
+        print(f"Erro ao carregar os dados para a coluna {coluna}!")
+
     df_valido = formatar_datas(df_discursos)
 
     print("\n[2/5] Preparando documentos e representações...")
-    df_valido, docs_validados = preparar_docs_bertopic(df_valido, coluna)
-    vectorizer_model = treinar_vetorizador()
-    hdbscan_model = clusterizar(docs_validados)
-    representation_model, embedding_model = representacao()  # nova versão sem prompt
+    try:
+        df_valido, docs_validados = preparar_docs_bertopic(df_valido, coluna)
+        vectorizer_model = treinar_vetorizador()
+        hdbscan_model = clusterizar(docs_validados)
+        representation_model, embedding_model = representacao()  # nova versão sem prompt
+    except:
+        print(f"Erro ao preparar os documentos para a coluna {coluna}!")
 
     print("\n[3/5] Treinando modelo com embeddings nativos...")
-    topic_model = BERTopic(
-        vectorizer_model=vectorizer_model,
-        language="multilingual",
-        hdbscan_model=hdbscan_model,
-        representation_model=representation_model,
-        embedding_model=embedding_model
-    )
+    try:
+        topic_model = BERTopic(
+            vectorizer_model=vectorizer_model,
+            language="multilingual",
+            hdbscan_model=hdbscan_model,
+            representation_model=representation_model,
+            embedding_model=embedding_model
+        )
 
-    topics, probs = topic_model.fit_transform(docs_validados)
+        topics, probs = topic_model.fit_transform(docs_validados)
+    except:
+        print(f"Erro ao treinar o modelo para a coluna {coluna}!")
 
     print("\n[4/5] Visualização antes da redução:")
-    lista_topicos(topic_model)
-    salvar_resultados(topic_model, df_valido, docs_validados, probs, coluna)
+    try:
+        lista_topicos(topic_model)
+        salvar_resultados(topic_model, df_valido, docs_validados, probs, coluna)
+    except:
+        print(f"Erro ao visualizar os resultados para a coluna {coluna}!")
 
     print("\n[5/5] Redução de tópicos e exportação final:")
-    reduzir_topicos(topic_model, docs_validados)
-    lista_topicos(topic_model)
-    salvar_resultados(topic_model, df_valido, docs_validados, probs, coluna, reduzido=True)
+    try:
+        reduzir_topicos(topic_model, docs_validados)
+        lista_topicos(topic_model)
+        salvar_resultados(topic_model, df_valido, docs_validados, probs, coluna, reduzido=True)
+    except:
+        print(f"Erro ao reduzir os tópicos para a coluna {coluna}!")
 
     print("\n✅ Pipeline finalizado com sucesso!\n")
 
 
 def processar_todos(colunas) -> None:
     for coluna in colunas:
-        fluxo(coluna)
+        try:
+            fluxo(coluna)
+        except:
+            print(f"Erro ao processar a coluna {coluna}!")
 
 def main():
     processar_todos(colunas)
