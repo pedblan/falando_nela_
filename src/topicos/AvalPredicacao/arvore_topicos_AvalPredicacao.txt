@@ -1,202 +1,208 @@
 .
-├─Constituição de_democracia_documento_um documento_Constituição um documento
-│    ├─documento_um documento_um documento que_documento que_Constituição um documento
-│    │    ├─documento_um documento_um documento que_documento que_Constituição um documento
-│    │    │    ├─documento que deve_um documento que deve_documento que deve ser_um documento que_documento que
-│    │    │    │    ├─Implícito Constituição_legalidade_documento_um documento_um documento que
-│    │    │    │    │    ├─■──Implícito_Implícito Constituição_Constituição vista_Constituição vista como_Constituição vista como  ── Topic: 81
-│    │    │    │    │    └─legalidade_documento_um documento_um documento que_documento que
-│    │    │    │    │         ├─Constituição um documento_um documento que_documento que_Constituição um documento que_democrática C
-│    │    │    │    │         │    ├─■──democrática Constituição um documento_Constituição um documento_documento que_Constituição um docume ── Topic: 37
-│    │    │    │    │         │    └─■──política Constituição um documento_política Constituição um_documento_um documento_um documento que ── Topic: 82
-│    │    │    │    │         └─■──legal_legalidade_marco legal_um marco legal_legal que ── Topic: 19
-│    │    │    │    └─documento que deve ser_documento que deve_um documento que deve_que deve ser respeitado_deve ser res
-│    │    │    │         ├─um documento que deve_documento que deve_documento que deve ser_deve ser respeitado seguido_respeita
-│    │    │    │         │    ├─■──ser respeitado seguido Constituição_respeitado seguido Constituição_respeitado seguido Constituição  ── Topic: 57
-│    │    │    │         │    └─■──documento que deve_um documento que deve_documento que deve ser_respeitado_ser respeitado ── Topic: 55
-│    │    │    │         └─■──deve ser defendido_que deve ser defendido_documento que deve ser_um documento que deve_documento que ── Topic: 83
-│    │    │    └─documento que estabelece direitos_Constituição um documento_um documento_documento_um documento que 
-│    │    │         ├─■──documento que estabelece direitos_que estabelece direitos fundamentais_estabelece direitos fundament ── Topic: 42
-│    │    │         └─■──sociais Constituição um documento_Constituição um documento_importantes Constituição um documento_so ── Topic: 99
-│    │    └─protege_documento que protege_um documento que protege_que protege_protege os
-│    │         ├─protege_documento que protege_um documento que protege_que protege_protege os
-│    │         │    ├─cidadãos_cidadãos Constituição_dos cidadãos_cidadania Constituição_dos cidadãos Constituição
-│    │         │    │    ├─■──Constituição cidadã_cidadania Constituição_cidadã Constituição_Constituição cidadã Constituição_Cons ── Topic: 15
-│    │         │    │    └─■──cidadãos_cidadãos Constituição_dos cidadãos Constituição_visa_direitos dos cidadãos ── Topic: 26
-│    │         │    └─protege_documento que protege_um documento que protege_que protege_protege os
-│    │         │         ├─trabalhadores Constituição_dos trabalhadores Constituição_os direitos dos trabalhadores_direitos dos
-│    │         │         │    ├─■──trabalhadores_dos trabalhadores_direitos dos trabalhadores_trabalhadores Constituição_dos trabalhado ── Topic: 16
-│    │         │         │    └─■──trabalhadores Constituição um_dos trabalhadores Constituição um_documento que protege os_que protege ── Topic: 53
-│    │         │         └─protege_documento que protege_um documento que protege_que protege_protege direitos
-│    │         │              ├─protege_documento que protege_um documento que protege_que protege_protege direitos
-│    │         │              │    ├─■──Constituição protege_protege_protege os_os direitos_protege os direitos ── Topic: 22
-│    │         │              │    └─■──um documento que protege_documento que protege_que protege_protege_que protege direitos ── Topic: 14
-│    │         │              └─■──dignidade humana_humanos Constituição um documento_protege os direitos humanos_os direitos humanos_h ── Topic: 92
-│    │         └─adolescentes_crianças adolescentes_proteção_proteção dos_proteção dos direitos
-│    │              ├─■──adolescentes_crianças adolescentes_das crianças_direitos das crianças_dos direitos das crianças ── Topic: 74
-│    │              └─■──proteção dos_proteção dos direitos_proteção_na proteção_na proteção dos ── Topic: 64
-│    └─Constituição de_democracia_da democracia_Constituição um pilar_brasileira
-│         ├─Constituição de_um marco_Constituição de um_Brasil Constituição_de um marco
-│         │    ├─Constituição de_Constituição de um_um marco_marco_de um marco
-│         │    │    ├─Constituição de_Constituição de um_de um marco_Constituição de um marco_um marco
-│         │    │    │    ├─■──histórica_histórico_Ulysses_Ulysses Guimarães_marco histórico ── Topic: 35
-│         │    │    │    └─Constituição de_Constituição de um_de um_de um marco_Constituição de um marco
-│         │    │    │         ├─■──Constituição de_Constituição de um_de um_de um marco_Constituição de um marco ── Topic: 0
-│         │    │    │         └─■──Constituição um marco importante_marco importante_um marco importante_Constituição um marco_sociais  ── Topic: 59
-│         │    │    └─redemocratização_Constituição um marco_Constituição um marco de_redemocratização do_redemocratização
-│         │    │         ├─■──Constituição um marco de_democrática_democrática Constituição um_marco de estabilidade democrática_d ── Topic: 66
-│         │    │         └─■──redemocratização_redemocratização do_redemocratização do Brasil Constituição_redemocratização do Bra ── Topic: 85
-│         │    └─Brasil_Brasil Constituição_do Brasil_no Brasil_brasileiro Constituição
-│         │         ├─Brasil Constituição_no Brasil_brasileiro Constituição_do Brasil_no Brasil Constituição
-│         │         │    ├─■──brasileiro Constituição_povo brasileiro_brasileira_Brasil Constituição_povo brasileiro Constituição ── Topic: 7
-│         │         │    └─■──Brasil Constituição_no Brasil_no Brasil Constituição_do Brasil_Brasil Constituição um ── Topic: 75
-│         │         └─■──Brasil_do Brasil_política externa_Brasil Constituição_política externa do Brasil ── Topic: 41
-│         └─da democracia_Constituição um pilar_democracia Constituição_Constituição um pilar da_um pilar da dem
-│              ├─da democracia_democracia Constituição_Constituição um pilar_pilar da democracia_um pilar da democrac
-│              │    ├─democracia_democracia Constituição_democracia Constituição um_da democracia_da democracia Constituiç
-│              │    │    ├─■──liberdade de_liberdade de expressão_expressão Constituição_de expressão Constituição_liberdade de ex ── Topic: 80
-│              │    │    └─democracia Constituição_democracia Constituição um_da democracia_da democracia Constituição_Constitu
-│              │    │         ├─■──democracia Constituição_da democracia_da democracia Constituição_democracia Constituição um_Constitu ── Topic: 1
-│              │    │         └─■──democracia Constituição um documento_democracia Constituição um_democracia Constituição_documento qu ── Topic: 18
-│              │    └─democracia brasileira_democracia brasileira Constituição_democracia brasileira Constituição um_brasi
-│              │         ├─da democracia brasileira_brasileira Constituição um pilar_da democracia brasileira Constituição_demo
-│              │         │    ├─■──Constituição um pilar fundamental_pilar fundamental da democracia_um pilar fundamental da_fundamenta ── Topic: 89
-│              │         │    └─■──da democracia brasileira_da democracia brasileira Constituição_brasileira Constituição um pilar_demo ── Topic: 23
-│              │         └─democracia brasileira_Brasil Constituição um documento_brasileira Constituição um documento_para dem
-│              │              ├─■──democracia brasileira_democracia no Brasil_democracia no Brasil Constituição_democracia brasileira C ── Topic: 91
-│              │              └─■──Brasil Constituição um documento_brasileira Constituição um documento_Brasil Constituição um_brasile ── Topic: 72
-│              └─democrático_Estado democrático_democrático de_democrático de direito_Estado democrático de
-│                   ├─■──um pilar do Estado_pilar do Estado_Constituição um pilar do_um pilar do_pilar do Estado democrático ── Topic: 36
-│                   └─■──democrático_Estado democrático_democrático de_Estado democrático de direito_democrático de direito ── Topic: 8
-└─instrumento_um instrumento_Constituição um instrumento_sendo_está sendo
-     ├─instrumento_um instrumento_Constituição um instrumento_um instrumento que_instrumento que
-     │    ├─social_social Constituição_regional_justiça social_regional Constituição
-     │    │    ├─social_social Constituição_justiça social_justiça social Constituição_social Constituição um
-     │    │    │    ├─■──social_social Constituição_justiça social_justiça social Constituição_social Constituição um ── Topic: 3
-     │    │    │    └─■──instrumento de justiça social_social Constituição um instrumento_instrumento de justiça_um instrumen ── Topic: 71
-     │    │    └─regional_regional Constituição_desenvolvimento regional_desenvolvimento_desenvolvimento regional Con
-     │    │         ├─■──regional Constituição um instrumento_regional_regional Constituição um_regional Constituição_desenvo ── Topic: 68
-     │    │         └─■──regional_desenvolvimento regional_regional Constituição_desigualdades_regionais ── Topic: 12
-     │    └─instrumento_um instrumento_Constituição um instrumento_instrumento que_um instrumento que
-     │         ├─instrumento_um instrumento_Constituição um instrumento_um instrumento que_instrumento que
-     │         │    ├─■──promover justiça social_para promover justiça_para promover justiça social_um instrumento_Constituiç ── Topic: 45
-     │         │    └─instrumento_um instrumento_Constituição um instrumento_instrumento que_um instrumento que
-     │         │         ├─■──instrumento_um instrumento_Constituição um instrumento_um instrumento que_instrumento que ── Topic: 2
-     │         │         └─■──instrumento_um instrumento_Constituição um instrumento que_um instrumento que_instrumento que ── Topic: 67
-     │         └─democracia Constituição um instrumento_Constituição um instrumento_democracia Constituição um_instru
-     │              ├─■──democracia Constituição um instrumento_democracia Constituição um_Constituição um instrumento_instru ── Topic: 44
-     │              └─■──instrumento que garante_Constituição um instrumento que_democrática_democrática Constituição um inst ── Topic: 98
-     └─sendo_está sendo_desrespeitada_Constituição está_Constituição está sendo
-          ├─impeachment_precisa_precisa ser_Constituição precisa_Constituição precisa ser
-          │    ├─precisa ser_resolver_Constituição precisa_para resolver_Constituição precisa ser
-          │    │    ├─resolver_para resolver_problemas_crises_os problemas
-          │    │    │    ├─atual permite_Constituição atual permite_permite_of the_Constituição atual
-          │    │    │    │    ├─■──and_for_in_to_of the ── Topic: 39
-          │    │    │    │    └─atual permite_Constituição atual permite_permite_Constituição atual_foro privilegiado
-          │    │    │    │         ├─■──privilegiado_foro privilegiado_privilegiado Constituição_foro privilegiado Constituição_impunidade ── Topic: 97
-          │    │    │    │         └─■──Constituição atual permite_atual permite_permite_Constituição atual_permitir ── Topic: 61
-          │    │    │    └─problemas_crises_os problemas_resolver os problemas_suficiente para resolver
-          │    │    │         ├─■──crises_Constituição adequada para_Constituição adequada_insuficiente para_por menores Constituição ── Topic: 95
-          │    │    │         └─■──problemas_crises_os problemas_resolver os problemas_suficiente para resolver ── Topic: 34
-          │    │    └─precisa ser_necessidades_Constituição precisa_Constituição precisa ser_reformas
-          │    │         ├─necessidades_precisa ser_às necessidades_Constituição precisa_para atender
-          │    │         │    ├─■──um documento que precisa_documento que precisa_documento que precisa ser_que precisa ser_Constituiçã ── Topic: 88
-          │    │         │    └─necessidades_Constituição precisa_Constituição precisa ser_precisa ser_econômico
-          │    │         │         ├─■──necessidades_às necessidades_Constituição precisa_Constituição precisa ser_precisa ser ── Topic: 38
-          │    │         │         └─■──econômico_desenvolvimento econômico_econômico Constituição_econômica_econômicas ── Topic: 58
-          │    │         └─reformas_ser reformada_reformada_precisa ser reformada_ser reformada para
-          │    │              ├─■──reformas_ser reformada_precisa ser reformada_reformada para_ser reformada para ── Topic: 69
-          │    │              └─■──reforma política_reforma_precisa ser reformada para_Constituição precisa ser reformada_precisa ser r ── Topic: 94
-          │    └─impeachment_educação_igualdade_respeitada_processo de
-          │         ├─impeachment_educação_igualdade_processo de_impeachment Constituição
-          │         │    ├─administração_administração pública_moralidade_administração pública Constituição_pública Constituiç
-          │         │    │    ├─■──moralidade_moral_moralização_moralizar_para moralização ── Topic: 79
-          │         │    │    └─■──administração_administração pública_administração pública Constituição_pública Constituição_administ ── Topic: 77
-          │         │    └─impeachment_educação_igualdade_processo de_impeachment Constituição
-          │         │         ├─educação_igualdade_medidas_provisórias_medidas provisórias
-          │         │         │    ├─medidas_medidas provisórias_autonomia_Congresso_provisórias Constituição
-          │         │         │    │    ├─autonomia_recursos_de recursos_distribuição de_distribuição de recursos
-          │         │         │    │    │    ├─recursos_de recursos_distribuição de_distribuição de recursos_recursos Constituição
-          │         │         │    │    │    │    ├─■──tributária_tributos_tributária Constituição_sistema tributário_tributário ── Topic: 50
-          │         │         │    │    │    │    └─■──recursos_de recursos_distribuição de recursos_distribuição de_recursos Constituição ── Topic: 49
-          │         │         │    │    │    └─autonomia_financeiras_autonomia dos_financeira_autonomia do
-          │         │         │    │    │         ├─■──financeiras_financeira_financeiros_de crédito_crédito ── Topic: 76
-          │         │         │    │    │         └─■──autonomia_autonomia dos_autonomia do_autonomia dos Estados_garantir autonomia ── Topic: 28
-          │         │         │    │    └─igualdade_medidas_medidas provisórias_medidas provisórias Constituição_provisórias Constituição
-          │         │         │    │         ├─igualdade_igualdade de_nacional Constituição_promove igualdade_lei Constituição
-          │         │         │    │         │    ├─■──Ministério Público_Ministério_Público_do Ministério_do Ministério Público ── Topic: 93
-          │         │         │    │         │    └─igualdade_igualdade de_nacional Constituição_promove igualdade_lei Constituição
-          │         │         │    │         │         ├─igualdade_igualdade de_promove igualdade_de igualdade_de gênero
-          │         │         │    │         │         │    ├─■──popular_participação_participação popular_popular Constituição_participação popular Constituição ── Topic: 100
-          │         │         │    │         │         │    └─igualdade_igualdade de_promove igualdade_de igualdade_de gênero
-          │         │         │    │         │         │         ├─■──lei_leis Constituição_leis_de lei_lei Constituição ── Topic: 60
-          │         │         │    │         │         │         └─■──igualdade_igualdade de_promove igualdade_de igualdade_documento que promove igualdade ── Topic: 6
-          │         │         │    │         │         └─■──soberania nacional_soberania_nacional Constituição um_soberania nacional Constituição_soberania naci ── Topic: 52
-          │         │         │    │         └─medidas_medidas provisórias_provisórias Constituição_medidas provisórias Constituição_Congresso
-          │         │         │    │              ├─medidas provisórias_provisórias Constituição_medidas provisórias Constituição_Congresso_de medidas
-          │         │         │    │              │    ├─■──Congresso_Congresso Nacional_do Congresso_Congresso Nacional Constituição_Nacional Constituição ── Topic: 30
-          │         │         │    │              │    └─medidas_medidas provisórias_provisórias Constituição_medidas provisórias Constituição_de medidas
-          │         │         │    │              │         ├─■──medidas_medidas provisórias_medidas provisórias Constituição_provisórias Constituição_de medidas ── Topic: 11
-          │         │         │    │              │         └─política_políticas_políticos_políticos Constituição_política Constituição
-          │         │         │    │              │              ├─■──política_políticas_políticos_políticos Constituição_política Constituição ── Topic: 9
-          │         │         │    │              │              └─■──essencial_parâmetro essencial_um parâmetro essencial_Constituição um parâmetro essencial_parâmetro e ── Topic: 13
-          │         │         │    │              └─Constituição clara_ambiental_ambiental Constituição_ambiente_meio ambiente
-          │         │         │    │                   ├─■──ambiental_ambiental Constituição_ambiente_meio ambiente_proteção ambiental ── Topic: 29
-          │         │         │    │                   └─■──clara_Constituição clara_Constituição clara deve_Constituição clara deve ser_clara deve ser ── Topic: 32
-          │         │         │    └─educação_pública_educação Constituição_terras_pública Constituição
-          │         │         │         ├─terras_indígenas Constituição_demarcação de_Constituição não está_não
-          │         │         │         │    ├─■──demarcação de_indígenas Constituição_das terras_indígenas Constituição não_indígenas Constituição nã ── Topic: 63
-          │         │         │         │    └─implementada_Constituição não está_não está_Constituição não está sendo_não está sendo
-          │         │         │         │         ├─■──Constituição não está_Constituição não está sendo_não está_não está sendo_que não estão sendo ── Topic: 84
-          │         │         │         │         └─■──implementada_implementação_plenamente implementada_na implementação_implementada no que ── Topic: 87
-          │         │         │         └─educação_pública_educação Constituição_pública Constituição_para educação
-          │         │         │              ├─educação_pública_educação Constituição_pública Constituição_para educação
-          │         │         │              │    ├─■──Constituição garante_garante_Constituição garante direitos_garante direitos_garante direitos fundame ── Topic: 24
-          │         │         │              │    └─educação_educação Constituição_pública Constituição_para educação_segurança pública
-          │         │         │              │         ├─■──educação_educação Constituição_para educação_educação no_da educação ── Topic: 5
-          │         │         │              │         └─■──pública_pública Constituição_segurança pública_segurança pública Constituição_saúde pública ── Topic: 10
-          │         │         │              └─■──jurídica_segurança jurídica_jurídica Constituição_segurança jurídica Constituição_para garantir segu ── Topic: 65
-          │         │         └─impeachment_impeachment Constituição_processo de_no processo de_Constituição deve ser
-          │         │              ├─impeachment_impeachment Constituição_processo de_no processo_no processo de
-          │         │              │    ├─■──impeachment_impeachment Constituição_processo de_no processo de_no processo ── Topic: 4
-          │         │              │    └─■──processo legislativo_processo_processo legislativo Constituição_legislativo Constituição_no processo ── Topic: 56
-          │         │              └─Constituição deve ser_Constituição deve_deve ser respeitada_defendida_Constituição deve ser respeita
-          │         │                   ├─deve ser respeitada_ser respeitada_Constituição deve ser respeitada_Constituição deve_Constituição d
-          │         │                   │    ├─■──normas_Regimento_Regimento Interno_norma_uma norma ── Topic: 48
-          │         │                   │    └─■──Constituição deve ser respeitada_deve ser respeitada_Constituição deve ser_ser respeitada_Constituiç ── Topic: 54
-          │         │                   └─■──defendida_ser defendida_Constituição deve ser defendida_deve ser defendida_ser defendido ── Topic: 43
-          │         └─responsabilidade_fiscal_fiscalização_responsabilidades_equilíbrio
-          │              ├─responsabilidade_fiscal_fiscalização_responsabilidades_fiscal Constituição
-          │              │    ├─fiscal_fiscalização_fiscal Constituição_responsabilidade fiscal_responsabilidade
-          │              │    │    ├─■──fiscalização_fiscal_fiscal Constituição_fiscalização do_de fiscalização ── Topic: 21
-          │              │    │    └─■──responsabilidade fiscal_fiscal_responsabilidade_responsabilidade fiscal Constituição_fiscal Constitu ── Topic: 73
-          │              │    └─responsabilidade_responsabilidades_Presidente_crimes_competências
-          │              │         ├─responsabilidade_responsabilidades_crimes_de responsabilidade_crimes de
-          │              │         │    ├─■──Presidente_da República_República_Presidente da_Presidente da República ── Topic: 46
-          │              │         │    └─responsabilidade_responsabilidades_de responsabilidade_crime_crimes de
-          │              │         │         ├─■──responsabilidades_responsabilidade_as responsabilidades_responsabilidade do_responsabilidades claras ── Topic: 20
-          │              │         │         └─■──crimes_de responsabilidade_crime_de responsabilidade Constituição_responsabilidade Constituição ── Topic: 27
-          │              │         └─limites_competências_estabelece limites_limites claros_estabelece limites claros
-          │              │              ├─■──competências_competências legislativas_define_as competências_define claramente as competências ── Topic: 86
-          │              │              └─■──limites_estabelece limites_limites claros_estabelece limites claros_limites claros para ── Topic: 51
-          │              └─equilíbrio_entre os Poderes_os Poderes_harmonia entre os_entre os Poderes Constituição
-          │                   ├─■──equilíbrio_equilíbrio federativo_equilíbrio entre_equilíbrio entre os_um equilíbrio ── Topic: 47
-          │                   └─■──harmonia entre os_entre os Poderes_os Poderes_entre os Poderes Constituição_harmonia entre os Podere ── Topic: 96
-          └─Constituição está sendo_Constituição está_sendo desrespeitada_está sendo desrespeitada_Constituição 
-               ├─Constituição está sendo_Constituição está_está sendo_sendo_sendo desrespeitada
-               │    ├─governo_Governo_pelo governo_pelo Governo_governo Constituição
-               │    │    ├─■──governo_Governo_governo Constituição_pelo governo_Constituição desrespeitada pelo atual ── Topic: 33
-               │    │    └─■──governo_Governo_pelo governo_pelo Governo_está sendo desrespeitada pelo ── Topic: 31
-               │    └─Constituição está sendo_Constituição está_está sendo_sendo_Constituição está sendo desrespeitada
-               │         ├─sendo desrespeitada_Constituição está sendo desrespeitada_está sendo desrespeitada_Constituição está
-               │         │    ├─■──autoridades_autoridades Constituição_autoridades Constituição está_autoridades Constituição está sen ── Topic: 90
-               │         │    └─sendo desrespeitada_Constituição está sendo desrespeitada_está sendo desrespeitada_Constituição está
-               │         │         ├─■──sendo desrespeitada_Constituição está sendo desrespeitada_está sendo desrespeitada_Constituição está ── Topic: 17
-               │         │         └─■──STF Constituição_do STF_do STF Constituição_pelo STF_desrespeitada pelo STF ── Topic: 40
-               │         └─Judiciário_Judiciário Constituição_judiciais_Constituição está sendo violada_Constituição está sendo
-               │              ├─■──Judiciário_Judiciário Constituição_judiciais_decisões judiciais_do Judiciário ── Topic: 25
-               │              └─■──violada_Constituição está sendo violada_está sendo violada_sendo violada_violada Constituição ── Topic: 70
-               └─Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal_pelo Supremo Tribunal_pelo Supremo Tribun
-                    ├─■──Tribunal Federal_Supremo Tribunal Federal_Supremo Tribunal_Tribunal_pelo Supremo Tribunal Federal ── Topic: 78
-                    └─■──Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal_pelo Supremo Tribunal_pelo Supremo Tribun ── Topic: 62
+├─sendo_está sendo_desrespeitada_social_impeachment
+│    ├─impeachment_desrespeitada_sendo desrespeitada_está sendo desrespeitada_Tribunal
+│    │    ├─Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal_desrespeitada Supremo Tribunal Federal_de
+│    │    │    ├─■──Supremo Tribunal_Tribunal Federal_Supremo Tribunal Federal_Tribunal Contas_Supremo Tribunal Federal  ── Topic: 47
+│    │    │    └─■──Supremo Tribunal Federal_Tribunal Federal_Supremo Tribunal_Supremo_Tribunal ── Topic: 75
+│    │    └─impeachment_está sendo_desrespeitada_sendo desrespeitada_está sendo desrespeitada
+│    │         ├─impeachment_sendo_processo_sendo desrespeitada_está sendo desrespeitada
+│    │         │    ├─impeachment_processo_violada_Dilma_sendo violada
+│    │         │    │    ├─■──impeachment_processo_Dilma Rousseff_desrespeitada processo_durante processo ── Topic: 5
+│    │         │    │    └─■──violada_está sendo violada_sendo violada_vilipendiada_está sendo ── Topic: 64
+│    │         │    └─sendo desrespeitada_está sendo desrespeitada_desrespeitada_Judiciário_está sendo
+│    │         │         ├─sendo desrespeitada_está sendo desrespeitada_está sendo_sendo_STF está
+│    │         │         │    ├─■──STF_STF está_desrespeitada STF_está sendo desrespeitada STF_sendo desrespeitada STF ── Topic: 41
+│    │         │         │    └─■──sendo desrespeitada_está sendo desrespeitada_está sendo_sendo respeitada_está sendo respeitada ── Topic: 18
+│    │         │         └─■──Judiciário_judiciais_decisões judiciais_Poder Judiciário_Judiciário está ── Topic: 25
+│    │         └─governo_Governo_desrespeitada governo_governo atual_atual governo
+│    │              ├─■──governo_sendo desrespeitada governo_está sendo desrespeitada governo_Governo_governo atual ── Topic: 36
+│    │              └─■──governo_Governo_desrespeitada atual_desrespeitada atual governo_atual governo ── Topic: 32
+│    └─social_igualdade_política_precisa_justiça social
+│         ├─precisa_política_educação_políticas_garantir
+│         │    ├─política_regional_documento deve_deve respeitado_instrumento pode
+│         │    │    ├─documento deve_documento deve respeitado_respeitado_deve respeitado_deve respeitado seguido
+│         │    │    │    ├─documento deve_documento deve respeitado_respeitado_deve respeitado_deve respeitado seguido
+│         │    │    │    │    ├─deve defendido_documento deve defendido_defendido contra_deve defendido contra_documento deve
+│         │    │    │    │    │    ├─■──defendida_deve defendida_defendido_deve defendido_democracia deve ── Topic: 72
+│         │    │    │    │    │    └─■──documento deve defendido_documento deve_respeitado documento deve_respeitado documento_deve defendid ── Topic: 85
+│         │    │    │    │    └─documento deve respeitado_documento deve_deve respeitado_deve respeitado seguido_documento deve resp
+│         │    │    │    │         ├─seguido documento_respeitado seguido documento_deve respeitado seguido documento_documento deve resp
+│         │    │    │    │         │    ├─■──seguido documento_deve respeitado seguido documento_respeitado seguido documento_documento deve resp ── Topic: 49
+│         │    │    │    │         │    └─■──documento deve_documento deve respeitado_deve respeitado_documento deve respeitado não_deve respeita ── Topic: 56
+│         │    │    │    │         └─■──legal_legalidade_marco legal_garantir legalidade_deve respeitado ── Topic: 19
+│         │    │    │    └─vista_vista documento_vista documento direitos_vista documento direitos fundamentais_vista documento
+│         │    │    │         ├─■──vista_vista documento_vista instrumento_vista documento deve_vista instrumento deve ── Topic: 82
+│         │    │    │         └─■──vista documento_vista_vista documento direitos fundamentais_vista documento direitos_documento direi ── Topic: 95
+│         │    │    └─instrumento_política_políticas_regional_instrumento pode
+│         │    │         ├─regional_desenvolvimento regional_ambiental_desigualdades_regionais
+│         │    │         │    ├─regional_desenvolvimento regional_desenvolvimento_desigualdades_regionais
+│         │    │         │    │    ├─■──regional_desigualdades_desenvolvimento regional_regionais_desigualdades regionais ── Topic: 17
+│         │    │         │    │    └─■──regional instrumento_regional_desenvolvimento regional_promover desenvolvimento_regional instrumento ── Topic: 51
+│         │    │         │    └─■──ambiental_ambiente_meio ambiente_proteção ambiental_ambientais ── Topic: 30
+│         │    │         └─política_políticas_instrumento pode_instrumento essencial_reformas
+│         │    │              ├─política_políticas_reformas_político_reforma
+│         │    │              │    ├─reformas_reformada_reforma_precisa reformada_política
+│         │    │              │    │    ├─■──reformas_reforma_reformada_precisa reformada_reforma política ── Topic: 22
+│         │    │              │    │    └─■──política externa_externa_política_política externa Brasil_externa Brasil ── Topic: 71
+│         │    │              │    └─políticas_política_políticos_políticas públicas_político
+│         │    │              │         ├─■──políticas_política_políticos_políticas públicas_públicas ── Topic: 3
+│         │    │              │         └─■──política documento_políticas documento_política_documento orienta_ação política ── Topic: 79
+│         │    │              └─instrumento_instrumento pode_instrumento essencial_democracia instrumento_instrumento deve
+│         │    │                   ├─instrumento_instrumento pode_instrumento essencial_democracia instrumento_instrumento deve
+│         │    │                   │    ├─■──democracia instrumento_instrumento essencial democracia_instrumento essencial_instrumento_essencial  ── Topic: 43
+│         │    │                   │    └─instrumento_instrumento pode_instrumento deve_instrumento direitos_instrumento essencial
+│         │    │                   │         ├─■──instrumento_instrumento pode_instrumento deve_instrumento direitos_instrumento essencial ── Topic: 1
+│         │    │                   │         └─■──instrumento_instrumento pode_políticas_governo instrumento_política instrumento ── Topic: 67
+│         │    │                   └─administração_moralidade_administração pública_moralização_moral
+│         │    │                        ├─■──moralidade_moralização_moral_administração pública_administração ── Topic: 68
+│         │    │                        └─■──administração_administração pública_pública_administrativos_vista guia ── Topic: 89
+│         │    └─educação_responsabilidade_medidas provisórias_fiscal_precisa
+│         │         ├─educação_autonomia_recursos_resolver_saúde
+│         │         │    ├─educação_resolver_problemas_pública_distribuição
+│         │         │    │    ├─problemas_lidar_crises_econômico_suficiente resolver
+│         │         │    │    │    ├─resolver_problemas_lidar_crises_suficiente resolver
+│         │         │    │    │    │    ├─■──problemas_crises_suficiente resolver_crises políticas_suficiente ── Topic: 31
+│         │         │    │    │    │    └─■──lidar_situações_situações extraordinárias_sem reformas_crimes hediondos ── Topic: 100
+│         │         │    │    │    └─econômico_necessidades_desenvolvimento econômico_atender necessidades_precisa atualizada
+│         │         │    │    │         ├─■──necessidades_atender necessidades_precisa_precisa atualizada_atualizada ── Topic: 69
+│         │         │    │    │         └─■──econômico_desenvolvimento econômico_econômicas_econômica_econômicos ── Topic: 59
+│         │         │    │    └─educação_pública_distribuição_segurança pública_distribuição recursos
+│         │         │    │         ├─distribuição_recursos_distribuição recursos_tributária_permite
+│         │         │    │         │    ├─recursos_distribuição recursos_permite_atual permite_permitir
+│         │         │    │         │    │    ├─recursos_distribuição recursos_distribuição_financeiras_recursos entre
+│         │         │    │         │    │    │    ├─■──recursos_distribuição recursos_recursos entre_entre entes federativos_recursos entre entes ── Topic: 60
+│         │         │    │         │    │    │    └─■──financeiras_financeira_financeiros_crédito_financeiro ── Topic: 74
+│         │         │    │         │    │    └─■──atual permite_permite_permitir_alterada permitir_permitiu ── Topic: 46
+│         │         │    │         │    └─tributária_implementada_petróleo_sistema tributário_foi
+│         │         │    │         │         ├─tributária_implementada_petróleo_sistema tributário_tributário
+│         │         │    │         │         │    ├─■──tributária_sistema tributário_tributário_tributos_tribunais ── Topic: 40
+│         │         │    │         │         │    └─■──implementada_petróleo_ICMS_implementação_Estados produtores ── Topic: 50
+│         │         │    │         │         └─significativos_avanços_avanço significativo_trouxe_significativo
+│         │         │    │         │              ├─■──significativos_avanços_trouxe_foi_trouxe avanços significativos ── Topic: 2
+│         │         │    │         │              └─■──parâmetro essencial_essencial_nação_guia essencial_organização ── Topic: 27
+│         │         │    │         └─educação_pública_segurança pública_públicos_saúde pública
+│         │         │    │              ├─■──educação_educação Brasil_importante educação_educacionais_educacional ── Topic: 7
+│         │         │    │              └─pública_segurança pública_saúde pública_públicos_público
+│         │         │    │                   ├─■──pública_segurança pública_saúde pública_públicos_público ── Topic: 13
+│         │         │    │                   └─■──não está sendo_não está_não estão sendo_não estão_estão sendo ── Topic: 78
+│         │         │    └─autonomia_Ministério Público_Ministério_Público_jurídica
+│         │         │         ├─histórica_marco importante_importante_histórico_marco importante garantia direitos
+│         │         │         │    ├─■──histórica_histórico_conquista histórica_marco histórico_histórico importante ── Topic: 57
+│         │         │         │    └─marco importante_importante_marco importante garantia direitos_importante garantia direitos_marco im
+│         │         │         │         ├─■──marco importante garantia direitos_importante garantia direitos_marco importante garantia_importante ── Topic: 76
+│         │         │         │         └─■──foi marco importante_marco importante_importante Amapá_marco importante Amapá_importante ── Topic: 102
+│         │         │         └─autonomia_Ministério Público_Ministério_Público_is
+│         │         │              ├─the_of_is_jurídica_nacional
+│         │         │              │    ├─and_is_jurídica_segurança jurídica_to
+│         │         │              │    │    ├─■──is_and_for_to_of the ── Topic: 39
+│         │         │              │    │    └─■──jurídica_segurança jurídica_garantir segurança jurídica_garantir segurança_estabilidade jurídica ── Topic: 61
+│         │         │              │    └─participação popular_participação_nacional documento_soberania nacional_marco participação
+│         │         │              │         ├─■──nacional documento_soberania nacional_nacional fundamental_nacional deve_desenvolvimento nacional ── Topic: 83
+│         │         │              │         └─■──popular_participação popular_participação_vontade popular_marco participação ── Topic: 93
+│         │         │              └─autonomia_Ministério Público_Ministério_autonomia Estados_municipal
+│         │         │                   ├─■──autonomia_autonomia Estados_municipal_garantir autonomia_autonomia política ── Topic: 29
+│         │         │                   └─■──Ministério_Ministério Público_Público_membros Ministério_membros Ministério Público ── Topic: 96
+│         │         └─responsabilidade_medidas provisórias_fiscal_clara_Congresso
+│         │              ├─responsabilidade_fiscal_Congresso_fiscalização_responsabilidades
+│         │              │    ├─equilíbrio_entre Poderes_harmonia entre_harmonia entre Poderes_equilíbrio federativo
+│         │              │    │    ├─■──harmonia entre_harmonia entre Poderes_Poderes documento_entre Poderes documento_independência harmon ── Topic: 99
+│         │              │    │    └─■──equilíbrio_equilíbrio federativo_equilíbrio entre_equilíbrio entre Poderes_entre Poderes ── Topic: 84
+│         │              │    └─responsabilidade_fiscal_Congresso_fiscalização_responsabilidades
+│         │              │         ├─responsabilidade_fiscal_fiscalização_responsabilidades_responsabilidade fiscal
+│         │              │         │    ├─■──crimes_crime_crimes responsabilidade_responsabilidade_maioridade ── Topic: 26
+│         │              │         │    └─fiscal_responsabilidade_fiscalização_responsabilidades_responsabilidade fiscal
+│         │              │         │         ├─■──responsabilidades_responsabilidade_responsabilidades claras_transparência responsabilidade_impõe res ── Topic: 20
+│         │              │         │         └─■──fiscal_fiscalização_responsabilidade fiscal_responsabilidade_fiscal instrumento ── Topic: 11
+│         │              │         └─Congresso Nacional_limites_competências_limites claros_define
+│         │              │              ├─limites_competências_limites claros_documento limites claros_documento limites
+│         │              │              │    ├─■──limites_limites claros_documento limites_documento limites claros_limita ── Topic: 44
+│         │              │              │    └─■──competências_competências legislativas_legislativas_define_define claramente competências ── Topic: 87
+│         │              │              └─■──Congresso_Congresso Nacional_Congresso não_legislativa_desrespeitada Congresso ── Topic: 33
+│         │              └─medidas provisórias_respeitada_terras_deve respeitada_terras indígenas
+│         │                   ├─medidas_provisórias_medidas provisórias_clara_terras indígenas
+│         │                   │    ├─clara_terras indígenas_demarcação_indígenas_clara deve
+│         │                   │    │    ├─■──terras_terras indígenas_demarcação_indígenas_indígenas não ── Topic: 65
+│         │                   │    │    └─■──clara_clara deve_clara deve respeitada_disposições clara_trânsito julgado ── Topic: 34
+│         │                   │    └─medidas_medidas provisórias_Presidente_desrespeitada_tramitação
+│         │                   │         ├─medidas_medidas provisórias_Presidente_tramitação_desrespeitada
+│         │                   │         │    ├─■──Presidente_República_Presidente República_Presidência_presidencial ── Topic: 48
+│         │                   │         │    └─■──medidas_medidas provisórias_tramitação_desrespeitada_uso inadequado ── Topic: 15
+│         │                   │         └─■──forma_deve respeitada aplicada forma_respeitada aplicada forma_aplicada forma_deve respeitada aplica ── Topic: 91
+│         │                   └─respeitada_deve respeitada_processo legislativo_processo_respeitada seguida
+│         │                        ├─■──normas_Regimento Interno_norma_infraconstitucionais_normativa ── Topic: 45
+│         │                        └─respeitada_deve respeitada_processo legislativo_processo_respeitada seguida
+│         │                             ├─processo legislativo_respeitada_deve respeitada_processo_respeitada seguida
+│         │                             │    ├─■──processo legislativo_processo_seguida processo_respeitada seguida_respeitada processo ── Topic: 58
+│         │                             │    └─■──deve respeitada_respeitada_deve respeitada seguida_respeitada seguida_deve respeitada não ── Topic: 53
+│         │                             └─■──lei_projeto lei_leis_projetos lei_elaboração ── Topic: 52
+│         └─igualdade_social_justiça social_social instrumento_promove igualdade
+│              ├─igualdade_igualdade gênero_promove igualdade_promover justiça social_justiça social
+│              │    ├─■──igualdade_promove igualdade_documento promove igualdade_igualdade gênero_documento promove ── Topic: 8
+│              │    └─■──promover justiça social_igualdade_justiça social_instrumento pode_instrumento pode utilizado promove ── Topic: 42
+│              └─social_justiça social_instrumento justiça social_social instrumento_instrumento justiça
+│                   ├─■──instrumento justiça social_social instrumento_instrumento justiça_justiça social instrumento_social ── Topic: 80
+│                   └─social_justiça social_promove justiça social_social documento_inclusão social
+│                        ├─■──social_justiça social_social documento_promove justiça social_inclusão social ── Topic: 4
+│                        └─■──social_pacto social_assistência_social está sendo_assistência social ── Topic: 90
+└─democracia_Brasil_brasileira_democrático_pilar democracia
+     ├─protege_protege direitos_documento protege_documento protege direitos_direitos trabalhadores
+     │    ├─trabalhadores_proteção_direitos trabalhadores_proteção direitos_adolescentes
+     │    │    ├─crianças adolescentes_adolescentes_proteção direitos_proteção_proteção direitos crianças
+     │    │    │    ├─■──documento protege direitos humanos_protege direitos humanos_humana_humanos documento_direitos humano ── Topic: 97
+     │    │    │    └─crianças adolescentes_adolescentes_proteção direitos_proteção_proteção direitos crianças
+     │    │    │         ├─■──crianças adolescentes_adolescentes_proteção direitos crianças_proteção_proteção crianças ── Topic: 73
+     │    │    │         └─■──proteção direitos_proteção_marco importante proteção direitos_marco importante proteção_importante p ── Topic: 63
+     │    │    └─trabalhadores_direitos trabalhadores_trabalhistas_proteção social_trabalhadores marco
+     │    │         ├─■──trabalhadores_direitos trabalhadores_trabalhistas_trabalhadores marco_direitos trabalhadores marco ── Topic: 81
+     │    │         └─■──trabalhadores_direitos trabalhadores_proteção social_protege direitos trabalhadores_trabalhistas ── Topic: 14
+     │    └─protege_documento protege_protege direitos_documento protege direitos_documento
+     │         ├─protege direitos_documento protege direitos_protege_documento protege_protege direitos fundamentais
+     │         │    ├─protege direitos_documento protege direitos_protege_documento protege_protege direitos fundamentais
+     │         │    │    ├─■──protege_protege direitos_protege direitos povos_protege direitos povos indígenas_proteger ── Topic: 21
+     │         │    │    └─documento protege direitos_documento protege_protege direitos_documento protege direitos fundamentai
+     │         │    │         ├─■──documento protege direitos fundamentais_protege direitos fundamentais_documento protege direitos_fun ── Topic: 54
+     │         │    │         └─■──trabalhadores documento_documento protege direitos_protege direitos trabalhadores_protege direitos_d ── Topic: 55
+     │         │    └─cidadania_cidadãos_cidadã_documento direitos_Cidadã
+     │         │         ├─cidadania_cidadãos_direitos cidadãos_fundamentais cidadãos_direitos fundamentais cidadãos
+     │         │         │    ├─■──cidadã_cidadania_visa_cidadãos_chamada Cidadã ── Topic: 12
+     │         │         │    └─■──cidadãos_cidadãos documento_fundamentais cidadãos_direitos cidadãos_protege direitos cidadãos ── Topic: 35
+     │         │         └─fundamentais_documento direitos_direitos fundamentais_fundamentais documento_documento
+     │         │              ├─■──documento direitos_fundamentais documento_documento_documento direitos fundamentais_direitos fundame ── Topic: 16
+     │         │              └─■──garantia_garantia direitos_direitos fundamentais_fundamentais_garantir direitos ── Topic: 28
+     │         └─democracia documento_documento protege_documento protege democracia_protege democracia_documento ess
+     │              ├─democracia documento_documento protege democracia_protege democracia_documento essencial_documento e
+     │              │    ├─■──democracia documento_documento essencial_documento essencial democracia_essencial democracia_proteçã ── Topic: 62
+     │              │    └─■──documento protege democracia_protege democracia_democracia documento_documento protege_democracia di ── Topic: 94
+     │              └─liberdade expressão_documento protege_documento protege liberdades_protege liberdades_baluarte liber
+     │                   ├─■──documento protege_documento protege liberdades_protege liberdades_protege liberdade_protege ── Topic: 103
+     │                   └─■──liberdade expressão_liberdade_baluarte liberdade_direitos fundamentais liberdade_fundamentais liberd ── Topic: 86
+     └─democracia_Brasil_brasileira_democrático_pilar democracia
+          ├─democracia_pilar democracia_democracia brasileira_democracia brasileira pilar_brasileira pilar
+          │    ├─Brasil_brasileira_povo brasileiro_Brasil documento_sociedade brasileira
+          │    │    ├─Brasil_brasileiro_povo brasileiro_brasileira_brasileiros
+          │    │    │    ├─■──brasileiro_povo brasileiro_brasileiros_brasileira_sociedade brasileira ── Topic: 9
+          │    │    │    └─■──Brasil documento_brasileira documento_democracia brasileira documento_documento fundamental democrac ── Topic: 66
+          │    │    └─■──democracia Brasil_democracia brasileira_brasileira_democracia_consolidação ── Topic: 98
+          │    └─democracia_democracia brasileira pilar_democracia brasileira_fundamental democracia_democracia pilar
+          │         ├─democracia brasileira pilar_brasileira pilar_democracia brasileira_fundamental democracia brasileira
+          │         │    ├─■──democracia brasileira pilar_brasileira pilar_democracia brasileira_brasileira_democracia ── Topic: 23
+          │         │    └─■──fundamental democracia brasileira_fundamental democracia_democracia brasileira pilar_democracia bras ── Topic: 92
+          │         └─■──democracia_democracia pilar_fundamental democracia_democracia pilar democracia_democracia deve ── Topic: 0
+          └─democrático_democrática_Brasil_Estado democrático_democrático direito
+               ├─democrático_democrática_Estado democrático_democrático direito_Estado democrático direito
+               │    ├─democrático_Estado democrático_democrático direito_Estado democrático direito_democrática
+               │    │    ├─Estado democrático_democrático direito_Estado democrático direito_democrático_democrático direito pi
+               │    │    │    ├─■──democrático direito pilar_Estado democrático direito pilar_pilar Estado democrático_pilar Estado dem ── Topic: 37
+               │    │    │    └─■──democrático_democrática_Estado democrático_Estado democrático direito_democrático direito ── Topic: 10
+               │    │    └─■──democrática_democrática documento_democrático_democráticas documento_ordem democrática documento ── Topic: 38
+               │    └─democrático_democrática marco_democrática_avanço democrático_marco democrático
+               │         ├─■──democrático_avanço democrático_marco democrático_representa avanço democrático_democrática ── Topic: 24
+               │         └─■──democrática marco_marco estabilidade democrática_estabilidade democrática_democrática_democrático ma ── Topic: 70
+               └─Brasil marco_redemocratização_Brasil foi_redemocratização Brasil_Brasil marco importante
+                    ├─Brasil marco_história_história Brasil_Brasil foi_Brasil marco importante
+                    │    ├─■──democráticas Brasil_democrática Brasil_democrática_transição democrática_transição democrática Brasi ── Topic: 77
+                    │    └─Brasil marco_história Brasil_Brasil marco importante_importante história_brasileiro
+                    │         ├─■──Brasil_Brasil marco_brasileiro_Brasil foi_brasileira ── Topic: 6
+                    │         └─■──história_história Brasil_Brasil marco importante_importante história_importante história Brasil ── Topic: 101
+                    └─■──redemocratização_marco redemocratização_redemocratização Brasil_redemocratização Brasil marco_Brasil ── Topic: 88
 

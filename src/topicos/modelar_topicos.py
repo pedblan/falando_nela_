@@ -13,11 +13,17 @@ import openai
 client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 from typing import Tuple, List, Optional, Dict, Any, Union
 from io import StringIO
+import spacy
 
-CAMINHO_BANCO = "../../DiscursosSenadores_02_05_2025_analisado.sqlite"
+CAMINHO_BANCO = "../DiscursosSenadores_02_05_2025_analisado.sqlite"
 
-colunas = ["Indexacao"]
+colunas = ["AvalCombinado", "AvalConclusao", "AvalImplicacao",
+            "AvalPredicacao", "AvalTrecho", "NormCombinado",
+           "NormConclusao", "NormImplicacao", "NormPredicacao", "NormTrecho",
+           "SumarioConstituicao", "TextoResumo"]
 
+
+import spacy
 
 def carregar_dados() -> pd.DataFrame:
     """
@@ -202,6 +208,8 @@ def treinar_vetorizador() -> CountVectorizer:
     Returns:
         CountVectorizer: Vetorizador configurado.
     """
+
+
     stopwords_extras = ["texto_vazio",
         "textovazio",
         "nenhuma",
@@ -210,6 +218,7 @@ def treinar_vetorizador() -> CountVectorizer:
         "não aplicável",
         "resposta não informada",
         "Por causa disso, o orador",
+        "Por causa disso, a oradora",
         "Por",
         "causa",
         "disso",
@@ -223,6 +232,9 @@ def treinar_vetorizador() -> CountVectorizer:
         "do",
         "em",
         "ao",
+        "de",
+                        "no",
+                        "na",
         "dos",
         "das",
         "da",
@@ -260,10 +272,18 @@ def treinar_vetorizador() -> CountVectorizer:
         "conforme estabelecido",
         "estabelece",
         "art",
+        "arts",
         "implícito",
         "Implícito",
         "orador",
-        "oradora"
+        "oradora",
+                        "Constituição",
+                        "estabelece",
+                        "assegura",
+                        "garante",
+                        "assinala",
+                        "arrola",
+                        "determina"
     ]
 
     vectorizer_model = CountVectorizer(
@@ -664,13 +684,13 @@ def fluxo(coluna):
     except:
         print(f"Erro ao visualizar os resultados para a coluna {coluna}!")
 
-    print("\n[5/5] Redução de tópicos e exportação final:")
-    try:
-        reduzir_topicos(topic_model, docs_validados)
-        lista_topicos(topic_model)
-        salvar_resultados(topic_model, df_valido, docs_validados, probs, coluna, reduzido=True)
-    except:
-        print(f"Erro ao reduzir os tópicos para a coluna {coluna}!")
+    #print("\n[5/5] Redução de tópicos e exportação final:")
+    #try:
+    #    reduzir_topicos(topic_model, docs_validados)
+    #    lista_topicos(topic_model)
+    #    salvar_resultados(topic_model, df_valido, docs_validados, probs, coluna, reduzido=True)
+    #except:
+    #    print(f"Erro ao reduzir os tópicos para a coluna {coluna}!")
 
     print("\n✅ Pipeline finalizado com sucesso!\n")
 

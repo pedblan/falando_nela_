@@ -1,106 +1,104 @@
 .
-├─terras_educação_Estados_União_terras indígenas
-│    ├─Municípios_petróleo_Estados Municípios_royalties_de recursos
-│    │    ├─■──petróleo_royalties_do petróleo_dos royalties_royalties do ── Topic: 21
-│    │    └─Municípios_os Municípios_Estados Municípios_de recursos_municípios
-│    │         ├─■──Municípios_os Municípios_Estados Municípios_autonomia_de recursos ── Topic: 4
-│    │         └─■──saúde pública_para saúde_líquida_da Emenda_corrente líquida ── Topic: 45
-│    └─terras_educação_terras indígenas_do Estado_dever do Estado
-│         ├─educação_Educação_da educação_ensino_que educação
-│         │    ├─■──gastos públicos_de gastos_teto de gastos_públicos_os gastos públicos ── Topic: 33
-│         │    └─educação_Educação_da educação_que educação_educação para
-│         │         ├─■──educação_em educação_para educação_de investimento_educação saúde ── Topic: 42
-│         │         └─■──educação_que educação_Educação_educação para_dever do Estado ── Topic: 15
-│         └─terras_indígenas_saúde_terras indígenas_de terras
-│              ├─dever_do Estado_dever do Estado_dever do_que Estado
-│              │    ├─■──crianças_adolescentes_crianças adolescentes_família_adolescente ── Topic: 25
-│              │    └─saúde_dever do Estado_dever_do Estado_acesso
-│              │         ├─acesso_SUS_dever do Estado_universal_dever
-│              │         │    ├─■──cidadãos_propriedade_deficiência_direitos fundamentais_Constituição garante ── Topic: 14
-│              │         │    └─■──SUS_dever do Estado_acesso_universal_dever ── Topic: 7
-│              │         └─■──segurança pública_que segurança pública_segurança pública dever_pública dever_da segurança pública ── Topic: 40
-│              └─■──terras_indígenas_terras indígenas_de terras_de terras indígenas ── Topic: 6
-└─impeachment_Tribunal_de impeachment_processo de_Supremo Tribunal
-     ├─impeachment_Tribunal_de impeachment_Tribunal Federal_Supremo Tribunal
-     │    ├─impeachment_de impeachment_Tribunal_Supremo Tribunal_Tribunal Federal
-     │    │    ├─impeachment_de impeachment_Tribunal_processo de impeachment_Supremo Tribunal
-     │    │    │    ├─impeachment_de impeachment_Tribunal_processo de impeachment_Tribunal Federal
-     │    │    │    │    ├─Tribunal_Tribunal Federal_Supremo Tribunal_Supremo Tribunal Federal_Ministério Público
-     │    │    │    │    │    ├─Tribunal_Tribunal Federal_Supremo Tribunal_Supremo Tribunal Federal_do Supremo
-     │    │    │    │    │    │    ├─■──nada melhor_que discutir_melhor do que_melhor do_em julgado ── Topic: 43
-     │    │    │    │    │    │    └─Tribunal_Supremo_Tribunal Federal_Supremo Tribunal_Supremo Tribunal Federal
-     │    │    │    │    │    │         ├─Tribunal_Supremo_Tribunal Federal_Supremo Tribunal_Supremo Tribunal Federal
-     │    │    │    │    │    │         │    ├─■──processo legal_devido processo legal_devido processo_legal_judicial ── Topic: 20
-     │    │    │    │    │    │         │    └─■──Tribunal_Supremo_Tribunal Federal_Supremo Tribunal_Supremo Tribunal Federal ── Topic: 3
-     │    │    │    │    │    │         └─■──os Poderes_harmonia_independentes_independência_entre os Poderes ── Topic: 19
-     │    │    │    │    │    └─Ministério Público_Ministério_Público_do Ministério Público_do Ministério
-     │    │    │    │    │         ├─■──Ministério Público_Público_do Ministério Público_do Ministério_que Ministério Público ── Topic: 29
-     │    │    │    │    │         └─■──Armadas_Forças Armadas_Forças_as Forças Armadas_as Forças ── Topic: 47
-     │    │    │    │    └─impeachment_de impeachment_processo de impeachment_crime_crime de responsabilidade
-     │    │    │    │         ├─■──vai conseguir_vacância_terceiro mandato_esperança para_possível se ── Topic: 30
-     │    │    │    │         └─impeachment_de impeachment_processo de impeachment_de responsabilidade_crime
-     │    │    │    │              ├─■──impeachment_de impeachment_processo de impeachment_de responsabilidade_crime ── Topic: 1
-     │    │    │    │              └─■──crédito_de crédito_autorização_créditos_abertura de crédito ── Topic: 28
-     │    │    │    └─meio ambiente_publicidade_público_públicos_do art
-     │    │    │         ├─■──rádio_de rádio_comunicações_telecomunicações_televisão ── Topic: 49
-     │    │    │         └─meio ambiente_publicidade_público_moralidade_do art
-     │    │    │              ├─publicidade_moralidade_público_tributária_Lei de
-     │    │    │              │    ├─■──tributária_tributário_sistema tributário_reforma tributária_tributos ── Topic: 24
-     │    │    │              │    └─publicidade_moralidade_público_Lei de_impessoalidade
-     │    │    │              │         ├─competência_Lei_do art_fiscalizar_fiscal
-     │    │    │              │         │    ├─■──competência_do art_da União_Projeto de_do art da ── Topic: 11
-     │    │    │              │         │    └─■──fiscalizar_fiscal_fiscalização_Fiscal_Responsabilidade ── Topic: 10
-     │    │    │              │         └─■──publicidade_moralidade_Pública_público_administração pública ── Topic: 8
-     │    │    │              └─■──ambiente_meio ambiente_ambiental_ao meio ambiente_equilibrado ── Topic: 23
-     │    │    └─liberdade_liberdade de_de expressão_liberdade de expressão_manifestação
-     │    │         ├─liberdade_liberdade de_de expressão_liberdade de expressão_manifestação
-     │    │         │    ├─■──parlamentares_palavras votos_opiniões palavras_opiniões palavras votos_imunidade ── Topic: 26
-     │    │         │    └─■──liberdade_liberdade de_de expressão_liberdade de expressão_manifestação ── Topic: 13
-     │    │         └─■──ir vir_ir_de ir vir_direito de ir_direito de ir vir ── Topic: 50
-     │    └─medidas provisórias_medidas_medida provisória_medida_de medidas provisórias
-     │         ├─CPI_Regimento_voto secreto_CPIs_Regimento Interno
-     │         │    ├─■──CPI_CPIs_uma CPI_de uma CPI_minoria ── Topic: 18
-     │         │    └─Regimento_secreto_voto secreto_Regimento Interno_Interno
-     │         │         ├─■──Regimento_Regimento Interno_Interno do Senado_Regimento Interno do Senado_Interno do ── Topic: 31
-     │         │         └─■──voto_secreto_voto secreto_voto aberto_votação ── Topic: 36
-     │         └─medidas provisórias_medidas_medida provisória_medida_de medidas provisórias
-     │              ├─medidas provisórias_medidas_medida provisória_de medidas provisórias_de medidas
-     │              │    ├─■──de emenda_emenda Constituição_emendas_de emenda Constituição_proposta de emenda ── Topic: 52
-     │              │    └─medidas provisórias_medidas_medida provisória_medida_de medidas provisórias
-     │              │         ├─■──Deputados_dos Deputados_Câmara dos_Câmara dos Deputados_Casa ── Topic: 44
-     │              │         └─■──medidas provisórias_medidas_medida provisória_medida_de medidas provisórias ── Topic: 5
-     │              └─■──vetos_veto_vetos presidenciais_presidenciais_os vetos ── Topic: 35
-     └─levando_Brasil_trabalhadores_igualdade_democracia
-          ├─Roraima_de Roraima_do Amapá_Território_transposição
-          │    ├─■──servidores_de Rondônia_dos servidores_Territórios_Roraima ── Topic: 41
-          │    └─■──Roraima_de Roraima_do Amapá_transformação_Estado de Roraima ── Topic: 27
-          └─levando_Brasil_trabalhadores_desigualdades_igualdade
-               ├─democracia_Brasil_democrático_da Constituição de_implica que Constituição
-               │    ├─povo_do povo_popular_emana do povo_emana do
-               │    │    ├─■──do povo_emana do_emana do povo_poder emana do povo_poder emana do ── Topic: 32
-               │    │    └─■──iniciativa popular_participação_participação popular_iniciativa_de iniciativa popular ── Topic: 51
-               │    └─democrático_da Constituição de_implica que Constituição_democrática_no Brasil
-               │         ├─Brasil_democrático_da Constituição de_implica que Constituição_democrática
-               │         │    ├─■──partidos políticos_reforma política_reforma_políticos_político ── Topic: 46
-               │         │    └─democrático_da Constituição de_implica que Constituição_democrática_do Brasil
-               │         │         ├─■──da Constituição de_democracia_implica que Constituição_no Brasil_do Brasil ── Topic: 2
-               │         │         └─■──democracia_democrático_Estado democrático_democrático de_democrático de direito ── Topic: 17
-               │         └─■──orador destaca importância de_destaca importância de_Brasil_disso orador sugere que_orador sugere qu ── Topic: 22
-               └─levando_trabalhadores_desigualdades_igualdade_regionais
-                    ├─levando_trabalhadores_trabalhistas_trabalho_dos trabalhadores
-                    │    ├─trabalhadores_mínimo_trabalhistas_trabalho_dos trabalhadores
-                    │    │    ├─■──salário mínimo_mínimo_do salário mínimo_do salário_que salário mínimo ── Topic: 37
-                    │    │    └─■──levando_trabalhadores_trabalhistas_trabalho_direitos trabalhistas ── Topic: 12
-                    │    └─social_cláusula pétrea_cláusula_pétreas_cláusulas pétreas
-                    │         ├─■──cláusula pétrea_cláusula_pétreas_cláusulas pétreas_maioridade ── Topic: 39
-                    │         └─■──social_seguridade_seguridade social_Seguridade Social_assistência social ── Topic: 48
-                    └─desigualdades_igualdade_regionais_desigualdades regionais_Franca
-                         ├─desigualdades_igualdade_regionais_desigualdades regionais_Franca
-                         │    ├─■──Zona_Franca_Zona Franca_Zona Franca de Manaus_Zona Franca de ── Topic: 38
-                         │    └─desigualdades_igualdade_desigualdades regionais_as desigualdades_iguais perante
-                         │         ├─desigualdades_igualdade_desigualdades regionais_as desigualdades_iguais perante
-                         │         │    ├─■──igualdade_iguais perante_iguais perante lei_são iguais_igualdade de ── Topic: 9
-                         │         │    └─■──desigualdades_desigualdades regionais_das desigualdades_as desigualdades regionais_objetivos ── Topic: 16
-                         │         └─■──integração_Brasil_Latina_América Latina_que Brasil ── Topic: 34
-                         └─■──____ ── Topic: 0
+├─impeachment_processo_Tribunal_Tribunal Federal_Supremo Tribunal
+│    ├─medidas provisórias_medidas_urgência_medida provisória_medida
+│    │    ├─medidas provisórias_medidas_medida provisória_medida_vetos
+│    │    │    ├─■──vetos_veto_vetos presidenciais_presidenciais_votação ── Topic: 33
+│    │    │    └─medidas provisórias_medidas_medida provisória_provisória_medida
+│    │    │         ├─■──Deputados_Câmara Deputados_Casa_Casas_processo legislativo ── Topic: 44
+│    │    │         └─■──medidas provisórias_provisórias_medida provisória_provisória_medida ── Topic: 5
+│    │    └─Regimento_secreto_voto secreto_Regimento Interno_votação
+│    │         ├─Regimento_secreto_voto secreto_Regimento Interno_votação
+│    │         │    ├─■──Regimento_Regimento Interno_Regimento Interno Senado_Interno Senado_regimentais ── Topic: 28
+│    │         │    └─■──secreto_voto secreto_voto aberto_votações_transparência ── Topic: 35
+│    │         └─■──emendas_propostas emenda_proposta emenda_propostas_processo legislativo ── Topic: 49
+│    └─impeachment_processo_Tribunal_Supremo Tribunal_Tribunal Federal
+│         ├─impeachment_processo_Tribunal_processo impeachment_responsabilidade
+│         │    ├─impeachment_processo_Tribunal_processo impeachment_Tribunal Federal
+│         │    │    ├─Poderes_CPI_Ministério Público_Público_Ministério
+│         │    │    │    ├─Ministério Público_Público_publicidade_moralidade_Pública
+│         │    │    │    │    ├─■──Ministério Público_Ministério_Público_implica Ministério Público_Ministério Público tem ── Topic: 30
+│         │    │    │    │    └─■──publicidade_moralidade_público_administração pública_Pública ── Topic: 8
+│         │    │    │    └─CPI_investigar_fiscalizar_fiscalização_CPIs
+│         │    │    │         ├─CPI_fiscalizar_fiscalização_CPIs_fiscal
+│         │    │    │         │    ├─■──CPI_CPIs_instalação_instalação CPI_Comissão Parlamentar ── Topic: 17
+│         │    │    │         │    └─■──fiscalizar_fiscalização_Fiscal_fiscal_Responsabilidade ── Topic: 12
+│         │    │    │         └─■──harmonia_entre Poderes_independência_harmônicos_harmonia entre ── Topic: 18
+│         │    │    └─impeachment_Tribunal_processo impeachment_Tribunal Federal_Supremo Tribunal
+│         │    │         ├─impeachment_processo_Tribunal_processo impeachment_Tribunal Federal
+│         │    │         │    ├─■──crédito_autorização_créditos_abertura crédito_crédito suplementar ── Topic: 31
+│         │    │         │    └─impeachment_Tribunal_processo impeachment_Tribunal Federal_Supremo Tribunal
+│         │    │         │         ├─impeachment_processo impeachment_crime responsabilidade_responsabilidade_Presidenta
+│         │    │         │         │    ├─■──impeachment_processo impeachment_crime responsabilidade_crime_responsabilidade ── Topic: 1
+│         │    │         │         │    └─■──processo legal_devido processo legal_devido processo_legal_judicial ── Topic: 19
+│         │    │         │         └─■──Tribunal_Supremo_Tribunal Federal_Supremo Tribunal_Supremo Tribunal Federal ── Topic: 3
+│         │    │         └─■──vai conseguir_vai_terceiro mandato_vacância_mais seja ── Topic: 29
+│         │    └─democracia_democrático_Brasil_poder emana povo_democrática
+│         │         ├─democracia_Brasil_democrático_democrática_Estado democrático
+│         │         │    ├─■──Brasil_inclusão_social_nacional_evitar ── Topic: 21
+│         │         │    └─democracia_democrático_Brasil_democrática_Estado democrático
+│         │         │         ├─■──Brasil_democracia_democrático_social_democrática ── Topic: 2
+│         │         │         └─■──democrático_democracia_Estado democrático_democrático direito_Estado democrático direito ── Topic: 13
+│         │         └─povo_popular_emana povo_poder emana povo_poder emana
+│         │              ├─■──popular_iniciativa popular_iniciativa_participação popular_projetos iniciativa popular ── Topic: 50
+│         │              └─■──povo_emana povo_poder emana povo_representantes_todo poder emana ── Topic: 32
+│         └─terras_indígenas_terras indígenas_desigualdades_liberdade
+│              ├─terras_indígenas_terras indígenas_desigualdades_demarcação
+│              │    ├─terras_indígenas_terras indígenas_demarcação_demarcação terras
+│              │    │    ├─■──____ ── Topic: 0
+│              │    │    └─terras_indígenas_terras indígenas_demarcação_demarcação terras
+│              │    │         ├─nada melhor_trânsito julgado_trânsito_pétrea_cláusula pétrea
+│              │    │         │    ├─■──nada_trânsito julgado_trânsito_prisão_julgado sentença ── Topic: 42
+│              │    │         │    └─■──pétrea_cláusula pétrea_cláusula_pétreas_cláusulas pétreas ── Topic: 40
+│              │    │         └─terras_indígenas_terras indígenas_demarcação_demarcação terras
+│              │    │              ├─■──terras_indígenas_terras indígenas_demarcação terras_demarcação terras indígenas ── Topic: 6
+│              │    │              └─■──Forças Armadas_Armadas_lei ordem_implica Forças Armadas_implica Forças ── Topic: 46
+│              │    └─desigualdades_regionais_desigualdades regionais_Zona Franca Manaus_desenvolvimento
+│              │         ├─desigualdades regionais_reduzir desigualdades_desigualdades sociais_Brasil_redução desigualdades
+│              │         │    ├─■──integração_Latina_América Latina_Brasil deve_implica Brasil ── Topic: 38
+│              │         │    └─■──desigualdades_desigualdades regionais_objetivos_reduzir desigualdades_desigualdades sociais ── Topic: 16
+│              │         └─■──Zona_Franca_Zona Franca_Zona Franca Manaus_incentivos fiscais ── Topic: 37
+│              └─liberdade_liberdade expressão_manifestação_parlamentares_direito ir vir
+│                   ├─liberdade_liberdade expressão_manifestação_parlamentares_palavras
+│                   │    ├─■──parlamentares_palavras_parlamentar_imunidade_imunidade parlamentar ── Topic: 24
+│                   │    └─■──liberdade_liberdade expressão_manifestação_liberdade imprensa_pensamento ── Topic: 14
+│                   └─■──ir vir_direito ir vir_vir implica_ir vir implica_direito ir vir implica ── Topic: 51
+└─Estados_educação_União_levando_trabalhadores
+     ├─Roraima_Rondônia_Território_Territórios_Roraima Amapá
+     │    ├─■──transformação_Estado Roraima_Roraima Amapá_Roraima Estado_autonomia política ── Topic: 27
+     │    └─■──servidores_transposição servidores_Territórios_Amapá_servidores ex ── Topic: 41
+     └─educação_Estados_levando_trabalhadores_igualdade
+          ├─Municípios_Estados_Estados Municípios_petróleo_distribuição
+          │    ├─ambiente_meio ambiente_ambiental_tributária_inciso
+          │    │    ├─■──ambiente_meio ambiente_ambiental_equilibrado_ambientais ── Topic: 22
+          │    │    └─competência_tributária_tributário_tributos_legislativa
+          │    │         ├─competência_Projeto_legislativa_matéria_competência legislativa
+          │    │         │    ├─■──rádio_Internet_comunicações_telecomunicações_televisão ── Topic: 48
+          │    │         │    └─■──competência_Projeto_legislativa_matéria_competência legislativa ── Topic: 9
+          │    │         └─■──tributária_tributário_sistema tributário_reforma tributária_tributos ── Topic: 25
+          │    └─Estados_petróleo_Estados Municípios_distribuição_royalties
+          │         ├─Estados Municípios_autonomia_federativo_distribuição_Distrito Federal
+          │         │    ├─■──saúde pública_líquida_percentual_recursos saúde_saúde implica ── Topic: 47
+          │         │    └─■──Municípios_Estados_Estados Municípios_autonomia_federativo ── Topic: 4
+          │         └─■──petróleo_royalties_distribuição_distribuição royalties_royalties petróleo ── Topic: 20
+          └─educação_levando_igualdade_dever Estado_acesso
+               ├─educação_igualdade_dever Estado_implica Estado_iguais
+               │    ├─educação_Educação_educação direito_ensino_gastos públicos
+               │    │    ├─■──gastos públicos_teto gastos_públicos_saúde educação_teto gastos públicos ── Topic: 34
+               │    │    └─educação_Educação_educação direito_ensino_educacional
+               │    │         ├─■──educação_investimento_aplicação_educação implica_investir ── Topic: 43
+               │    │         └─■──educação_educação direito_Educação_dever Estado_educacional ── Topic: 15
+               │    └─igualdade_dever Estado_perante_iguais_implica Estado
+               │         ├─igualdade_iguais_iguais perante_iguais perante lei_adolescentes
+               │         │    ├─■──igualdade_perante_iguais_iguais perante_iguais perante lei ── Topic: 10
+               │         │    └─■──adolescentes_crianças adolescentes_adolescente_criança adolescente_família ── Topic: 26
+               │         └─dever Estado_dever_SUS_segurança pública_implica Estado
+               │              ├─SUS_dever Estado_direito todos_saúde direito todos_direito saúde
+               │              │    ├─■──social_seguridade_seguridade social_assistência_assistência social ── Topic: 45
+               │              │    └─SUS_dever Estado_direito todos_saúde direito todos_direito saúde
+               │              │         ├─■──SUS_universal_saúde direito todos_direito saúde_todos dever Estado ── Topic: 7
+               │              │         └─■──cidadãos_cidadão_propriedade_direitos fundamentais_garantias ── Topic: 23
+               │              └─■──segurança pública_segurança pública dever_pública dever_pública dever Estado_segurança pública dever ── Topic: 39
+               └─levando_trabalhadores_mínimo_trabalhistas_trabalho
+                    ├─■──levando_trabalhadores_trabalhistas_trabalho_direitos trabalhistas ── Topic: 11
+                    └─■──salário mínimo_salário_mínimo_mínimo deve_salário mínimo deve ── Topic: 36
 
